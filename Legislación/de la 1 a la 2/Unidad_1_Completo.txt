@@ -1,0 +1,190 @@
+=================================
+UNIDAD 1 - LEGISLACIÓN
+=================================
+
+Art. 1 de la Constitución
+La Nación Argentina adopta para su gobierno la forma representativa, republicana y federal, según lo establece la presente Constitución.
+
+=================================
+Formas de Gobierno de la Nación Argentina
+=================================
+Representativa:
+Implica que el pueblo se gobierna a sí mismo, pero a través de sus representantes. Es decir, que el gobierno actúa representando al pueblo que lo eligió.
+
+Republicana:
+La palabra “república” deriva del latín “res-publĭca”, que significa la cosa pública.  
+“Una República es una sociedad organizada en base a la igualdad de todos los hombres, cuyo gobierno es simple agente del pueblo, elegido por el pueblo de tiempo en tiempo y responsable ante el pueblo por su administración.” (Aristóbulo del Valle).  
+Asegura la distribución de competencias entre distintos organismos a nivel nacional, provincial y municipal.  
+Sus requisitos esenciales son: igualdad ante la ley, elección popular de las autoridades, división de poderes gubernativos, periodicidad de los mandatos, responsabilidad de los funcionarios públicos, publicidad de los actos de gobierno.
+
+Federal:
+Un país adopta la forma federal cuando está compuesto por entidades autónomas denominadas “provincias”.  
+Las provincias son Estados Autónomos independientes entre sí, pero no son soberanos, ya que la soberanía la delegan en el Gobierno Central.
+
+=================================
+El Poder Legislativo
+=================================
+Es aquel que tiene a su cargo la elaboración y sanción de las normas jurídicas.  
+En nuestro país el Poder Legislativo es ejercido por el Congreso Nacional (art. 44).  
+
+El Congreso Nacional es un órgano estatal, compuesto por dos cámaras, cuya función primordial es ejercer la función legislativa (sancionar leyes).  
+Este órgano presenta las siguientes características:  
+a) Es bicameral porque está compuesto por dos Cámaras.  
+b) Es colegiado porque está compuesto por varios individuos.  
+c) Es complejo porque tanto la Cámara de Senadores como la de Diputados tienen calidad de órgano, es decir, que el Congreso es un órgano, que a su vez está compuesto por dos órganos (las Cámaras).  
+
+El Congreso no sólo ejerce funciones legislativas, sino que en algunos casos excepcionales también ejerce funciones judiciales (ej: juicio político) y administrativas (relacionadas con su organización interna).  
+
+Nuestro Congreso es bicameral; está compuesto por la “Cámara de Senadores” y la “Cámara de Diputados” que sesionan en forma separada.  
+El bicameralismo tiene su origen en la Constitución de Filadelfia, Estados Unidos de 1787. Allí, los Estados pequeños pedían voto igualitario para cada Estado, mientras que los grandes querían que el número de representantes fuera proporcional a la población.  
+
+=================================
+Cámara de Diputados
+=================================
+La Cámara de Diputados representa al pueblo de la Nación.  
+Está integrada por miembros pertenecientes a cada provincia y a la Ciudad de Buenos Aires.  
+
+Artículo 45: “El número de representantes será de uno por cada treinta mil habitantes o fracción que no baje de dieciséis mil quinientos”.  
+Los Diputados son elegidos directamente por el pueblo mediante el voto. Los ciudadanos votan listas de candidatos que deben cubrir los cargos disponibles.  
+
+Las provincias, la Ciudad de Buenos Aires y la Capital son distritos electorales de un solo Estado. Esto significa que, aunque existan 24 distritos, cada diputado electo representa a la totalidad de la población.  
+
+Requisitos (Art. 48):  
+- Tener 25 años de edad.  
+- Ser argentino nativo o naturalizado.  
+- Tener 4 años de ciudadanía en ejercicio.  
+- Ser nativo de la provincia en la que se postula o tener 2 años de residencia inmediata en ella.  
+
+Duración: Cada diputado dura en su cargo 4 años y puede ser reelegido indefinidamente.  
+Renovación: Cada 2 años se renueva la mitad de la Cámara de Diputados (Art. 50). En la primera legislatura, un sorteo definió qué diputados durarían solo 2 años.  
+
+=================================
+Cámara de Senadores
+=================================
+La Cámara de Senadores representa a las provincias y a la Ciudad de Buenos Aires.  
+Está compuesta por tres senadores por cada provincia y tres por la Ciudad de Buenos Aires, totalizando 72.  
+
+La elección es directa: los ciudadanos votan a los candidatos.  
+
+Requisitos (Art. 55):  
+- Tener 30 años de edad.  
+- Ser argentino nativo o naturalizado.  
+- Tener 6 años de ciudadanía en ejercicio.  
+- Ser nativo de la provincia en la que se postula o tener 2 años de residencia inmediata en ella.  
+
+Duración: 6 años, con posibilidad de reelección indefinida (Art. 56).  
+Renovación: Cada 2 años se renueva un tercio de la Cámara.  
+Presidencia: El Presidente de la Cámara de Senadores es el Vicepresidente de la Nación (Art. 57). Además, se nombra un Presidente Provisorio del Senado para sustituir al Vicepresidente o incluso al Presidente de la Nación en caso de acefalía.  
+
+=================================
+Sesiones del Congreso
+=================================
+Cada Cámara se reúne periódicamente en su recinto. Ambas deben iniciar y concluir sesiones en forma simultánea (Art. 65).  
+Ninguna puede suspender sus sesiones por más de 3 días sin consentimiento de la otra.  
+
+Clases de sesiones:  
+- De inicio o preparatorias: Trámites administrativos previos (no están en la Constitución, sino en reglamentos internos).  
+- Ordinarias: Del 1 de marzo al 30 de diciembre. Funcionan con agenda abierta.  
+- Extraordinarias: Convocadas solo por el Presidente, con agenda cerrada para tratar temas específicos.  
+- De prórroga: Para terminar lo inconcluso en las ordinarias, convocadas por el Presidente o el Congreso.  
+
+Publicidad de sesiones: Según la forma republicana de gobierno, las sesiones deben ser públicas, salvo casos excepcionales.  
+
+=================================
+Quórum y Comisiones
+=================================
+El quórum es la cantidad de miembros presentes necesarios para sesionar. Se requiere mayoría absoluta (más de la mitad), según el Art. 64.  
+
+Comisiones: Grupos de legisladores que funcionan dentro de cada Cámara con diferentes funciones, creadas por reglamentos internos.  
+
+=================================
+Inmunidades y Privilegios
+=================================
+Privilegios Personales:  
+- Inmunidad de expresión.  
+- Inmunidad de arresto.  
+- Desafuero.  
+
+Privilegios Colectivos:  
+- Juicio de elecciones.  
+- Reglamentación interna.  
+- Poder disciplinario.  
+- Interpelación.  
+
+Incompatibilidades: Ciertos cargos que no pueden ejercer los miembros del Congreso: empleo o comisión del Poder Ejecutivo, eclesiásticos regulares, gobernadores de provincias.  
+
+=================================
+Juicio Político
+=================================
+Procedimiento mediante el cual el Congreso puede remover a ciertos funcionarios por causas establecidas en la Constitución.  
+
+- Cámara de Diputados: Acusa y presenta pruebas (actúa como fiscal).  
+- Cámara de Senadores: Juzga al funcionario acusado y dicta sentencia.  
+
+Funcionarios enjuiciables: Presidente, Vicepresidente, Jefe de Gabinete de Ministros, miembros de la Corte Suprema.  
+Causas: Mal desempeño, delitos en funciones, crímenes comunes.  
+
+=================================
+Atribuciones del Congreso
+=================================
+Las atribuciones se clasifican en:  
+1. Sanción de leyes.  
+2. Competencias incluidas en el Art. 75.  
+3. Competencias no incluidas en el Art. 75.  
+
+Etapas en la sanción de leyes:  
+- Iniciativa: Proyecto de ley presentado por Congreso, Ejecutivo o ciudadanos (Art. 39).  
+- Constitutiva: Sanción de la ley (Arts. 77 a 84). Exclusiva del Congreso.  
+- Eficacia: Promulgación y publicación en el Boletín Oficial. Exclusiva del Ejecutivo.  
+
+Cámara Iniciadora y Revisora:  
+- La Cámara Iniciadora recibe y aprueba el proyecto con “media sanción”.  
+- La Cámara Revisora lo estudia y aprueba.  
+
+Excepciones:  
+- Deben iniciarse en Diputados: leyes sobre contribuciones, reclutamiento, iniciativa popular, consulta popular.  
+- Deben iniciarse en Senadores: coparticipación federal, leyes demográficas.  
+
+Promulgación:  
+- Expresa: Decreto del Ejecutivo.  
+- Tácita: Automática si en 10 días el Ejecutivo no responde.  
+- Veto: Puede ser total o parcial. El veto puede ser rechazado con 2/3 en ambas Cámaras.  
+
+=================================
+Clases de leyes
+=================================
+- Normas de Derecho Común: Códigos Civil, Penal, Comercial, etc.  
+- Normas Federales: Materia de interés nacional (aduana, código electoral, etc.).  
+- Normas Locales: Dictadas para la Capital Federal (ya no aplicable).  
+- Delegación Legislativa (Art. 76): Prohibida, salvo en administración o emergencia pública, y por tiempo determinado.  
+
+=================================
+Competencias del Congreso (Art. 75)
+=================================
+- Códigos de fondo: Civil, Penal, Comercial, etc.  
+- Sistema Comercial: Comercio exterior e interprovincial.  
+- Navegación y Puertos: Reglamentación de ríos, habilitación de puertos, fijación de límites.  
+- Desarrollo y Progreso (Cláusula de Prosperidad): Bien común, industria, inmigración, educación, cultura.  
+- Creación de tribunales inferiores a la Corte Suprema.  
+- Relaciones Internacionales: Tratados internacionales.  
+- Poderes Militares: Guerra, paz, represalias, FF.AA., ingreso/salida de tropas.  
+- Renuncias: Presidente o Vicepresidente (aceptación por Congreso).  
+- Estado de sitio.  
+- Correos (fluvial, aéreo, terrestre).  
+- Amnistías generales.  
+- Economía y Finanzas: Impuestos, aduanas, deuda, presupuesto, moneda, bancos.  
+- Poderes Implícitos (inc. 32): Permite dictar leyes necesarias para ejercer competencias.  
+
+=================================
+Competencias no incluidas en Art. 75
+=================================
+1. Reforma de la Constitución (Art. 30): El Congreso debe declarar previamente la necesidad de reforma.  
+2. Determinación de la Capital Federal (Art. 3).  
+3. Expropiación (Art. 17): Debe declararse la utilidad pública.  
+4. Remuneraciones (Arts. 74, 92, 110): Legisladores, Presidente, Vicepresidente y Jueces.  
+5. Juramento del Presidente y Vicepresidente (Art. 93).  
+
+=================================
+Bibliografía
+=================================
+Guía de Estudio – Constitucional – 2008 – Capítulo 3 (pág. 27-29), 13 (pág. 157-161, 168), 14.

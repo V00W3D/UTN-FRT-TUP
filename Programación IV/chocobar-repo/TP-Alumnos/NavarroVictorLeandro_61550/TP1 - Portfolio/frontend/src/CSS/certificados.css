@@ -1,0 +1,59 @@
+/* ==========================================================
+   📜 CERTIFICADOS.CSS — Placeholder con estilo NebulaTech
+   ========================================================== */
+
+.certificados-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 20px 120px;
+  border-top: 1px solid var(--color-border);
+  position: relative;
+}
+
+.certificados-title {
+  font-size: clamp(1.8rem, 1.4rem + 1vw, 2.4rem);
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    var(--color-accent-1),
+    var(--color-accent-2)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.certificados-placeholder {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-left: 4px solid var(--color-accent-2);
+  border-radius: 18px;
+  padding: 2rem 3rem;
+  max-width: 700px;
+  text-align: center;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(12px) saturate(160%);
+  -webkit-backdrop-filter: blur(12px) saturate(160%);
+  animation: fadeInCert 0.9s ease forwards;
+}
+
+.certificados-placeholder p {
+  color: rgba(233, 213, 255, 0.8);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+@keyframes fadeInCert {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

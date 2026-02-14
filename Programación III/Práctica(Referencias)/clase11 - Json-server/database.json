@@ -1,0 +1,113 @@
+{
+  "productos": [
+    {
+      "nombre": "chocolate",
+      "cantidad": "300",
+      "precio": "2000",
+      "imagen": "https://thumbs.dreamstime.com/b/chocolate-54067353.jpg",
+      "id": "1"
+    },
+    {
+      "id": "c354",
+      "nombre": "arroz",
+      "cantidad": 2,
+      "precio": 1200,
+      "imagen": "https://media.istockphoto.com/id/153737841/es/foto/arroz.jpg?s=612x612&w=0&k=20&c=6NxZQds15vV4uM5gHWahsq9aXkdWwbiLaKp5U9vfUxM="
+    },
+    {
+      "nombre": "cigarrillos",
+      "cantidad": "50",
+      "precio": "3000",
+      "imagen": "https://www.shutterstock.com/image-photo/athens-greece-september-25th-2024-600nw-2522240743.jpg",
+      "id": "5666"
+    },
+    {
+      "id": "86ea",
+      "nombre": "caramelo",
+      "cantidad": 10,
+      "precio": 250,
+      "imagen": "https://img.freepik.com/vector-premium/icono-caramelo-envuelto-dulce-dibujos-animados-lamina-rosa_176411-4913.jpg"
+    },
+    {
+      "id": "b8fc",
+      "nombre": "caldos",
+      "cantidad": 12,
+      "precio": 200,
+      "imagen": "https://assets.unileversolutions.com/v1/86060664.png"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "raul",
+      "password": "1234",
+      "rol": "admin",
+      "email": ""
+    },
+    {
+      "id": "2",
+      "usuario": "carla",
+      "password": "222",
+      "rol": "user",
+      "email": ""
+    },
+    {
+      "id": "3",
+      "usuario": "Ismael",
+      "password": "isma1234",
+      "rol": "user",
+      "email": ""
+    },
+    {
+      "id": "a22b",
+      "usuario": "pepito",
+      "password": "123456",
+      "email": "pepito@gmail.com"
+    },
+    {
+      "id": "9d23",
+      "usuario": "monica",
+      "password": "moni1234",
+      "email": "moni@gmail",
+      "rol": "user"
+    },
+    {
+      "id": "26ec",
+      "usuario": "ramiro",
+      "password": "1234",
+      "email": "ramiro@gmail.com",
+      "rol": "user"
+    },
+    {
+      "id": "b343",
+      "usuario": "asd",
+      "password": "asd",
+      "email": "asd@asd",
+      "rol": "user"
+    },
+    {
+      "id": "ee3c",
+      "usuario": "asd",
+      "password": "asd",
+      "email": "asd@asd",
+      "rol": "user"
+    },
+    {
+      "id": "624e",
+      "usuario": "asd",
+      "password": "asd",
+      "email": "asd@asd",
+      "rol": "user"
+    },
+    {
+      "id": "e863",
+      "usuario": "asd",
+      "password": "asd",
+      "email": "asd@asd",
+      "rol": "user"
+    }
+  ],
+  "clientes": [],
+  "proveedores": [],
+  "cadetes": []
+}

@@ -1,0 +1,12 @@
+[   
+{
+    "nombre": "user1",
+    "imagen": "https://external-preview.redd.it/dHxLBb_zGQfn3ow1p6OAyDluU1F9yvOFEOkg16D_T14.jpg?width=1080&crop=smart&auto=webp&s=a69ca3d8f298ec0d9d9a5a4ddb2bb5f4a4f0f7de",
+    "disponible": true
+},
+{
+    "nombre": "user2",
+    "imagen": "https://pbs.twimg.com/profile_images/1462021134539493379/_XpX7TGx_400x400.jpg",
+    "disponible": true
+}
+]

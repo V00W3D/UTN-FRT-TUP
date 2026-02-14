@@ -1,0 +1,380 @@
+\=================================
+PODER JUDICIAL — CONCEPTO
+=========================
+
+Es el conjunto de órganos encargado de llevar a cabo la “administración de justicia” o “función jurisdiccional”.
+Está integrado por la Corte Suprema de Justicia, los demás jueces y tribunales de diferentes instancias, el Consejo de la Magistratura y el Jurado de Enjuiciamiento.
+
+\=================================
+ORIGEN DEL PODER JUDICIAL
+=========================
+
+Primera mitad del Siglo XVIII:
+
+* Montesquieu expone y establece la teoría de la División de Poderes en la mayoría de los países.
+* Se desarrollan 2 teorías: la Corriente Francesa y la Corriente Norteamericana.
+
+Corriente Francesa (Revolución Francesa):
+
+* Le asigna al Poder Judicial la facultad de resolver controversias entre los particulares (sobre los actos del Poder Ejecutivo y Legislativo se encarga un órgano especial).
+* Se aplica sólo en Europa.
+
+Corriente Norteamericana (Revolución Norteamericana):
+
+* Le otorga amplias facultades al Poder Judicial (controla actos del Poder Ejecutivo y Legislativo).
+* Se aplica en casi todos los países de América.
+
+\=================================
+INDEPENDENCIA DEL PODER JUDICIAL — PAUTAS BÁSICAS
+=================================================
+
+El Poder Judicial es independiente de los otros poderes; así se busca garantizar imparcialidad.
+
+Pautas básicas para lograr la independencia:
+
+* **Inamovilidad de los jueces**
+
+  * Conservan su empleo mientras tengan buena conducta o hasta cumplir los 75 años de edad.
+  * Pierden su empleo por un “Jurado de Enjuiciamiento” o por Juicio Político.
+* **Intangibilidad de las remuneraciones**
+
+  * El sueldo de los jueces no puede ser disminuido.
+  * La remuneración está fijada por la ley; no puede reducirse, pero puede actualizarse en épocas de inflación.
+* **Prohibiciones (Decreto 1258/58)**
+
+  * Según el Decreto 1258/58, los jueces tienen prohibido ejercer ciertos cargos y realizar ciertas tareas incompatibles con su función.
+
+\=================================
+ESTRUCTURA DEL PODER JUDICIAL (ART. 108 CN)
+===========================================
+
+“El Poder Judicial de la Nación será ejercido por una Corte Suprema de Justicia y por los demás Tribunales inferiores que El Congreso estableciere en el territorio de la Nación”.
+
+* **Poder Judicial de la Nación**
+
+  * **Corte Suprema de Justicia**: ejerce la jefatura de todo el Poder Judicial (creada por la Constitución, art. 108).
+  * **Tribunales Inferiores**:
+
+    * Tribunales federales de 1ª instancia (juzgados) — creados por el Congreso.
+    * Tribunales federales de 2ª instancia (cámaras de apelaciones) — creados por el Congreso.
+
+Nota: el art. 108 se refiere sólo a la Justicia Federal. La organización de las justicias provinciales corresponde a las constituciones provinciales. En cada provincia coexisten tribunales federales y tribunales provinciales.
+
+\=================================
+CORTE SUPREMA DE JUSTICIA — COMPOSICIÓN, REQUISITOS Y DESIGNACIÓN
+=================================================================
+
+* Es el organismo más importante del Poder Judicial; se la considera “la cabeza” del Poder Judicial.
+* Es un organismo con rango constitucional (creada y regulada por la Constitución Nacional, art. 108).
+
+Composición de la Corte:
+
+* La Constitución no establece número fijo de miembros; se fijó por ley.
+* Actualmente (2024) rige la Ley 26.183.
+* Dispone que la Corte Suprema tenga 5 miembros (el quinto debe ser designado por el Presidente con acuerdo del Senado). (Referencia: art. 99, inc. 4).
+
+Requisitos:
+
+* Ser abogado argentino y haber ejercido la profesión durante 8 años.
+* Reunir los mismos requisitos que para ser Senador (edad, ciudadanía, etc.).
+
+Juramento:
+
+* Art. 112: los jueces deben prestar juramento ante el Presidente de la Corte y el Presidente de la Nación.
+
+Funciones especiales del Presidente de la Corte:
+
+* En juicio político al Presidente de la Nación, el Senado es presidido por el Presidente de la Corte (art. 59).
+* En caso de acefalía total del Poder Ejecutivo, el Presidente de la Corte Suprema puede llegar a ocupar transitoriamente el cargo de Presidente de la Nación (Ley de Acefalía).
+* El ingreso de un nuevo miembro a la Corte debe jurar ante el Presidente de la Corte (art. 112).
+
+Designación y remoción de los jueces de la Corte Suprema:
+
+* Designación: a cargo del Presidente de la Nación, con acuerdo de 2/3 partes de los miembros presentes del Senado.
+* Remoción: sólo posible mediante Juicio Político por mal desempeño, delito en ejercicio de sus funciones o crímenes comunes.
+
+\=================================
+TRIBUNALES INFERIORES — TIPOS, REQUISITOS, NOMBRAMIENTO Y REMOCIÓN
+==================================================================
+
+Son todos los juzgados y tribunales federales, excluida la Corte Suprema:
+
+* a) Tribunales federales de 1ª instancia (Juzgados).
+* b) Tribunales federales de 2ª instancia (Cámaras de Apelaciones). Estas Cámaras revisan sentencias definitivas dictadas por los Juzgados de 1ª instancia cuando se apela.
+
+Creación:
+
+* Son creados mediante ley y establecidos en distintos puntos del país.
+
+Requisitos para ser Juez:
+
+* **Jueces de 1ª instancia**
+
+  * Ser ciudadano argentino.
+  * Ser abogado con título de una universidad nacional.
+  * Tener 4 años de antigüedad como abogado.
+  * Tener 25 años de edad.
+* **Jueces de Cámara de Apelaciones**
+
+  * Ser ciudadano argentino.
+  * Tener título de abogado con validez nacional.
+  * Tener 6 años de ejercicio de la abogacía o de una función judicial que requiera ese título.
+  * Tener 30 años.
+
+Nombramiento:
+
+* El Consejo de la Magistratura realiza la preselección a través de concurso público.
+* El Consejo elige 3 candidatos y eleva la terna al Poder Ejecutivo.
+* El Poder Ejecutivo debe elegir a uno de esos 3 (no puede elegir a alguien fuera de la terna).
+* Para la aprobación del candidato elegido se necesita la aprobación del Senado (mayoría absoluta de los miembros presentes) en sesión pública.
+* Una vez que el Senado presta el acuerdo, se produce el nombramiento del nuevo juez.
+
+Remoción:
+
+* La remoción se lleva a cabo por un Jurado de Enjuiciamiento (composición detallada más adelante), por causales como mal desempeño, delito en ejercicio de funciones o crímenes comunes.
+* La decisión del Jurado de Enjuiciamiento sólo produce la remoción del juez.
+* Para ser juzgado civil o penalmente por hechos ilícitos, el juez debe ser sometido a los tribunales ordinarios.
+
+\=================================
+CONSEJO DE LA MAGISTRATURA — ATRIBUCIONES Y COMPOSICIÓN
+=======================================================
+
+* Órgano creado por la Reforma del 1994 y regulado por la Ley 24.937 (1999).
+* Forma parte del sistema del Poder Judicial y cumple funciones clave en selección y administración.
+
+Atribuciones:
+
+* Seleccionar (a través de concursos públicos) la terna de candidatos a Jueces Inferiores para presentarla al Presidente.
+* Administrar los recursos del Poder Judicial mediante reglamentos económicos y ejecutar su presupuesto.
+* Ejercer facultades disciplinarias sobre los jueces: apercibimientos, multas, etc.
+* Decidir la apertura del procedimiento para remover jueces, formulando la acusación correspondiente. También puede suspender al juez si lo considera necesario.
+* Dictar reglamentos sobre la organización judicial de los jueces inferiores.
+* Dictar los reglamentos necesarios para asegurar la independencia de los jueces y la efectiva administración de la justicia.
+
+Composición:
+
+* Integrado por 20 consejeros/as:
+
+  * El/la Presidente de la Corte Suprema de Justicia de la Nación.
+  * 4 jueces del Poder Judicial de la Nación.
+  * 8 legisladores nacionales (4 del Senado y 4 de la Cámara de Diputados).
+  * 4 abogados de la matrícula federal.
+  * 1 representante del Poder Ejecutivo Nacional.
+  * 2 representantes del ámbito científico y académico (profesores y juristas reconocidos).
+* Los miembros duran 4 años en sus cargos pudiendo ser reelectos con intervalos de un período.
+
+\=================================
+JURADO DE ENJUICIAMIENTO — COMPOSICIÓN Y PROCEDIMIENTO
+======================================================
+
+* Órgano cuyo propósito es juzgar a los jueces inferiores de la Nación para removerlos de su cargo (art. 115 CN).
+* Forma parte del sistema de control sobre la magistratura.
+
+Composición:
+
+* Se compone de 7 miembros:
+
+  * 2 jueces de cámara (uno del fuero federal del interior y otro de Capital Federal).
+  * 4 legisladores (2 por la Cámara de Senadores y 2 por la Cámara de Diputados).
+  * 1 abogado de la matrícula federal.
+* La presidencia del Jurado será ejercida después de que los 7 miembros voten.
+* Todos los miembros son elegidos por sorteo semestral público (diciembre y julio).
+* Por cada miembro titular se elige un suplente por igual procedimiento.
+* Los abogados elegidos deberán suspender sus matrículas federales durante el desempeño del cargo.
+* Cualquier miembro del Jurado puede ser removido por el voto de 3/4 partes de los miembros totales del cuerpo.
+* Las causales para la remoción del miembro son: mal desempeño o comisión de un delito durante el ejercicio de sus funciones.
+
+Procedimiento para remover jueces:
+
+1. El Consejo de la Magistratura abre el procedimiento acusando al juez que se quiere remover.
+2. Se le dan 10 días al juez acusado para que ejerza su defensa.
+3. Durante los 30 días siguientes se presentan pruebas.
+4. Una vez presentadas las pruebas, el Jurado de Enjuiciamiento debe decidir si destituye o no al juez. Tiene 20 días para emitir su pronunciamiento.
+
+* La decisión del Jurado sólo produce remoción; para ser juzgado civil o penalmente debe ser sometido a tribunales ordinarios.
+* El art. 115 establece que la decisión del Jurado es irrecurrible (no puede ser cuestionada ante la justicia).
+
+\=================================
+ÓRGANOS RELACIONADOS CON LA FUNCIÓN JURISDICCIONAL — MINISTERIO PÚBLICO
+=======================================================================
+
+* El Ministerio Público es un órgano independiente (no integra ninguno de los tres poderes).
+* Tiene autonomía funcional (no recibe instrucciones de ninguna autoridad) y autarquía financiera (administra sus propios fondos).
+* Composición: 1 Procurador General de la Nación, 1 Defensor General de la Nación y otros miembros elegidos por concurso público.
+* El Procurador y el Defensor son elegidos por el Poder Ejecutivo con acuerdo de 2/3 partes del Senado. Su remoción se realiza por Juicio Político.
+* Requisitos para ser miembro: ser ciudadano argentino, tener título de abogado con 8 años de antigüedad y cumplir los demás requisitos que exige la condición de senador.
+* El Ministerio Público se divide en:
+
+  * Ministerio Público Fiscal (jefatura: Procurador General de la Nación).
+  * Ministerio Público de la Defensa (jefatura: Defensor General de la Nación).
+
+Funciones del Ministerio Público:
+
+* Promover la actuación de la justicia en defensa de la legalidad y de los intereses generales de la sociedad.
+* Representar y defender el interés público.
+* Promover y ejercer la acción pública en las causas penales.
+* Intervenir en procesos de nulidad de matrimonio y divorcio, de filiación y en todo lo relacionado al estado civil y nombre de la persona.
+* Promover causas o asuntos conducentes a la protección de la persona y bienes de los menores cuando carecieren de asistencia o representación legal.
+
+Teoría del “4° Poder”:
+
+* El “Título Primero” de la Parte Orgánica de la Constitución se refiere al “Gobierno Federal”, dividido en 4 secciones: Poder Legislativo, Ejecutivo, Judicial y Ministerio Público.
+* A pesar de su independencia y autonomía funcional, no es suficiente para calificar al Ministerio Público como “el 4° Poder”.
+
+\=================================
+TRIBUNALES ADMINISTRATIVOS (JURISDICCIÓN ADMINISTRATIVA)
+========================================================
+
+* Son órganos dependientes del Poder Ejecutivo encargados de resolver controversias entre particulares y la Administración.
+* Aunque ejercen función jurisdiccional, no forman parte del Poder Judicial.
+* La Corte Suprema ha establecido que la Administración puede ejercer funciones decisorias siempre que sus decisiones sean recurribles ante el Poder Judicial.
+* Esto implica que:
+
+  * Los pronunciamientos de los Tribunales Administrativos nunca pueden ser definitivos o irreversibles.
+  * Ante esos pronunciamientos siempre se puede recurrir a los jueces del Poder Judicial para que realicen un control judicial suficiente.
+
+\=================================
+JUICIO POR JURADOS
+==================
+
+* El art. 24 de la Constitución dispone que el Congreso establecerá el “Juicio por Jurados”.
+* Consiste en que un cuerpo popular (generalmente 12 ciudadanos en sistemas clásicos) dé su veredicto durante el juzgamiento.
+* Es una institución propia del derecho anglosajón.
+* Para cada juicio se convoca a diferentes personas y es deber civil concurrir si se es convocado.
+* Actualmente, 10 provincias argentinas, además de la Ciudad Autónoma de Buenos Aires, aplican este sistema acusatorio: Córdoba, Neuquén, Buenos Aires, Entre Ríos, Mendoza, San Juan, Chaco, Río Negro, Chubut y Catamarca.
+
+\=================================
+ATRIBUCIONES DEL PODER JUDICIAL — ADMINISTRACIÓN DE JUSTICIA (FUNCIONES)
+========================================================================
+
+* El Poder Judicial ejerce la “función jurisdiccional” o “administración de justicia”: aplicar la ley para resolver conflictos.
+* Cuando un juez dicta una sentencia para resolver un conflicto, dicha sentencia sólo tiene efecto para ese caso concreto; no produce efecto en casos similares (cada interesado debe iniciar su propia demanda).
+
+Conceptos relevantes:
+
+* **Derecho a la jurisdicción**: derecho que tienen todas las personas (físicas o jurídicas) de acceder a la justicia.
+* **Juez natural**: los juzgados y tribunales creados por la ley antes del hecho que motiva el proceso; las personas deben ser juzgadas por el juez natural y no por comisiones especiales.
+* **Causa**: juicio o proceso judicial donde el juez intenta resolver un litigio.
+* **Acción**: facultad de iniciar la actividad jurisdiccional frente al Estado.
+* **Sentencia**: medio por el que el juez aplica la ley y pone fin a un proceso; es una norma individual para un caso concreto.
+
+La sentencia debe ser:
+a) Imparcial — sin favoritismos.
+b) Justa — dar a cada uno lo que corresponde.
+c) Motivada — basada en hechos que originaron la causa.
+d) Fundamentada — sustentada en la ley.
+e) No arbitraria — no desprovista de apoyo legal.
+f) No incurrir en “exceso ritual manifiesto” — priorizar la verdad.
+
+\=================================
+ATRIBUCIONES CUASI-LEGISLATIVAS
+===============================
+
+* En ciertas ocasiones el Poder Judicial realiza actos con similitudes a la función legislativa, por ejemplo los **Fallos Plenarios**.
+* Las Cámaras Nacionales de Apelaciones se dividen en salas; si las salas dan respuestas diferentes a casos similares, se convoca a la Cámara “en plenario” (todos los jueces de las diferentes salas) para decidir una postura uniforme.
+* La postura adoptada en un fallo plenario es obligatoria para las salas en adelante.
+* Algunos autores sostienen que los fallos plenarios podrían vulnerar la independencia judicial, al imponer un criterio uniforme.
+
+\=================================
+ATRIBUCIONES ADMINISTRATIVAS (ART. 113 CN)
+==========================================
+
+* El artículo 113 de la Constitución otorga a la Corte Suprema la facultad de dictar reglamentos internos (atribución administrativa).
+* A través de esos reglamentos, la Corte regula aspectos internos del Poder Judicial: derechos y obligaciones del personal, designación de personal, sanción disciplinaria, etc.
+
+\=================================
+JURISDICCIÓN FEDERAL (ART. 116 CN)
+==================================
+
+Son competencia de la Justicia Federal (Corte Suprema y tribunales inferiores):
+
+1. Causas que versen sobre puntos regidos por la Constitución.
+2. Causas que versen sobre puntos regidos por leyes nacionales (ej.: ley de estupefacientes, ley de cheques).
+3. Causas que versen sobre puntos regidos por Tratados Internacionales.
+4. Causas concernientes a embajadores, ministros públicos y cónsules extranjeros.
+5. Causas de almirantazgo y jurisdicción marítima.
+6. Asuntos en que la Nación sea parte.
+7. Causas que susciten:
+
+   * Entre dos o más provincias.
+   * Entre una provincia y los vecinos de otra.
+   * Entre vecinos de diferentes provincias.
+   * Entre una provincia (o sus vecinos) contra un Estado o ciudadano extranjero.
+
+* Estas causas corresponderán siempre a los Tribunales Federales, sin importar el lugar donde se haya suscitado el conflicto.
+
+\=================================
+JURISDICCIÓN ORDINARIA (INC. 12 DEL ART. 75 CN)
+===============================================
+
+* El inciso 12 del artículo 75 menciona los Códigos Civil, Comercial, Penal, de Minería y de Trabajo y Seguridad Social.
+* Intervienen los tribunales ordinarios (provinciales) cuando la causa versa sobre materias regidas por esos códigos; en principio, la competencia es provincial (competencia ordinaria), salvo que por características del caso deba intervenir la justicia federal.
+* Ej.: incumplimiento de contrato entre dos particulares en una provincia → competencia provincial; si el conflicto involucra a un embajador → competencia federal.
+* Además de esas materias, los tribunales provinciales intervienen en todos los asuntos que no son de competencia federal. La jurisdicción federal es, en ese sentido, “de excepción”.
+* Los tribunales provinciales no forman parte del Poder Judicial de la Nación; pertenecen al Poder Judicial de la respectiva provincia.
+
+\=================================
+ÓRGANOS DE CONTROL “EXTRA PODERES” — AUDITORÍA GENERAL Y DEFENSOR DEL PUEBLO
+============================================================================
+
+Tanto la Auditoría General de la Nación (AGN) como el Defensor del Pueblo controlan la Administración Pública. Hay debate doctrinal sobre si forman parte de los tres poderes o del Poder Legislativo; en la práctica actúan en control y asistencia al Congreso.
+
+Auditoría General de la Nación (AGN):
+
+* Brinda asistencia técnica al Congreso para el control de la Administración.
+* Posee autonomía funcional (art. 85 CN).
+* Colabora con el Congreso, sin recibir instrucciones de ninguna autoridad.
+  Funciones:
+* Elabora dictámenes económicos y operativos del sector público y los eleva al Congreso.
+* Controla la legalidad y actividad de la Administración Pública.
+* Participa en decisiones e interviene en fondos públicos.
+* Facultad para dictaminar sobre estados contables de entes privatizados (Edesur, Telecom, etc.).
+  Composición y requisitos:
+* Integrada por 7 auditores (1 Presidente y 6 auditores).
+* Requisitos: ser argentino; tener título universitario de Abogado o Contador.
+* 3 auditores son elegidos por la Cámara de Diputados y 3 por la Cámara de Senadores.
+* El Presidente de la Auditoría es elegido por el partido opositor con más legisladores en el Congreso.
+* Duran 8 años en el cargo y pueden ser reelectos.
+* La AGN fue creada por Ley 24.156 (1992) y adquirió rango constitucional en 1994 (art. 85).
+
+Defensor del Pueblo:
+
+* Objetivo: defender y proteger derechos de la sociedad ante hechos, actos u omisiones de la Administración (art. 86 CN).
+  Características:
+* Independiente.
+* Autonomía funcional.
+* Disfruta de los mismos privilegios e inmunidades que los legisladores.
+  Funciones:
+* Defender a la sociedad ante la Administración Pública.
+* Controlar y evitar la corrupción.
+* Recibir denuncias, investigarlas y comunicar irregularidades públicamente.
+  Facultades procesales:
+* Suele decirse que tiene “legitimación procesal”.
+* Está autorizado para estar en juicio para cumplir sus funciones.
+* Puede iniciar acciones de amparo por derechos ambientales (art. 41) y de consumidores (art. 42).
+  Designación y requisitos:
+* Es nombrado y removido por el Congreso (voto de 2/3 de los miembros presentes en cada Cámara).
+* Requisitos: ser argentino (nativo por opción), mínimo 30 años, no ejercer cargos electivos, políticos o judiciales, no realizar actividades políticas o sindicales.
+* Mandato: 5 años, reelegible una sola vez.
+* El Defensor del Pueblo fue creado por Ley 24.284 (1993) y obtuvo rango constitucional en 1994 (art. 86).
+
+\=================================
+CONCEPTOS: ESTADO, PAÍS Y NACIÓN
+================================
+
+Estado:
+
+* Organización política que ejerce poder sobre un territorio y su población.
+* Elementos: territorio delimitado, población residente, gobierno que ejerce autoridad.
+* Tiene soberanía: poder supremo dentro de su territorio para establecer leyes y tomar decisiones.
+  Características: soberanía, sistema legal, formas de gobierno (democrático, autoritario, etc.).
+
+País:
+
+* Territorio delimitado geográficamente con fronteras reconocidas y población residente.
+* Usado a menudo como sinónimo de Estado, pero con énfasis en el aspecto geográfico.
+
+Nación:
+
+* Concepto ligado a identidad cultural: grupo de personas con historia, cultura, lengua, tradiciones y sentimiento de pertenencia.
+* No necesariamente coincide con territorio o gobierno; puede trascender fronteras.

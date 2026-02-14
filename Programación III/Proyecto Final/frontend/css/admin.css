@@ -1,0 +1,205 @@
+/* ========== ESTILO GENERAL ========== */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #000000;
+  color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent), 
+              radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent) 100px 100px, 
+              linear-gradient(#3700ff 8px, transparent 8px) 0 -4px, 
+              linear-gradient(90deg, #3700ff 8px, #000 8px) -4px 0;
+  background-size: 200px 200px, 200px 200px, 100px 100px, 100px 100px;
+}
+
+/* ========== TITULOS ========== */
+h2 {
+  text-align: center;
+  margin-top: 20px;
+  color: #00d0ff;
+  text-shadow: 0 0 5px #00d0ff;
+}
+
+/* ========== TABLAS DE ADMIN ========== */
+.main table,
+.fila-expandida .productos-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #111111;
+  color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 208, 255, 0.2);
+  overflow: hidden;
+}
+
+.main th,
+.main td,
+.fila-expandida .productos-tabla th,
+.fila-expandida .productos-tabla td {
+  border: 1px solid #3700ff;
+  padding: 12px 10px;
+  text-align: center;
+}
+
+.main th,
+.fila-expandida .productos-tabla th {
+  background-color: #1a1a2e;
+  color: #00d0ff;
+  font-weight: bold;
+  text-shadow: 0 0 4px rgba(0, 208, 255, 0.5);
+}
+
+.main tr:hover td,
+.fila-expandida .productos-tabla tr:hover td {
+  background-color: #2a2a3e;
+  box-shadow: inset 0 0 5px #3700ff;
+}
+
+/* ========== BOTONES ========== */
+.main button,
+.modal-botones button,
+#btnCerrarSesion,
+.toggle-productos {
+  background-color: #3700ff;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+  box-shadow: 0 0 8px rgba(55, 0, 255, 0.4);
+}
+
+.main button:hover,
+.modal-botones button:hover,
+#btnCerrarSesion:hover,
+.toggle-productos:hover {
+  background-color: #00d0ff;
+  color: black;
+  box-shadow: 0 0 12px #00d0ff;
+  transform: scale(1.05);
+}
+
+/* ========== FORMULARIOS ========== */
+form#formProducto,
+form#formsearch {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 420px;
+  margin: 20px auto;
+}
+
+form#formProducto input,
+form#formProducto select,
+form#formsearch input[type="text"] {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #3700ff;
+  background-color: #1a1a2e;
+  color: #f2f2f2;
+  transition: border 0.3s;
+}
+
+form#formProducto input:focus,
+form#formProducto select:focus,
+form#formsearch input:focus {
+  outline: none;
+  border-color: #00d0ff;
+  box-shadow: 0 0 6px #00d0ff;
+}
+
+form#formProducto label {
+  color: #00d0ff;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+/* ========== PREVIEW IMAGEN ========== */
+#preview-container {
+  text-align: center;
+}
+
+#preview-img {
+  max-height: 200px;
+  border-radius: 10px;
+  border: 2px solid #3700ff;
+  box-shadow: 0 0 12px rgba(55, 0, 255, 0.3);
+  margin-top: 10px;
+  transition: all 0.3s ease;
+}
+
+/* ========== MODAL ========== */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(10, 10, 10, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.modal-contenido {
+  background-color: #1a1a2e;
+  color: #f2f2f2;
+  padding: 25px;
+  border-radius: 10px;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 208, 255, 0.3);
+  animation: popIn 0.3s ease forwards;
+}
+
+.modal-texto {
+  font-size: 1rem;
+  margin-bottom: 15px;
+  color: #e0f7fa;
+}
+
+.modal-botones {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* ========== ANIMACIONES ========== */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes popIn {
+  from { transform: scale(0.8); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* ========== DETALLE EXPANDIDO ========== */
+.fila-expandida td {
+  background-color: #1a1a2e;
+  padding: 10px;
+  animation: fadeIn 0.3s ease-in-out;
+  border-top: 1px solid #3700ff;
+}
+
+.fila-expandida img.perfil {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  border: 2px solid #3700ff;
+  box-shadow: 0 0 10px rgba(55, 0, 255, 0.4);
+}
+
+.fila-expandida .detalle-orden {
+  border: 2px solid #3700ff;
+  padding: 15px;
+  background-color: #111;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 208, 255, 0.2);
+}

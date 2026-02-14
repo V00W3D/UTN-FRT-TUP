@@ -1,0 +1,98 @@
+/* ===== LOGIN / REGISTER: ESTILO RENOVADO ===== */
+
+.intro {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.intro h2 {
+  font-size: 1.8rem;
+  color: #00d0ff;
+  margin-bottom: 10px;
+  text-shadow: 0 0 6px rgba(0, 208, 255, 0.4);
+}
+
+.intro p {
+  color: #b0c4cc;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* ===== FORMULARIO LOGIN/REGISTER ===== */
+.formlr {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #111325;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 208, 255, 0.2);
+  border: 2px solid #3700ff;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.formlr label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #e0f7fa;
+}
+
+/* INPUTS estilizados */
+.formlr input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: #1c1e2e;
+  border: 1px solid #3700ff;
+  border-radius: 6px;
+  color: #e0f7fa;
+  transition: 0.3s;
+}
+
+.formlr input:focus {
+  outline: none;
+  border-color: #00d0ff;
+  box-shadow: 0 0 5px #00d0ff;
+}
+
+/* ===== BOTÓN DE ENVIAR ===== */
+.formlr button {
+  width: 100%;
+  padding: 12px;
+  background-color: #3700ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+  box-shadow: 0 0 8px rgba(55, 0, 255, 0.3);
+}
+
+.formlr button:hover {
+  background-color: #00d0ff;
+  color: black;
+  box-shadow: 0 0 12px #00d0ff;
+}
+
+/* ===== LINKS (recuperar contraseña, etc) ===== */
+.formlr a {
+  display: inline-block;
+  color: #00d0ff;
+  font-size: 0.9rem;
+  margin-top: 10px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.formlr a:hover {
+  color: lightcyan;
+  text-shadow: 0 0 5px rgba(0, 208, 255, 0.3);
+}
+
+/* ===== ANIMACIONES ===== */
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}

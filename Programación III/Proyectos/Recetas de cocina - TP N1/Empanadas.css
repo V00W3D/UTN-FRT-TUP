@@ -1,0 +1,113 @@
+body {
+    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Empanadas-presentacion {
+    background-color: rgb(0, 191, 255);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.volver-boton {
+    background-color: rgb(255, 255, 0);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.Empanadas-imagen {
+    background-color: rgb(245, 145, 0);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Ingredientes-Titulo {
+    background-color: rgb(255, 255, 0);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Empanadas-Introducción {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Empanadas-Ingredientes {
+    background-color: rgb(255, 145, 0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Preparacion-Titulo {
+    background-color: rgb(255, 255, 0);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Empanadas-Preparacion {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.Empanadas-Despedida {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+footer {
+    background-color: rgb(0, 191, 255);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}

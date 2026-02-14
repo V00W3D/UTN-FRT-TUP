@@ -1,0 +1,108 @@
+/* =======================================================
+   🌸 PROFILE CARD — Sakura Glass Edition
+   ======================================================= */
+
+:root {
+  --sakura-accent: #f48fb1; /* rosa principal */
+  --sakura-accent-light: #ffd1dc; /* rosado suave */
+  --sakura-surface: rgba(255, 240, 245, 0.3);
+  --sakura-border: rgba(255, 182, 193, 0.25);
+  --sakura-shadow: rgba(255, 182, 193, 0.35);
+  --sakura-text: #fff8fb;
+  --sakura-dark: rgba(25, 25, 25, 0.8);
+  --transition: all 0.35s ease;
+}
+
+/* =======================================================
+   👤 PROFILE CARD — Estructura base
+   ======================================================= */
+
+.profile-card {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  background: var(--sakura-dark);
+  border: 1px solid var(--sakura-border);
+  border-radius: 50px;
+  padding: 0.45rem 0.9rem 0.45rem 0.55rem;
+  box-shadow: 0 0 15px var(--sakura-shadow);
+  backdrop-filter: blur(10px);
+  transition: var(--transition);
+  cursor: default;
+  z-index: 2;
+}
+
+/* =======================================================
+   💮 Avatar circular
+   ======================================================= */
+
+.profile-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(
+    135deg,
+    var(--sakura-accent-light),
+    var(--sakura-accent)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #2b1b1b;
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  box-shadow: 0 0 8px rgba(255, 182, 193, 0.45);
+  transition: var(--transition);
+}
+
+/* =======================================================
+   💗 Información del usuario
+   ======================================================= */
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.profile-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--sakura-text);
+  letter-spacing: 1.5px;
+  margin: 0;
+  transition: var(--transition);
+}
+
+.logout-icon {
+  font-size: 1.3rem;
+  color: var(--sakura-accent);
+  transition: var(--transition);
+}
+
+/* =======================================================
+   🌺 Animaciones y efectos hover
+   ======================================================= */
+
+.profile-card:hover {
+  box-shadow: 0 0 20px rgba(255, 182, 193, 0.35);
+  transform: translateY(-2px);
+  cursor: pointer;
+}
+
+.profile-card:hover .profile-avatar {
+  background: linear-gradient(135deg, #ff80ab, #ec407a);
+  color: #fff;
+  box-shadow: 0 0 12px rgba(255, 128, 171, 0.5);
+  transform: rotate(8deg);
+}
+
+.profile-card:hover .profile-name {
+  color: var(--sakura-accent-light);
+}
+
+.profile-card:hover .logout-icon {
+  color: #fff;
+  transform: scale(1.1);
+}

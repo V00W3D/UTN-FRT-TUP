@@ -1,0 +1,195 @@
+/* ==========================================================
+   🌍 IDIOMAS.CSS — Timeline de idiomas con Glassmorphism
+   ========================================================== */
+
+.idiomas-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 20px 120px;
+  border-top: 1px solid var(--color-border);
+  position: relative;
+}
+
+.idiomas-title {
+  font-size: clamp(1.8rem, 1.4rem + 1vw, 2.4rem);
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    var(--color-accent-1),
+    var(--color-accent-2)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+/* === Timeline === */
+.idiomas-timeline {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  gap: 3rem;
+  padding-left: 3rem;
+}
+
+.idioma-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  position: relative;
+  perspective: 1000px;
+}
+
+/* === Bandera circular === */
+.idioma-left {
+  position: relative;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+}
+
+.idioma-flag-wrapper {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  z-index: 2;
+}
+
+.idioma-flag {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  transform-style: preserve-3d;
+  transition: transform 0.9s ease;
+  border: 1.5px solid var(--color-accent-2);
+  background: rgba(26, 15, 31, 0.85);
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.idioma-flag:hover {
+  transform: rotateY(180deg);
+}
+
+.flag-face {
+  position: absolute;
+  inset: 6px;
+  border-radius: 50%;
+  backface-visibility: hidden;
+  overflow: hidden;
+}
+
+.flag-face img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.flag-face.back {
+  transform: rotateY(180deg);
+}
+
+/* === Línea vertical === */
+.idioma-link-line {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 2px;
+  height: 140px;
+  background: linear-gradient(
+    180deg,
+    var(--color-accent-2),
+    var(--color-accent-3)
+  );
+  transform: translateX(-50%);
+  border-radius: 2px;
+  opacity: 0.5;
+  animation: idiomaLineGrow 1.2s ease forwards;
+}
+
+/* === Card idioma === */
+.idioma-content {
+  flex: 1;
+  padding: 1.6rem 2rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 4px solid var(--color-accent-2);
+  border-radius: 16px;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  transition: transform 0.6s ease;
+  animation: fadeInIdioma 0.8s ease forwards;
+}
+
+.idioma-content:hover {
+  transform: translateY(-5px);
+}
+
+.idioma-nombre {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 0.3rem;
+}
+
+.idioma-nivel {
+  font-weight: 600;
+  color: var(--color-accent-2);
+  margin-bottom: 0.6rem;
+}
+
+.idioma-content p {
+  color: rgba(233, 213, 255, 0.8);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* === Animaciones === */
+@keyframes idiomaLineGrow {
+  from {
+    height: 0;
+    opacity: 0;
+  }
+  to {
+    opacity: 0.5;
+    height: 140px;
+  }
+}
+
+@keyframes fadeInIdioma {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  .idioma-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .idioma-content {
+    padding: 1.2rem 1.4rem;
+  }
+
+  .idioma-nombre {
+    font-size: 1.1rem;
+  }
+
+  .idioma-link-line {
+    height: 100px;
+  }
+}

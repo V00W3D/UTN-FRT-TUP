@@ -1,0 +1,313 @@
+
+=================================
+PODER EJECUTIVO - REPÚBLICA ARGENTINA
+=================================
+
+Este documento ha sido preparado por nuestro grupo con tono académico y en formato compacto para facilitar su estudio.
+Recopila, ordena y amplía la totalidad del contenido de la Unidad 1 (Poder Ejecutivo) proveniente del material entregado
+por la cátedra (Unidad 1, parte 3.pdf). Además, complementa y desarrolla aquellos puntos que en el original quedaban
+breves o escasamente explicados. Los artículos constitucionales, leyes y decretos aparecen claramente referenciados
+tal como se encuentran en el material de base.
+
+=================================
+CONCEPTO GENERAL
+=================================
+El Poder Ejecutivo es el órgano encargado de la administración general del país. La Constitución Nacional (art. 87)
+designa como titular a un ciudadano con el título de Presidente de la Nación. Históricamente, la doctrina mayoritaria
+(autoridades como Bidart Campos, Badeni o Zarini) concibe al Poder Ejecutivo argentino como un órgano **unipersonal**,
+es decir, centrado en la figura del Presidente. Existe, sin embargo, una postura minoritaria que entiende el Ejecutivo
+como un órgano **colegiado**, integrado por el Presidente, el Jefe de Gabinete y los Ministros (postura que algunas
+interpretaciones modernas recuperan a efectos de explicar la dinámica real de gobierno tras la reforma de 1994).
+
+El Ejecutivo realiza funciones políticas, administrativas, militares, financieras, internacionales y normativas (mediante
+reglamentaciones y decretos). Su ejercicio debe respetar la Constitución, la ley y los límites establecidos por el
+sistema republicano y federal.
+
+=================================
+PRESIDENCIALISMO Y PARLAMENTARISMO (COMPARACIÓN)
+=================================
+- PRESIDENCIALISMO: Modelo aplicado en la mayor parte de América Latina (y en Argentina). El Jefe de Estado y el
+  Jefe de Gobierno se concentran en el Presidente; éste es elegido por voto popular (directo o indirecto, según el
+  sistema), no está sujeto a moción de censura parlamentaria y sus ministros no integran formalmente órganos
+  decisorios del Legislativo.
+
+- PARLAMENTARISMO: Modelo europeo donde el Jefe de Estado (monarca o presidente simbólico) es distinto del Jefe
+  de Gobierno (Primer Ministro). El Ejecutivo es colegiado y depende del apoyo del Parlamento; el Parlamento puede
+  destituirlo mediante moción de censura.
+
+=================================
+EL SISTEMA ARGENTINO: PRESIDENCIALISMO ATENUADO
+=================================
+La Constitución de 1853 (con reformas) configuró un sistema presidencialista. Tras la reforma constitucional de 1994
+se incorporó la figura del **Jefe de Gabinete de Ministros** y se reforzaron mecanismos de control parlamentario sobre
+el Gobierno (obligación de informar, posibilidad de moción de censura sobre el Jefe de Gabinete, entre otros). Esto
+motivó que se hable de un *presidencialismo atenuado* o *semiparlamentarismo*: el Presidente mantiene amplias
+facultades formales, pero existen herramientas institucionales que moderan su autonomía.
+
+=================================
+REQUISITOS PARA SER ELECTO (ART. 89 Y ART. 55)
+=================================
+Para ser elegido Presidente o Vicepresidente se requiere:
+- Ser argentino nativo o hijo de ciudadano nativo nacido en el extranjero.
+- Reunir las demás calidades exigidas para ser senador (art. 55): tener la edad mínima exigida y años de ciudadanía en ejercicio.
+(la doctrina y el texto constitucional exigen, como regla, un mayor umbral etario para la presidencia).
+(Nota histórica: la reforma de 1994 suprimió requisitos religiosos que anteriormente existían).
+
+=================================
+ELECCIÓN PRESIDENCIAL, DOBLE VUELTA (ART. 95-98)
+=================================
+- El sistema vigente es de elección **directa** con posibilidad de **segunda vuelta** (ballotage).
+- La elección se efectúa dos meses antes de la finalización del mandato (art. 95).
+- Segunda vuelta: cuando ninguna fórmula alcanza los umbrales que evitan el ballotage:
+  * Evitan segunda vuelta: más del 45% de los votos válidos, o al menos 40% con una diferencia mayor o igual al 10% sobre la 2ª fórmula.
+  * Si es necesaria, la segunda vuelta se realiza dentro de los 30 días siguientes a la primera votación (art. 96).
+- Si una de las fórmulas renuncia antes de la segunda vuelta, la otra fórmula se proclama electa.
+
+=================================
+DURACIÓN DEL MANDATO Y REELECCIÓN (ART. 90)
+=================================
+- Duración: 4 años (la reforma de 1994 redujo el período de 6 a 4 años).
+- Reelección: permitida; tras un mandato consecutivo debe transcurrir un lapso determinado para volver a postularse
+  (la configuración actual admite la reelección en los términos fijados por la reforma).
+
+=================================
+INCOMPATIBILIDADES, JURAMENTO (ART. 93) Y OBLIGACIONES FORMALES
+=================================
+- Incompatibilidad: Presidente y Vicepresidente no pueden ocupar otro empleo (aunque no sea remunerado),
+  para asegurar dedicación exclusiva.
+- Juramento: al asumir, Presidente y Vicepresidente prestan juramento ante el Congreso reunido en Asamblea Legislativa
+  con la fórmula prevista en el art. 93: “Desempeñar con lealtad y patriotismo el cargo... y observar y hacer observar
+  fielmente la Constitución de la Nación Argentina”.
+- Obligaciones formales destacadas (descritas en la Constitución y reglamentadas): apertura anual de sesiones,
+  presentación de mensajes y memorias, proposición del proyecto de presupuesto, representación internacional,
+  entre otras que se desarrollan en el apartado de atribuciones.
+
+=================================
+VICEPRESIDENTE Y ACEFALÍA (ART. 88)
+=================================
+- El Vicepresidente no integra el Poder Ejecutivo en lo cotidiano; su rol institucional es presidir el Senado.
+- En caso de imposibilidad temporal o definitiva del Presidente, el Vicepresidente asume sus funciones.
+- Acefalía total (falta simultánea de Presidente y Vicepresidente): la ley (ley 20.972, vigencia actual) establece
+  el orden sucesorio transitorio: Presidente Provisorio del Senado → Presidente de la Cámara de Diputados → Presidente
+  de la Corte Suprema (y el Congreso reunido en Asamblea deberá elegir un nuevo Presidente dentro de las 48 horas;
+  la persona elegida debe ser diputado, senador o gobernador).
+- El mandato del reemplazante es transitorio hasta que el Congreso elija nuevo Presidente.
+
+=================================
+LEY DE ACEFALÍA (HISTORIA Y NORMA VIGENTE)
+=================================
+- Históricamente existió una Ley de Acefalía dictada en 1868 (Ley 252) y luego derogada/reemplazada por la Ley 20.972,
+  que regula el procedimiento y orden sucesorio en casos de acefalía total.
+
+=================================
+ATRIBUCIONES PRESIDENCIALES (ART. 99 Y ARTS. RELACIONADOS)
+=================================
+A continuación listamos y desarrollamos las principales atribuciones del Presidente, agrupadas por ejes funcionales.
+
+=== JEFATURAS ===
+- Jefe de Estado: representa jurídicamente al país en el plano internacional; recibe representantes extranjeros;
+  conduce la política exterior en coordinación con el Congreso (celebración y ratificación de tratados).
+- Jefe de Gobierno: responsable político de la conducción de la administración general del país (aunque la gestión
+  concreta se ejerce a través del Jefe de Gabinete y los Ministerios).
+- Jefe de la Administración Pública: es la autoridad superior de la Administración; delega y coordina con ministros
+  y demás funcionarios.
+- Comandante en Jefe de las Fuerzas Armadas: disposición, organización y designación de oficiales (con intervención
+  del Senado para confirmaciones en los cargos según los casos).
+
+=== REGLAMENTOS ADMINISTRATIVOS (DECRETOS) ===
+Se distinguen varios tipos de decretos que el Ejecutivo puede dictar:
+1. **Decretos reglamentarios**: tienen por finalidad facilitar la ejecución de leyes sancionadas por el Congreso.
+2. **Reglamentos autónomos**: normas generales dictadas por el Ejecutivo cuando la materia es de su competencia
+   y no ha sido regulada por ley.
+3. **Decretos delegados**: cuando el Congreso aprueba una ley marco y delega facultades concretas al Ejecutivo
+   para completarla (esta delegación debe estar basada en parámetros y plazos).
+4. **Decretos de necesidad y urgencia (DNU)**: se dictan en circunstancias excepcionales para atender asuntos que no
+   pueden esperar la tramitación parlamentaria ordinaria. Condiciones y límites (según la Constitución y la
+   interpretación doctrinal y práctica):
+   - Deben fundarse en razones de necesidad y urgencia.
+   - No pueden versar sobre materia penal, tributaria, electoral ni referida a partidos políticos.
+   - Deben ser refrendados por el Jefe de Gabinete y, según el caso, por los ministros.
+   - Deben ser elevados al Congreso y sometidos al análisis de la Comisión Bicameral Permanente creada para su control;
+     el Congreso puede eventualmente convalidarlos o rechazarlos conforme al procedimiento previsto. (En la práctica
+     contemporánea, la exigencia de control parlamentario persiste como contrapeso).
+
+=== PARTICIPACIÓN EN EL PROCESO LEGISLATIVO ===
+- Etapa de eficacia: una vez sancionada por el Congreso, la ley llega al Ejecutivo para su promulgación o veto.
+- El Presidente puede:
+  * **Promulgar** la ley mediante decreto y ordenar su publicación en el Boletín Oficial (paso que la pone en vigor).
+  * **Vetar** total o parcialmente una ley (veto parcial sobre artículos o incisos concretos). El veto vuelve al Congreso,
+    que puede insistir y superar el veto con mayorías cualificadas (según la Constitución).
+  * Si el Presidente no ejerce su prerrogativa de promulgar o vetar en los plazos constitucionales, la ley puede entrar
+    en vigencia por otros mecanismos conforme a la normativa aplicable (en algunos supuestos existe la figura de la
+    promulgación tácita).
+
+=== NOMBRAMIENTOS Y ACUERDOS DEL SENADO ===
+- Requieren acuerdo del Senado (por mayoría especial, en general 2/3 de los presentes u otras mayorías según el caso):
+  * Designación de Jueces de la Corte Suprema (art. 99 inc.4).
+  * Nombramiento de Jueces de Tribunales Federales inferiores (art. 99 inc.4).
+  * Nombramiento y remoción de diplomáticos (art. 99 inc.7) — la práctica institucional prevé la intervención del Senado.
+  * Designación de oficiales superiores de las Fuerzas Armadas (según el caso) (art. 99 inc.13).
+  (La Constitución prevé la intervención del Senado para ciertos cargos de particular relevancia para asegurar mayor 
+  control y acuerdo institucional).
+
+- **Nombramientos que no requieren el acuerdo del Senado**:
+  * Ministros del Poder Ejecutivo (su nombramiento y remoción corresponde al Presidente).
+  * Otros agentes y empleados públicos de la Administración.
+
+- **Nombramiento en comisión**: el Presidente puede nombrar “en comisión” para cubrir vacantes temporales; cuando el
+  Congreso vuelve a sesionar, dicho nombramiento queda sujeto a la aprobación, rechazo o ratificación por parte del cuerpo
+  deliberante.
+
+=== PRERROGATIVAS SOBRE EL CONGRESO Y SESIONES ===
+- Apertura de sesiones: el Presidente inaugura el período anual parlamentario (mensaje ante la Asamblea Legislativa).
+- Convocatoria de sesiones extraordinarias y posibilidad de prórroga de sesiones ordinarias.
+- Autorización para salir del país: formalmente, el Presidente requiere la autorización del Congreso; en la práctica,
+  suele otorgársele autorización por el período del año o por todo el mandato.
+- Renuncia: la renuncia presidencial debe dirigirse al Congreso, con expresión de fundamentos.
+
+=== INDULTO Y CONMUTACIÓN DE PENAS (ART. 99, INC. 5) ===
+- **Indulto**: perdón absoluto que extingue la pena impuesta por sentencia firme.
+- **Conmutación**: cambio de una pena por otra de menor gravedad.
+- Requisitos:
+  * Existencia de sentencia firme.
+  * Delito de jurisdicción federal.
+  * Informe previo del tribunal que aplicó la pena.
+- Limitaciones: no proceden respecto de juicios políticos ni en casos expresamente vedados por la Constitución.
+
+=== RELACIONES INTERNACIONALES Y TRATADOS (ART. 99 INC. 11) ===
+- El Presidente negocia y firma tratados internacionales; la ratificación y jerarquía constitucional de cada tratado
+  requieren aprobación del Congreso mediante ley. El proceso suele comprender:
+  1. Negociación y firma por el Ejecutivo.
+  2. Envío al Congreso para aprobación, rechazo total o parcial (o modificación).
+  3. Ratificación internacional por parte del Ejecutivo.
+- Los tratados aprobados con jerarquía constitucional tienen rango superior al de las leyes ordinarias.
+
+=== PODERES MILITARES Y DECLARACIÓN DE GUERRA (ART. 99 INC. 12, 15) ===
+- El Presidente es Comandante en Jefe de las Fuerzas Armadas.
+- Puede organizar, distribuir y disponer su empleo según necesidades nacionales.
+- La designación de oficiales y ascensos importantes suele requerir acuerdo del Senado; en caso de campaña o campo
+  de batalla, el Presidente puede tomar decisiones inmediatas que después deben ser ratificadas.
+
+=== ESTADO DE SITIO ===
+- Distinción: **ataque exterior** vs **conmoción interior**.
+  * Ataque exterior: declarado por el Presidente con acuerdo del Senado.
+  * Conmoción interior: declarado por el Congreso; el Presidente puede declararlo si el Congreso está en receso.
+- Efectos: durante el estado de sitio se pueden adoptar medidas excepcionales (detenciones, traslados, restricciones de
+  libertades) sin que el Ejecutivo pueda imponer penas privativas de la jurisdicción del Poder Judicial.
+
+=== FACULTADES FINANCIERAS ===
+- Supervisión del cumplimiento del presupuesto nacional: el Ejecutivo elabora el proyecto de presupuesto, lo envía
+  al Congreso para su tratamiento; ejecuta y hace recaudar las rentas públicas a través de la Administración.
+- El Jefe de Gabinete y los Ministros participan en la confección y refrendo de actos vinculados al gasto público.
+
+=================================
+ÓRGANOS DEPENDIENTES DEL PODER EJECUTIVO
+=================================
+
+=== JEFE DE GABINETE DE MINISTROS (ART. 100 Y 101) ===
+- Creado por la reforma constitucional de 1994.
+- Función: coordinar la acción del Gobierno, ejecutar la Administración General y actuar como nexo con el Congreso.
+- Atribuciones destacadas:
+  1. Ejercer la administración general del país (art. 100 inc.1).
+  2. Refrendar decretos del Poder Ejecutivo (decretos reglamentarios, delegados, DNU, etc.); sin refrendo pierden eficacia.
+  3. Elevar a la Comisión Bicameral Permanente los decretos delegados y DNU para su análisis (control parlamentario).
+  4. Enviar al Congreso el proyecto de presupuesto y la memoria anual (previo acuerdo del Gabinete).
+  5. Remitir información y asistir al Congreso al menos una vez por mes para informar sobre la marcha del Gobierno
+     (obligación establecida en art. 101).
+  6. Ser pasible de **interpelación** y de **moción de censura** por parte del Congreso (la moción de censura se aplica
+     con mayoría absoluta en una Cámara; la destitución requiere votación de la mayoría absoluta en ambas Cámaras).
+
+=== MINISTROS (ARTS. 100, 102, 103, 105) ===
+- Concepto: los Ministros son los responsables de los distintos sectores de la Administración (Economía, Salud, Defensa, etc.).
+- Funciones y colaboración:
+  * Refrendan y legalizan actos presidenciales para que adquieran eficacia.
+  * Participan en el Gabinete, en la elaboración de proyectos de ley y en planes de política pública.
+  * Rinden informes y presentan memorias ante el Congreso.
+  * Intervienen en reuniones de gabinete y en decisiones colegiadas sobre decretos relevantes (p. ej. DNU).
+- Competencia ministerial (art. 103): los Ministros no pueden, por sí solos, adoptar decisiones destinadas a privar o transferir
+  facultades que constitucionalmente corresponden al Presidente; pueden administrar sus respectivos departamentos y dictar
+  actos de administración interna.
+- Responsabilidad (art. 102): los Ministros son responsables por los actos del Presidente que hayan refrendado. Es la base
+  del control político y de la responsabilidad penal-política en juicios políticos cuando corresponda.
+- Incompatibilidades (art. 105): Los Ministros no pueden ser Senadores ni Diputados; si resultan electos legisladores deben
+  renunciar a su cargo ministerial para asumir la banca.
+
+=== SECRETARÍAS DE ESTADO ===
+- Dependientes jerárquicamente de los Ministros; desempeñan funciones específicas dentro de cada cartera y su organización
+  se regula por decreto y reglamento.
+
+=================================
+LEY DE MINISTERIOS Y ORGANIZACIÓN ACTUAL (DECRETO 195/2024)
+=================================
+- La Constitución encomienda al Congreso regular el número de Ministros y sus competencias por ley especial.
+- En la práctica, la **Ley de Ministerios** y decretos reglamentarios determinan la estructura ministerial.
+- Conforme al material provisto por la cátedra, el Decreto 195/2024 (Boletín Oficial, febrero de 2024) establece que:
+  - El Jefe de Gabinete y OCHO (8) Ministros tendrán a su cargo el despacho de los negocios de la Nación.
+  - La lista ministerial indicada en el Decreto 195/2024 comprende:
+    * Ministerio del Interior.
+    * Ministerio de Relaciones Exteriores, Comercio Internacional y de Culto.
+    * Ministerio de Defensa.
+    * Ministerio de Economía.
+    * Ministerio de Justicia.
+    * Ministerio de Seguridad.
+    * Ministerio de Salud.
+    * Ministerio de Capital Humano.
+(Consultar Boletín Oficial para el texto completo y alcances de la estructura: boletín y texto normativo indicado en la bibliografía).
+
+=================================
+RELACIÓN CON EL CONGRESO: MECANISMOS Y CONTROLES
+=================================
+- Interpelación: los Ministros y el Jefe de Gabinete pueden ser citados por cualquiera de las Cámaras para rendir cuentas
+  (art. 71 y art. 101). La interpelación permite preguntas públicas y la exigencia de explicaciones sobre la marcha de la gestión.
+- Moción de censura: aplicable al Jefe de Gabinete — su aplicación y consecuencias están reguladas por la Constitución
+  y la práctica parlamentaria (moción de censura por mayoría absoluta en una Cámara; destitución requiere mayoría absoluta
+  en ambas).
+- Memoria anual y presentaciones: los ministros deben presentar un informe sobre la marcha de sus respectivos departamentos
+  al iniciarse las sesiones ordinarias (art. 104).
+- Participación en sesiones: los Ministros y el Jefe de Gabinete pueden concurrir a las sesiones y participar en debates,
+  sin derecho a voto (art. 106).
+
+=================================
+INCOMPATIBILIDADES Y RESPONSABILIDADES (RESUMEN)
+=================================
+- Presidente y Vicepresidente: sin otro empleo durante sus funciones.
+- Ministros: no pueden ser legisladores mientras ejercen el ministerio.
+- Jefe de Gabinete: no puede ejercer simultáneamente otro ministerio.
+- Responsabilidad política y penal en los supuestos previstos por la Constitución y la ley (juicios políticos, responsabilidades
+  por actos ilegales refrendados).
+
+=================================
+OTRAS FACULTADES Y ASPECTOS ADMINISTRATIVOS
+=================================
+- El Presidente puede declarar la guerra (con acuerdo del Congreso), ordenar represalias y adoptar medidas relacionadas con
+  la seguridad nacional.
+- En materia financiera, el Ejecutivo supervisa la ejecución del presupuesto y la recaudación de las rentas (cooperando con el
+  Jefe de Gabinete y la estructura ministerial).
+- El Presidente puede conceder indultos y conmutaciones en los términos y límites constitucionales.
+
+=================================
+BIBLIOGRAFÍA Y FUENTES CITADAS EN EL MATERIAL RECOPILADO
+=================================
+- Guía de Estudio Constitucional, 2008 – Capítulos 15 y 16.
+- Material provisto por la cátedra: Unidad 1 (Poder Ejecutivo) – "Unidad 1, parte 3.pdf".
+- Casa Rosada – Sección "El Presidente" (referida en la bibliografía del material).
+- Boletín Oficial de la República Argentina – Decreto 195/2024 (enero-febrero 2024), disposición citada en el material.
+
+=================================
+NOTAS FINALES Y ACLARACIONES
+=================================
+- Este documento pretende ser una versión **compacta, ordenada y ampliada** del material original. Hemos incluido
+  desarrollos explicativos en aquellos apartados que en el PDF eran escuetos (por ejemplo: detalles sobre DNU,
+  responsabilidades ministeriales, sucesión presidencial, controles parlamentarios y la dinámica práctica entre
+  Presidente, Jefe de Gabinete y Ministros).
+- Para trámite formal, textos legales completos y la redacción precisa de artículos y decretos se recomienda consultar
+  la **Constitución Nacional**, la **Ley de Acefalía (Ley 20.972)** y el **Boletín Oficial** (Decreto 195/2024) para
+  el texto literal y actualizaciones normativas.
+- Si desean, podemos ahora:
+  1) Generar una versión en formato TXT descargable con este contenido (ya creada aquí).  
+  2) Hacer una versión en estilo "ficha de estudio" para cada artículo (resumen en una página por tema).  
+  3) Preparar la misma tarea para Poder Legislativo o Judicial.
+
+=================================
+FIN DEL DOCUMENTO
+=================================

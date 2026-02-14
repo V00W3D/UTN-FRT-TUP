@@ -1,0 +1,47 @@
+﻿TPN2 — Reformas no implementadas o parcialmente ejecutadas
+Reforma Constitucional de 1994
+Recordamos la reforma constitucional de 1994 por su impacto en la historia argentina. Se decretaron nuevas leyes, se reformaron artículos y se incorporaron nuevos derechos, pero hubo otras reformas que, aunque fueron discutidas y aprobadas en la Asamblea Constituyente, nunca llegaron a implementarse completamente. En este trabajo abordamos esas “deudas constitucionales” para entender su contexto histórico, su importancia, las razones de su no implementación y su situación actual.
+Contexto histórico y político
+La reforma de 1994 surgió en un contexto de transición democrática y de acuerdos políticos clave, especialmente el Pacto de Olivos entre el presidente Carlos Menem y el expresidente Raúl Alfonsín. Con la Ley 24.309 se abrió el camino para modificar la Constitución de 1853. Si bien muchas reformas se concretaron y hoy son parte de nuestra vida política, hubo otras que, pese a estar en el texto constitucional, quedaron sin reglamentar o sin ejecutar.
+Juicio por jurados (nacional)
+Ejemplo emblemático: en la provincia de Buenos Aires, el caso de Fernando Farré (2016) 
+condenado por un jurado popular por femicidio, mostró cómo funciona este mecanismo en la práctica. 
+La disparidad entre provincias y la ausencia de una ley nacional generan una deuda constitucional 
+aún pendiente al 2025.
+
+La Constitución de 1994, en sus artículos 24, 75 inciso 12 y 118, estableció que el Congreso debía sancionar una ley para implementar el juicio por jurados en el ámbito federal. El objetivo era democratizar la justicia penal y garantizar la participación ciudadana en los procesos judiciales más importantes. Sin embargo, en casi tres décadas, el Congreso no ha avanzado con una ley nacional, lo que genera una deuda pendiente con el texto constitucional.
+Implementación provincial: avances y contrastes
+Aunque no se avanzó en el plano federal, algunas provincias como Córdoba, Neuquén y Buenos Aires sancionaron leyes propias para implementar el juicio por jurados en causas provinciales. Estas experiencias han mostrado avances en transparencia y legitimidad, pero también desafíos logísticos y costos elevados. La falta de una ley marco nacional genera disparidad entre provincias.
+Proyectos federales y obstáculos
+A lo largo de los años se presentaron múltiples proyectos en el Congreso para regular el juicio por jurados, como el de 2016, pero ninguno prosperó. Entre las razones se encuentran los altos costos de organización, la necesidad de capacitación y, sobre todo, la falta de consenso político entre las fuerzas mayoritarias.
+Ley-convenio de coparticipación y Organismo Fiscal Federal (Art. 75 inc. 2)
+Ejemplos de conflictos: en 2015 la Corte Suprema ordenó a Santa Fe, San Luis y Córdoba 
+la devolución de un 15% de fondos coparticipables. En 2022, el conflicto Nación-CABA derivó 
+en una cautelar que fijó el 2,95% para la Ciudad, evidenciando la falta de un régimen claro.
+
+El artículo 75 inciso 2 ordenaba la sanción de una nueva ley-convenio de coparticipación federal y la creación de un Organismo Fiscal Federal con participación de las provincias. Este organismo debía equilibrar la distribución de recursos entre Nación y provincias. Sin embargo, nunca se concretó. La falta de este marco legal ha generado conflictos recurrentes entre jurisdicciones y demandas ante la Corte Suprema.
+Banco Federal (Art. 75 inc. 6)
+En la práctica, el Banco Central de la República Argentina (BCRA) asumió esas funciones desde 1935. 
+La diferencia entre lo previsto en la Constitución y la realidad institucional es un ejemplo 
+de norma no reglamentada.
+
+La Constitución facultaba al Congreso para crear un Banco Federal con la capacidad de emitir moneda, un proyecto pensado para reforzar el federalismo económico. En la práctica, el Banco Central de la República Argentina (BCRA) siguió siendo el único organismo monetario y nunca se materializó la figura de un banco federal autónomo.
+Comisión Bicameral y control de DNU
+Ejemplo reciente: el DNU 70/2023 fue rechazado por el Senado en 2024, pero continúa vigente porque 
+Diputados no lo trató. Esto muestra cómo la Ley 26.122 impide que un solo rechazo lo derogue automáticamente.
+
+La Constitución incorporó en 1994 el control parlamentario sobre los Decretos de Necesidad y Urgencia (DNU), mediante una Comisión Bicameral. Sin embargo, hasta 2006, cuando se sancionó la Ley 26.122, este órgano no estuvo en funcionamiento. Durante esos años, decenas de DNU se dictaron sin control parlamentario efectivo, afectando el equilibrio de poderes.
+Consejo Económico y Social
+En 2021 se creó por DNU 124/2021 un Consejo Económico y Social en la órbita de la Secretaría 
+de Asuntos Estratégicos, aunque sin rango constitucional ni permanencia institucional. 
+A diferencia de España, que cuenta con un órgano consultivo establecido por ley.
+
+La reforma de 1994 contemplaba la creación de un Consejo Económico y Social como órgano consultivo, pensado para integrar al diálogo institucional a sindicatos, empresarios y organizaciones sociales. Pese a diversos intentos legislativos, nunca se consolidó como un espacio permanente y efectivo de concertación.
+Consejo de la Magistratura
+En 2021 la Corte declaró inconstitucional la reducción de miembros de 2006, restableciendo 
+La integración de 20 consejeros con la presidencia del titular de la Corte. Este cambio refleja 
+cómo la falta de consensos legislativos lleva a que el Poder Judicial fije transitoriamente el esquema.
+
+Si bien el Consejo de la Magistratura se creó (Ley 24.937, reformada por Ley 26.080 y otras), ha estado en permanente disputa política y judicial. La falta de un consenso estable sobre su composición y funciones ha generado reformas sucesivas y conflictos con la Corte Suprema.
+Conclusión
+Estas reformas no implementadas nos recuerdan que la Constitución es un marco normativo vivo que requiere de leyes y consensos para convertirse en realidad. El juicio por jurados, la ley de coparticipación y el fortalecimiento de órganos de control son deudas que impactan en la calidad de la democracia argentina. Reflexionar sobre estas deudas nos permite entender cómo los textos constitucionales pueden quedar incompletos sin voluntad política para ejecutarlos.

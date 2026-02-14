@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Admin",
+      "correo": "admin@a.com",
+      "dni": "789456123",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "nombre": "prueba1@gmail.com",
+      "correo": "prueba1@gmail.com",
+      "dni": "123456789",
+      "password": "123",
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Programación 1",
+      "categoria": "Programación",
+      "duracion": "3 meses",
+      "cupo": 9
+    },
+    {
+      "id": 2,
+      "nombre": "Programación 2",
+      "categoria": "Programación",
+      "duracion": "4 meses",
+      "cupo": 7
+    },
+    {
+      "id": 3,
+      "nombre": "Diseño Web",
+      "categoria": "Frontend",
+      "duracion": "2 meses",
+      "cupo": 11
+    },
+    {
+      "id": 4,
+      "nombre": "Bases de Datos",
+      "categoria": "Backend",
+      "duracion": "3 meses",
+      "cupo": 9
+    },
+    {
+      "id": 5,
+      "nombre": "Programación 4",
+      "categoria": "Avanzado",
+      "duracion": "5 meses",
+      "cupo": 10
+    }
+  ],
+  "inscripciones": [
+    {
+      "userId": "\"22897564\"",
+      "cursoId": 1761867151701,
+      "cursoNombre": "Analisis de Datos 2",
+      "categoria": "Backend",
+      "duracion": "2 meses",
+      "estado": "Activo",
+      "fecha": "30/10/2025",
+      "id": 1
+    },
+    {
+      "userId": null,
+      "cursoId": 2,
+      "cursoNombre": "Programación 2",
+      "categoria": "Programación",
+      "duracion": "4 meses",
+      "estado": "Activo",
+      "fecha": "30/10/2025",
+      "id": 2
+    },
+    {
+      "userId": "2",
+      "cursoId": 1,
+      "cursoNombre": "Programación 1",
+      "categoria": "Programación",
+      "duracion": "3 meses",
+      "estado": "Activo",
+      "fecha": "30/10/2025",
+      "id": 3
+    },
+    {
+      "userId": "2",
+      "cursoId": 3,
+      "cursoNombre": "Diseño Web",
+      "categoria": "Frontend",
+      "duracion": "2 meses",
+      "estado": "Activo",
+      "fecha": "30/10/2025",
+      "id": 4
+    }
+  ]
+}

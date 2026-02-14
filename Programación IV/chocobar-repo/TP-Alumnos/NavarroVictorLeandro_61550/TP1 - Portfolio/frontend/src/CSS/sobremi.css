@@ -1,0 +1,301 @@
+/* ==========================================================
+   SOBREMI.CSS — Sección Sobre mí (match Header & Global)
+   ========================================================== */
+
+.sobre-mi-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  position: relative;
+  padding: 0 1rem;
+}
+
+/* ==========================================================
+   📘 Contenido principal
+   ========================================================== */
+
+.sobre-mi-content {
+  flex: 1;
+  max-width: 720px;
+  text-align: center;
+}
+
+.sobre-mi-title {
+  font-size: clamp(1.8rem, 1.4rem + 1vw, 2.4rem);
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    var(--color-accent-1),
+    var(--color-accent-2)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sobre-mi-content p {
+  color: var(--color-text);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.sobre-mi-content strong {
+  color: var(--color-accent-1);
+  font-weight: 600;
+}
+
+/* === Animación fade-in === */
+.sobre-mi-content.fade-in {
+  animation: fadeIn 1.2s ease both;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ==========================================================
+   🧠 Skills Section
+   ========================================================== */
+
+.skills-section {
+  text-align: center;
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.skills-section h3 {
+  font-size: clamp(1.6rem, 1.2rem + 0.8vw, 2rem);
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    var(--color-accent-1),
+    var(--color-accent-2)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.skills-desc {
+  margin: 0 auto 2.5rem;
+  max-width: 700px;
+  color: var(--color-muted);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* === Categorías === */
+.skills-category {
+  margin-bottom: 3rem;
+}
+
+.skills-category h4 {
+  font-size: 1.3rem;
+  color: var(--color-accent-2);
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem 2.5rem;
+}
+
+.skill-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95px;
+  transition: all 0.3s ease;
+  position: relative;
+  border-radius: 12px;
+  padding: 0.5rem 0;
+}
+
+.skill-item span {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--color-text);
+  text-align: center;
+}
+
+/* Íconos */
+.skill-icon {
+  font-size: 3rem;
+  transition: all 0.3s ease;
+  filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.05));
+}
+
+/* Hover general con glow dinámico */
+.skill-item:hover {
+  transform: translateY(-8px) scale(1.05);
+  filter: brightness(1.15);
+}
+
+.skill-item:hover .skill-icon {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 10px currentColor);
+}
+
+/* ==========================================================
+   🌈 Colores por tecnología
+   ========================================================== */
+
+/* === Lenguajes === */
+.html {
+  color: #e44d26;
+} /* Naranja HTML */
+.css {
+  color: #1572b6;
+} /* Azul CSS */
+.js {
+  color: #f7df1e;
+} /* Amarillo JS */
+.ts {
+  color: #3178c6;
+} /* Azul TS */
+
+/* === Frontend === */
+.react {
+  color: #61dafb;
+} /* Celeste React */
+.vite {
+  color: #bd34fe;
+} /* Violeta Vite */
+
+/* === Backend === */
+.node {
+  color: #68a063;
+} /* Verde Node */
+.express {
+  color: #eeeeee;
+} /* Gris claro Express */
+.trpc {
+  color: #2f7bf6;
+} /* Azul tRPC */
+.graphql {
+  color: #e535ab;
+} /* Rosa GraphQL */
+.jwt {
+  color: #d63aff;
+} /* Violeta Auth */
+.crypto {
+  color: #00bfa6;
+} /* Verde agua Crypto */
+
+/* === Validación === */
+.zod {
+  color: #3fa2f6;
+}
+
+/* === Bases de datos === */
+.mysql {
+  color: #00758f;
+}
+.mongo {
+  color: #4db33d;
+}
+.mongoose {
+  color: #f29111;
+}
+
+/* === Herramientas === */
+.npm {
+  color: #cb3837;
+}
+.git {
+  color: #f14e32;
+}
+.github {
+  color: #ffffff;
+}
+
+/* === Gestión === */
+.trello {
+  color: #0079bf;
+}
+.jira {
+  color: #2684ff;
+}
+.scrum {
+  color: #ffca28;
+}
+
+/* ==========================================================
+   💡 Office / organización especial (si se usa)
+   ========================================================== */
+.skills-office {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.skills-office .skills-category {
+  flex: 1 1 300px;
+}
+
+/* ==========================================================
+   📱 Responsivo
+   ========================================================== */
+
+@media (max-width: 768px) {
+  .sobre-mi-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+  }
+
+  .sobre-mi-content {
+    padding: 0 1rem;
+  }
+
+  .skills-grid {
+    gap: 1.5rem;
+  }
+
+  .skill-item {
+    width: 80px;
+  }
+
+  .skill-icon {
+    font-size: 2.4rem;
+  }
+
+  .skills-category h4 {
+    font-size: 1.15rem;
+  }
+}
+
+/* ==========================================================
+   ✨ Extra: efecto de entrada global
+   ========================================================== */
+
+.skills-section.fade-in {
+  animation: fadeIn 1.4s ease both;
+}

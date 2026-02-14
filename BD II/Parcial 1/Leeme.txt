@@ -1,0 +1,67 @@
+# SISTEMA DE CONTROL DE STOCK - GRUPO 3 - C9
+
+#############
+en la carpeta "dist" hay un instalador de python version 3.13.3 para la comodidad del usuario
+############
+
+## Requisitos
+
+- Tener XAMPP instalado
+- Correr MySQL desde XAMPP
+- Tener Python 3 instalado
+- Instalar conector de MySQL:
+  (en CMD)
+  > pip install mysql-connector-python
+###############################
+¡¡¡Asegúrese de que MySQL esté ejecutándose en XAMPP y que el usuario `root` no tenga contraseña.!!!
+###############################
+---
+
+## Ejecutar el programa
+
+### Opción 1: abrir "ejecutar.bat"
+### Opción 2: abrir el directorio en la consola y ejecutar el siguiente comando:
+> python main.py
+
+---
+
+## Primer inicio
+
+La base de datos y sus tablas se crean automáticamente si no existen.  
+No se necesita archivo `.sql`.
+
+---
+
+## Funcionalidad del sistema
+
+El sistema permite operar con dos roles:
+
+- **Cajero**
+  - Generar nuevas boletas
+  - Agregar y quitar productos
+  - Confirmar y guardar ventas
+  - Ver boletas anteriores por cliente
+
+- **Receptor de mercadería**
+  - Registrar pedidos recibidos
+  - Añadir, editar y eliminar productos
+  - Gestionar proveedores
+
+---
+
+## Archivos incluidos
+
+- `main.py` (Código principal)
+- `textos.py` (Parte visual del sistema)
+- `boletas.json` (Registro de todas las boletas finalizadas)
+- `boleta_temporal.json` (Boleta en proceso)
+- `README.txt` (Este archivo)
+
+---
+
+## Reiniciar datos del sistema
+
+Para limpiar registros de ventas anteriores, borrar:
+
+- `boletas.json`
+- `boleta_temporal.json`

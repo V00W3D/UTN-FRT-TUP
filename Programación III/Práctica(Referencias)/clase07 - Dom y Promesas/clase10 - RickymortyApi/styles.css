@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 90%;
+    margin: 20px auto;
+}
+.h2 {
+    color: blue;
+    text-shadow: 2px 4px 4px white;
+}
+.header {
+    background-image: url("https://lafrikileria.com/blog/wp-content/uploads/2024/07/frases-rick-and-morty-640x506.png");
+    background-size: cover;
+}
+.h1 {
+    color: blue;
+    text-shadow: 2px 4px 4px white;
+}
+.h3 {
+    color: blue;
+    text-shadow: 2px 4px 4px white;
+}
+.main {
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.footer {
+    background-image: url("https://i.blogs.es/cfa26e/rickandmortycabecera/650_1200.jpg");
+    background-size: cover;
+}
+.card {
+    box-shadow: 2px 6px 6px white;
+}
+.card:hover {
+    transform: scale(1.05);
+    transition-duration: 1s;
+}

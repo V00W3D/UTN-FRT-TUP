@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <script type="module" src="./src/app.js"></script>
+    <title>Mensajería Instantánea</title>
+</head>
+<body>
+    <header class="header">
+        <h1>Mensajería Instantánea</h1>
+        <!-- Botón de configuración -->
+        <button id="boton-config" title="Editar perfil" style="background: none; border: none; font-size: 1.5rem; cursor: pointer;">
+        ⚙️
+        </button>
+
+        <script>
+        document.getElementById("boton-config").addEventListener("click", () => {
+            window.location.href = "./editar_user.html";
+        });
+        </script>
+    </header>
+    
+    <main class="main" id="main">
+    </main>
+    <footer class="footer">
+    <h1>Grupo 3 - Comisión 9</h1>
+    <br>
+    <ul>
+        <li>Diaz Rossini Juán José</li>
+        <li>Gallo Genaro</li>
+        <li>Liacoplo Gerónimo Emiliano</li>
+        <li>Navarro Victor Leandro</li>
+    </ul>
+    </footer>
+</body>
+</html>

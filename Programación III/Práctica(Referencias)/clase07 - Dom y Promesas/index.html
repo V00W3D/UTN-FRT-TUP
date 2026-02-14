@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+    <title>Clase 07 - DOM + PROMISES</title>
+  </head>
+  <body>
+    <header class="header">
+      <br />
+      <h1>Clase 07 - DOM + Promesas</h1>
+      <br />
+    </header>
+    <main class="main">
+      <br />
+      <h3>Manipulando el DOM</h3>
+      <br />
+      <h3>Listado de perrenques</h3>
+      <br />
+      <ul id="listado"></ul>
+      <br />
+      <br />
+      <h3>Listado de alumnos de la COM 9</h3>
+      <br />
+<form action="" id="formulario" >
+    <label for="">nombre</label>
+    <input type="text" placeholder="ingresa tu nombre" id="nombre" required>
+    <br>
+    <label for="">apellido</label>
+    <input type="text" placeholder="ingresa tu apellido" id="apellido" required>
+    <br>
+    <label for="">edad</label>
+    <input type="number" placeholder="ingresa tu edad" id="edad"
+    required>
+    <br>
+    <label for="">casado</label>
+    <input type="checkbox" id="casado">
+    <br>
+    <button type="submit" class="btn btn-primary">agregar</button>
+</form>
+
+      <br>
+      <table class="table table-striped" >
+        <thead>
+          <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Edad</th>
+            <th scope="col">Casado</th>
+          </tr>
+        </thead>
+        <tbody id="datosAlumnos">
+         
+        </tbody>
+      </table>
+      <br />
+      <br>
+
+      <aside class="aside">
+        <h4>Consumienod una API</h4>
+        <br>
+        
+
+      </aside>
+
+
+
+
+
+      <br>
+    </main>
+    <footer class="footer">
+      <br />
+      <h3>FRT UTN 2025</h3>
+      <br />
+    </footer>
+  </body>
+</html>

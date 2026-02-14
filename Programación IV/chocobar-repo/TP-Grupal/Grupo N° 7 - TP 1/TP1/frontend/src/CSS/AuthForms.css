@@ -1,0 +1,173 @@
+/* ==========================================================
+   💎 FORMAUTH — Formularios Login / Register (Slime Glass)
+   ========================================================== */
+
+.formauth {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+
+  width: clamp(280px, 35vw, 420px);
+  min-height: 500px;
+  padding: 2.8rem;
+  border-radius: 20px;
+  text-align: center;
+
+  background: rgba(10, 10, 10, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(22px);
+  box-shadow: 0 0 35px rgba(0, 255, 127, 0.15);
+  color: #f5f5f5;
+
+  animation: floatFade 0.7s ease-out both;
+}
+
+@keyframes floatFade {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* ==========================================================
+   🪶 Encabezado
+   ========================================================== */
+
+.formauth img {
+  width: 100%;
+  max-width: 160px;
+  border-radius: 48px;
+  object-fit: contain;
+  transition: transform 0.28s ease, box-shadow 0.28s ease, opacity 0.28s ease;
+  box-shadow: 0 6px 22px rgba(36, 224, 138, 0.08);
+}
+
+.formauth img:hover {
+  transform: scale(1.15);
+  cursor: pointer;
+  box-shadow: 0 10px 40px rgba(36, 224, 138, 0.15);
+}
+
+.formauth h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: var(--color-accent);
+  text-shadow: 0 0 10px rgba(0, 255, 127, 0.4);
+  margin-bottom: 1rem;
+}
+
+/* ==========================================================
+   🔠 Campos de entrada
+   ========================================================== */
+
+.input-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+/* Campo */
+.input-container input {
+  width: 100%;
+  padding: 16px 18px;
+  border: none;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+/* Hover / Focus */
+.input-container input:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.input-container input:focus {
+  border: 1px solid var(--color-accent);
+  background: rgba(255, 255, 255, 0.25);
+  color: #000;
+  box-shadow: 0 0 15px rgba(0, 255, 127, 0.3);
+}
+
+/* Label siempre visible pero se mueve al focus */
+.input-container label {
+  position: absolute;
+  left: 18px;
+  top: 16px;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 15px;
+  pointer-events: none;
+  transition: all 0.25s ease;
+  display: none;
+}
+
+.input-container input:focus + label,
+.input-container input:not(:placeholder-shown) + label {
+  display: block;
+  transform: translateY(-45px);
+  font-size: 20px;
+  color: var(--color-accent-light);
+}
+
+/* ==========================================================
+   🔘 Botón principal
+   ========================================================== */
+
+.formauth button {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(
+    135deg,
+    var(--color-accent-light),
+    var(--color-accent)
+  );
+  color: #000;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 0 15px rgba(0, 255, 127, 0.25);
+}
+
+.formauth button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 25px rgba(0, 255, 127, 0.45);
+}
+
+/* ==========================================================
+   📱 Responsividad
+   ========================================================== */
+
+@media (max-width: 768px) {
+  .formauth {
+    width: 80vw;
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .formauth {
+    width: 95vw;
+    padding: 1.5rem;
+  }
+
+  .input-container input {
+    font-size: 17px;
+  }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chat</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer></script>
+  <script type="module" src="./src/chat.js"></script>
+  <link rel="stylesheet" href="./css/chat.css">
+</head>
+<body>
+  <header>
+    <div class="user-info">
+      <img id="user-img" src="./img/default.png" alt="Usuario" class="mini-img" />
+      <span id="user-name">Cargando...</span>
+    </div>
+    <button id="cerrar-sesion">Cerrar sesión</button>
+  </header>
+
+  <main>
+    <div id="chat-container" class="chat-container">
+      <!-- Aquí se cargan los mensajes -->
+    </div>
+
+    <div class="chat-input">
+      <input type="text" id="message-input" placeholder="Escribe tu mensaje..." autocomplete="off" />
+      <button id="send-btn">Enviar</button>
+    </div>
+  </main>
+
+  <!-- Modal de edición -->
+  <div id="modal-editar" class="modal" style="display: none;">
+    <div class="modal-content">
+      <h3>Editar mensaje</h3>
+      <input type="text" id="nuevo-texto" placeholder="Nuevo texto" />
+      <div class="modal-buttons">
+        <button id="guardar-edicion">Guardar</button>
+        <button id="cancelar-edicion">Cancelar</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

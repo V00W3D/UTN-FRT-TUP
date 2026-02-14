@@ -1,0 +1,486 @@
+/* ===== ESTILO GENERAL (manteniendo la estética cyber-dark elegida) ===== */
+body {
+  background-color: #0e0e1a;
+  color: #eaeaea;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* ========== HEADER REWORK CYBER-ELEGANTE ========== */
+header.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #121e28;
+  box-shadow: 0 4px 10px rgba(0, 208, 255, 0.2);
+  border-bottom: 2px solid #007acc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 10px;
+}
+
+/* === LOGO DE LA EMPRESA === */
+header.header .logo-img {
+  max-height: 80px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 8px #00d0ff);
+}
+
+/* === CONTENEDOR FLEX GENERAL === */
+.header-content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* === SECCIÓN DEL USUARIO === */
+#usuarioactual {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #00d0ff;
+  font-weight: bold;
+}
+
+#usuarioactual img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border: 2px solid #00d0ff;
+  box-shadow: 0 0 10px rgba(0, 208, 255, 0.3);
+}
+
+#usuarioactual a img {
+  width: 28px;
+  height: 28px;
+  transition: 0.2s;
+}
+
+#usuarioactual a img:hover {
+  transform: scale(1.1);
+}
+
+#btnSesion {
+  background-color: #cc0033;
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#btnSesion:hover {
+  background-color: #ff4444;
+  color: black;
+}
+
+/* === NAV GENERAL === */
+header .nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+/* === SEARCH FORM === */
+.searchsection {
+  display: flex;
+  align-items: center;
+  background-color: #0d141a;
+  border: none;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.searchsection input {
+  background-color: transparent;
+  color: #eaeaea;
+  border: 1px solid #007acc;
+  padding: 8px 12px;
+  border-radius: 6px 0 0 6px;
+  outline: none;
+}
+
+.searchsection input:focus {
+  border-color: #00d0ff;
+}
+
+.searchsection button {
+  background-color: #007acc;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 0 6px 6px 0;
+}
+
+.searchsection button:hover {
+  background-color: #00d0ff;
+  color: black;
+}
+
+/* === NAV LINKS === */
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a,
+.nav-links li button {
+  text-decoration: none;
+  background-color: #121e28;
+  border: 1px solid #007acc;
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: #f0f0f0;
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.nav-links li a:hover,
+.nav-links li button:hover {
+  background-color: #007acc;
+  color: black;
+}
+
+/* === BOTÓN CARRITO === */
+#btnIrAlCarrito {
+  background-color: #3700ff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#btnIrAlCarrito:hover {
+  background-color: #00d0ff;
+  color: black;
+}
+
+
+
+/* ===== CAROUSEL ===== */
+.carousel {
+  max-width: 800px;
+  margin: 40px auto;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 2px solid #3700ff;
+  box-shadow: 0 0 12px rgba(0, 208, 255, 0.4);
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+  min-width: 100%;
+  height: 300px;
+  object-fit: fill;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 208, 255, 0.7);
+  border: none;
+  color: black;
+  padding: 8px 12px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 8px;
+  z-index: 10;
+  transition: 0.3s;
+}
+
+.carousel-btn:hover {
+  background-color: #3700ff;
+  color: white;
+}
+
+.carousel-btn.prev {
+  left: 10px;
+}
+
+.carousel-btn.next {
+  right: 10px;
+}
+
+/* ===== PRODUCTOS / TIENDA ===== */
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  padding: 30px;
+}
+
+.card {
+  background-color: #111825; /* Nuevo fondo oscuro elegante */
+  border: 1px solid #007acc; /* Azul brillante en vez de violeta */
+  border-radius: 12px;
+  width: 220px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(236, 243, 245, 0.15);
+  transition: 0.3s;
+  position:relative;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 14px #00d0ff;
+}
+
+
+.card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin: 4px 0;
+  font-size: 0.95rem;
+}
+
+.carrito-plus {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.carrito-plus img {
+  width: 28px;
+  height: 28px;
+  filter: brightness(0) invert(1);
+  transition: 0.3s;
+}
+
+.carrito-plus img:hover {
+  transform: scale(1.2);
+}
+
+/* ===== CARRITO DE COMPRA ===== */
+/* ========== CARRITO DE COMPRAS - CYBER STYLE ========== */
+.carrito-item {
+  background-color: #111825;
+  border: 1px solid #007acc;
+  border-radius: 12px;
+  display: flex;
+  gap: 16px;
+  padding: 15px;
+  margin: 10px 0;
+  align-items: center;
+  box-shadow: 0 0 12px rgba(0, 208, 255, 0.2);
+}
+
+.carrito-item img {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  object-fit: cover;
+  border: 2px solid #00d0ff;
+  box-shadow: 0 0 10px rgba(0, 208, 255, 0.2);
+}
+
+.carrito-info {
+  flex: 1;
+}
+
+.carrito-info p {
+  margin: 4px 0;
+  font-size: 0.9rem;
+}
+
+.carrito-controles {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.carrito-controles button {
+  background-color: #3700ff;
+  color: white;
+  border: none;
+  font-size: 1.2rem;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 8px rgba(55, 0, 255, 0.3);
+}
+
+.carrito-controles button:hover {
+  background-color: #00d0ff;
+  color: black;
+  box-shadow: 0 0 12px #00d0ff;
+}
+
+.carrito-total {
+  text-align: center;
+  color: #00d0ff;
+  font-size: 1.4rem;
+  margin-top: 20px;
+  text-shadow: 0 0 4px #00d0ff;
+}
+
+.carrito-finalizar {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.carrito-finalizar button {
+  background-color: #00d0ff;
+  color: black;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 10px rgba(0, 208, 255, 0.4);
+}
+
+.carrito-finalizar button:hover {
+  background-color: #3700ff;
+  color: white;
+}
+
+/* ========== MODAL DE COMPRA ========== */
+#modalCompra {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 20, 0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  padding: 10px;
+}
+
+#modalCompra .modal-contenido {
+  background-color: #111325;
+  color: #f0f0f0;
+  padding: 25px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 0 0 15px #00d0ff;
+  overflow-y: auto;
+}
+
+#modalCompra h2 {
+  text-align: center;
+  color: #00d0ff;
+  margin-bottom: 15px;
+  text-shadow: 0 0 6px #00d0ff;
+}
+
+.modal-detalles {
+  max-height: 300px;
+  overflow-y: auto;
+  margin: 10px 0;
+  border-top: 1px solid #3700ff;
+}
+
+.modal-item {
+  margin-bottom: 12px;
+  border-bottom: 1px solid #3700ff;
+  padding-bottom: 10px;
+}
+
+.modal-item-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.modal-item-info img {
+  width: 80px;
+  height: 80px;
+  object-fit: fill;
+  border-radius: 8px;
+  border: 2px solid #00d0ff;
+  box-shadow: 0 2px 6px rgba(0, 208, 255, 0.3);
+  justify-content: space-between;
+}
+
+.modal-total {
+  text-align: right;
+  color: #00ffff;
+  font-size: 1.2rem;
+  margin-top: 10px;
+  font-weight: bold;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+.modal-botones {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+#confirmarCompra {
+  background-color: #00a86b;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s;
+}
+
+#confirmarCompra:hover {
+  background-color: #00ffbb;
+  color: black;
+}
+
+#cancelarCompra {
+  background-color: #cc0033;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s;
+}
+
+#cancelarCompra:hover {
+  background-color: #ff4444;
+  color: black;
+}

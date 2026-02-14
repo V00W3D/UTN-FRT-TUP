@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header {
+    background-color: orange;
+}
+.main {
+    background-color: lightblue;
+}
+
+.footer {
+    background-color: orange;
+}
+.img-table {
+    width: 80px;
+    height: 80px;
+}
+
+.formulario {
+max-width: 40%;
+margin: 20px auto 20px auto;
+border: 2px solid #ffff;
+border-radius: 10px;
+box-shadow: 2px 4px 4px black;
+}

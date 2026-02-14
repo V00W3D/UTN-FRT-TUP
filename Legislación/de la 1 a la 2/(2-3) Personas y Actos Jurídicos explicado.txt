@@ -1,0 +1,596 @@
+Parte 1: Personas Jurídicas
+1. Concepto y fundamento legal
+
+El artículo 141 del Código Civil y Comercial de la Nación (CCyC) define a las personas jurídicas como “todos los entes a los que el ordenamiento jurídico les reconoce personalidad independiente de la de sus miembros”.
+En términos simples, esto significa que una persona jurídica es una organización a la cual la ley le da capacidad para actuar como si fuera una persona: puede tener derechos, obligaciones, comprar, vender, demandar y ser demandada, entre otras acciones.
+
+Las personas jurídicas se distinguen de las personas humanas porque no tienen existencia natural, sino legal. Su “vida” empieza y termina según lo que establezca la ley.
+
+2. Inicio de existencia y constitución
+
+Según el artículo 142 del CCyC, las personas jurídicas privadas comienzan a existir a partir de su constitución, es decir, desde el momento en que se cumple con todos los requisitos legales para su creación.
+En algunos casos, además de su constitución, la ley exige una autorización estatal para que puedan funcionar legalmente (por ejemplo, las fundaciones o asociaciones civiles).
+
+El acto de constitución debe plasmarse por escrito y puede realizarse mediante escritura pública o instrumento privado, según lo exija el tipo de entidad.
+A su vez, este documento debe contener un estatuto, que es el reglamento que establece el nombre, domicilio, objeto, duración, forma de administración y demás normas internas que regirán a la persona jurídica.
+
+3. Personalidad y efectos jurídicos
+
+De acuerdo con el artículo 143, las personas jurídicas son titulares de derechos y obligaciones desde su constitución.
+Esto implica que tienen una personalidad jurídica propia, separada de la de sus miembros o fundadores.
+
+Por lo tanto, los bienes y deudas de la persona jurídica no se confunden con los de sus socios o integrantes.
+Solo en casos excepcionales previstos por la ley (como fraude o abuso de la forma jurídica), los socios pueden responder con su patrimonio personal.
+
+4. Clasificación de las personas jurídicas
+
+El artículo 145 del CCyC distingue entre dos grandes categorías:
+
+a) Personas jurídicas públicas
+
+Son aquellas creadas por el Estado o por ley especial, con el fin de cumplir funciones públicas.
+Ejemplos:
+
+El Estado Nacional, las provincias, la Ciudad Autónoma de Buenos Aires y los municipios.
+
+Las entidades autárquicas o descentralizadas (por ejemplo, universidades nacionales).
+
+La Iglesia Católica.
+
+Los Estados extranjeros y las organizaciones internacionales reconocidas.
+
+Estas personas jurídicas están sometidas a un régimen de derecho público.
+
+b) Personas jurídicas privadas
+
+Son aquellas que crean los particulares para alcanzar fines de interés propio o social, pero sin carácter público.
+Ejemplos:
+
+Sociedades comerciales.
+
+Asociaciones civiles.
+
+Fundaciones.
+
+Mutuales, cooperativas, iglesias y partidos políticos.
+
+Cualquier otra entidad reconocida por ley.
+
+Se rigen principalmente por el derecho privado y, subsidiariamente, por sus estatutos.
+
+5. Atributos de la persona jurídica
+
+Al igual que las personas humanas, las personas jurídicas poseen una serie de atributos que permiten identificarlas y relacionarlas jurídicamente:
+
+Nombre: Es la denominación que las identifica legalmente. Debe ser único y no puede inducir a error sobre su naturaleza o finalidad.
+
+Domicilio: Es el lugar donde la persona jurídica tiene su sede o administración principal. A partir de allí se determinan las competencias judiciales y los efectos legales de sus actos.
+
+Capacidad: Las personas jurídicas tienen capacidad para adquirir derechos y contraer obligaciones, pero solo dentro de los límites de su objeto social o finalidad.
+
+Patrimonio: Es el conjunto de bienes y derechos de los que la persona jurídica es titular. Se encuentra separado del patrimonio de sus integrantes.
+
+Nacionalidad: Se determina por el lugar de constitución o por el domicilio principal de su administración.
+
+6. Gobierno y administración
+
+El funcionamiento interno de cada persona jurídica está regulado por su estatuto o acto constitutivo.
+Este documento debe prever:
+
+La forma de designación de los administradores o representantes legales.
+
+La duración de sus cargos y sus facultades.
+
+Los mecanismos de fiscalización o control interno.
+
+Los representantes de la persona jurídica actúan en su nombre y asumen responsabilidad frente a terceros cuando exceden sus poderes o violan la ley o el estatuto.
+
+El artículo 158 del CCyC aclara que los administradores deben actuar con lealtad y diligencia, procurando el interés de la entidad y no el propio.
+
+7. Responsabilidad
+
+La persona jurídica responde por los daños causados por sus representantes o dependientes en el ejercicio de sus funciones.
+Solo en casos de fraude, abuso de derecho o violación grave de la ley, puede “levantarse el velo societario”, permitiendo reclamar directamente a los socios o administradores.
+
+8. Disolución
+
+El artículo 160 del CCyC establece las causas por las cuales una persona jurídica se disuelve:
+
+Por decisión de sus miembros o del órgano social competente.
+
+Por la conclusión del objeto o la imposibilidad de cumplirlo.
+
+Por el vencimiento del plazo de duración fijado en el estatuto.
+
+Por la quiebra o fusión con otra entidad.
+
+Por revocación estatal de la autorización, cuando corresponda.
+
+Por agotamiento del patrimonio o de los bienes destinados a su finalidad.
+
+Por las demás causas previstas en su estatuto.
+
+Una vez disuelta, la persona jurídica entra en liquidación, etapa en la que se cancelan deudas, se venden bienes y se distribuye el remanente según las reglas estatutarias o legales.
+
+9. Tipos de personas jurídicas privadas
+
+A continuación se desarrollan las principales formas de personas jurídicas privadas reconocidas por el Código Civil y Comercial: asociaciones civiles, simples asociaciones y fundaciones.
+
+A. Asociaciones Civiles
+a) Concepto
+
+Las asociaciones civiles son entidades sin fines de lucro, formadas por un conjunto de personas que se unen de manera estable para perseguir un objetivo común de interés general.
+Su regulación se encuentra en los artículos 168 a 186 del CCyC.
+
+Ejemplos: clubes deportivos, ONGs, asociaciones culturales o profesionales.
+
+b) Acto constitutivo
+
+Debe formalizarse por escritura pública o instrumento privado con firma certificada, y requiere autorización estatal para funcionar legalmente.
+
+c) Contenido del estatuto
+
+El artículo 170 dispone que el estatuto debe incluir:
+
+Denominación, domicilio y objeto.
+
+Requisitos de admisión, renuncia y exclusión de los asociados.
+
+Derechos y deberes de los miembros.
+
+Organización de los órganos de gobierno y fiscalización.
+
+Normas para la reforma del estatuto.
+
+Duración de la entidad y destino de sus bienes en caso de disolución.
+
+d) Órganos de la asociación
+
+Las asociaciones civiles deben contar, como mínimo, con los siguientes órganos:
+
+Asamblea de asociados: órgano supremo, que decide las cuestiones más importantes, como la elección de autoridades o la modificación del estatuto.
+
+Comisión Directiva o de Administración: encargada de la gestión diaria.
+
+Órgano de fiscalización: puede ser un síndico individual o una comisión revisora de cuentas, que controla la administración y el cumplimiento del estatuto.
+
+e) Control estatal
+
+El Estado puede supervisar a las asociaciones civiles para garantizar que cumplan con su finalidad y no desvíen sus recursos hacia fines lucrativos o ilegales.
+
+f) Disolución
+
+Las causas son las mismas que para las personas jurídicas en general.
+Si el número de socios se reduce por debajo del mínimo exigido, tienen un plazo de seis meses para regularizar la situación; de lo contrario, se disuelven.
+
+B. Simples Asociaciones
+a) Concepto
+
+Las simples asociaciones (arts. 187 a 192 CCyC) son agrupaciones sin fines de lucro, similares a las asociaciones civiles, pero más informales y con menos requisitos legales.
+No requieren autorización estatal previa para su funcionamiento.
+
+b) Constitución
+
+Pueden formarse mediante instrumento privado, y adquieren personalidad jurídica por su sola constitución.
+
+c) Responsabilidad
+
+Los administradores son responsables solidariamente frente a terceros si la asociación incurre en deudas y no posee bienes suficientes.
+
+d) Fiscalización
+
+No están obligadas a tener un órgano de fiscalización, aunque pueden establecerlo voluntariamente en su estatuto.
+
+C. Fundaciones
+a) Concepto
+
+Las fundaciones son entidades sin fines de lucro creadas por una o más personas, quienes afectan parte de su patrimonio a un fin de interés general (educativo, cultural, científico, asistencial, etc.).
+No tienen socios, sino beneficiarios.
+
+b) Constitución
+
+Según el artículo 193 del CCyC, las fundaciones deben constituirse por:
+
+Escritura pública o testamento.
+
+Deben contar con patrimonio inicial suficiente.
+
+Requieren autorización estatal para su funcionamiento.
+
+c) Gobierno
+
+Están administradas por un Consejo de Administración, integrado por al menos tres miembros, cuyas funciones y duración se fijan en el estatuto.
+Los miembros del consejo deben actuar en interés de la fundación y pueden ser responsables por mala administración.
+
+d) Reformas y disolución
+
+Cualquier modificación del estatuto o disolución debe ser aprobada por la autoridad de contralor.
+En caso de disolución, el remanente patrimonial debe destinarse a otra fundación o entidad de objeto similar, o, en su defecto, al Estado.
+Parte 2: Actos Jurídicos
+1. Concepto general
+
+El acto jurídico es toda manifestación de voluntad realizada con la intención de producir efectos jurídicos, es decir, crear, modificar, transferir o extinguir derechos y obligaciones.
+
+El artículo 259 del Código Civil y Comercial (CCyC) define al acto jurídico como aquel que tiene por fin constituir, modificar o extinguir relaciones o situaciones jurídicas.
+A diferencia de los hechos jurídicos (que producen consecuencias legales sin intención de hacerlo), en el acto jurídico la voluntad es esencial.
+
+Ejemplos: celebrar un contrato, donar un bien, otorgar un testamento o contraer matrimonio.
+
+2. Elementos esenciales del acto jurídico
+
+Para que un acto jurídico sea válido, deben concurrir los siguientes elementos esenciales:
+
+a) Sujeto
+
+Son las personas (humanas o jurídicas) que intervienen en el acto.
+Deben tener capacidad jurídica, es decir, aptitud para adquirir derechos y contraer obligaciones.
+La capacidad se presume, salvo prueba en contrario (por ejemplo, en menores o incapaces).
+
+b) Objeto
+
+Es la materia o contenido del acto, aquello sobre lo cual recae la voluntad.
+Debe ser:
+
+Lícito: no puede contrariar las leyes ni las buenas costumbres.
+
+Posible: tanto física como jurídicamente.
+
+Determinable: debe poder precisarse, aunque no sea exacto en el momento del acto.
+
+Ejemplo: vender un bien que existe o puede existir (no puede venderse algo inexistente o fuera del comercio).
+
+c) Causa
+
+Es el motivo o finalidad inmediata del acto jurídico.
+Debe ser lícita, es decir, no contraria al orden público ni a las buenas costumbres.
+Una causa falsa o ilícita puede provocar la nulidad del acto.
+
+Ejemplo: si se dona un bien para beneficiar a una persona necesitada, la causa es lícita; si se dona para ocultar un fraude, es ilícita.
+
+d) Forma
+
+Es el modo en que se manifiesta la voluntad.
+El principio general es la libertad de formas, salvo que la ley exija una determinada (por ejemplo, la escritura pública para transferir inmuebles).
+
+3. Clasificación de los actos jurídicos
+
+Los actos jurídicos pueden clasificarse según diferentes criterios:
+
+a) Por su forma
+
+Formales absolutos: deben realizarse mediante escritura pública o bajo una forma determinada por ley. Ejemplo: donación de un inmueble.
+
+Formales relativos: la forma solo se exige para determinados efectos o frente a terceros.
+
+No formales o consensuales: basta el acuerdo de voluntades.
+
+b) Por su contenido
+
+Unilaterales: basta la voluntad de una sola parte (por ejemplo, testamento).
+
+Bilaterales o plurilaterales: requieren la voluntad de dos o más partes (por ejemplo, contratos).
+
+c) Por su causa
+
+A título oneroso: implican una contraprestación.
+
+A título gratuito: no existe contraprestación.
+
+De disposición: transmiten o extinguen derechos.
+
+De administración: conservan o gestionan bienes.
+
+4. Expresión escrita e instrumentos
+
+El Código Civil y Comercial regula cómo debe expresarse un acto jurídico por escrito, según el tipo de documento.
+
+a) Instrumento público
+
+Es aquel otorgado ante escribano público u oficial competente, y dotado de fe pública.
+Su validez no depende de la voluntad de las partes, sino de la intervención del funcionario autorizado.
+Tienen fuerza probatoria plena y se presumen auténticos.
+
+b) Instrumento privado
+
+Es el documento firmado por las partes sin intervención de un escribano.
+Su validez depende de que la firma sea reconocida o no sea negada.
+Produce efectos entre las partes y, en algunos casos, frente a terceros.
+
+c) Firma
+
+Es la manifestación escrita del consentimiento de una persona.
+Puede ser:
+
+Manuscrita, cuando se realiza de puño y letra.
+
+A ruego, cuando otra persona firma por quien no puede hacerlo, con presencia de testigos.
+
+Digital, regulada por la Ley 25.506, que permite verificar la autoría e integridad del documento electrónico.
+
+5. Acto voluntario
+
+El artículo 260 del CCyC establece que el acto jurídico debe ser voluntario, es decir, surgir de la manifestación libre y consciente de la voluntad.
+No hay acto jurídico válido si la voluntad está afectada por vicios que impidan su formación libre.
+
+Los vicios de la voluntad son el error, dolo, violencia y lesión. Cuando alguno de ellos está presente, el acto puede ser anulable o, en algunos casos, nulo.
+
+6. Vicios del acto jurídico
+a) Error
+
+El error consiste en una falsa representación de la realidad que afecta la voluntad del sujeto.
+Se clasifica en:
+
+Error de hecho: cuando se yerra sobre un hecho concreto (por ejemplo, sobre la persona, el objeto o las condiciones del acto).
+
+Esencial: afecta la voluntad de manera decisiva y puede invalidar el acto.
+
+Accidental: no afecta la esencia del acto y no lo invalida.
+Ejemplo: comprar un terreno creyendo que mide 500 m² cuando mide 100 m² (error esencial).
+
+Error de derecho: consiste en ignorar o malinterpretar la ley.
+No excusa ni invalida el acto, salvo que sea la causa determinante y excusable del mismo.
+
+b) Dolo
+
+El dolo es la maniobra engañosa o artificio realizado para inducir a una persona a celebrar un acto que, de haber conocido la verdad, no habría hecho.
+Se diferencia del error en que el dolo supone intención de engañar.
+
+Clases:
+
+Dolo esencial o principal: induce a realizar el acto. Lo invalida.
+
+Dolo incidental: no impide la formación del acto, pero da derecho a reparación de daños.
+
+Ejemplo: vender un auto asegurando que nunca tuvo accidentes cuando en realidad fue chocado y reparado.
+
+c) Violencia
+
+La violencia puede ser física o moral y se produce cuando una persona es forzada a realizar un acto contra su voluntad.
+Anula el acto jurídico porque la voluntad se encuentra viciada.
+
+Violencia física: cuando se emplea fuerza material.
+
+Violencia moral o intimidación: cuando se infunde un temor grave (por ejemplo, amenazas a la vida o reputación).
+
+La violencia debe ser grave, injusta y determinante del acto. Si la persona hubiera actuado igual sin ella, el acto sigue siendo válido.
+
+d) Lesión
+
+La lesión se configura cuando, en una situación de necesidad, debilidad o inexperiencia, una persona se ve obligada a aceptar condiciones notoriamente desproporcionadas o injustas.
+El acto puede ser anulado o ajustado equitativamente por el juez.
+
+Ejemplo: alguien vende su casa a un precio irrisorio porque necesita dinero urgente para un tratamiento médico.
+
+e) Simulación
+
+La simulación se produce cuando las partes ocultan la verdadera naturaleza del acto o aparentan uno distinto al real.
+Puede ser:
+
+Absoluta: se simula un acto que en realidad no existe.
+Ejemplo: una compraventa ficticia sin intención de transferir el bien.
+
+Relativa: se disfraza un acto bajo la apariencia de otro.
+Ejemplo: una donación encubierta bajo forma de venta.
+
+Además, puede ser:
+
+Lícita: cuando no hay intención de perjudicar a terceros ni de violar la ley.
+
+Ilícita: cuando busca causar daño o eludir normas legales. En este caso, el acto es nulo.
+
+f) Fraude
+
+El fraude o acción en perjuicio de acreedores ocurre cuando una persona realiza un acto jurídico con el fin de perjudicar a sus acreedores, disminuyendo o ocultando su patrimonio.
+Por ejemplo, vender bienes a un familiar para evitar que sean embargados.
+
+Los acreedores pueden solicitar la inoponibilidad del acto, es decir, que el acto no les sea aplicable y puedan reclamar sobre esos bienes.
+
+7. Nulidad e inoponibilidad
+a) Nulidad
+
+La nulidad implica que el acto carece de efectos jurídicos por haber nacido con un vicio o defecto grave.
+Según su gravedad, puede ser:
+
+Nulidad absoluta: protege el interés público. No puede ser convalidada ni confirmada por las partes.
+Ejemplo: actos contrarios a la ley o realizados por incapaces absolutos.
+
+Nulidad relativa: protege intereses particulares y puede ser confirmada por quien tenga derecho a reclamarla.
+
+Total o parcial: puede afectar todo el acto o solo una de sus cláusulas.
+
+Efectos: el acto se considera como si nunca hubiese existido. Las partes deben restituirse las prestaciones (retroactividad).
+
+b) Confirmación
+
+La confirmación (art. 381 y ss. del CCyC) es el acto por el cual la parte afectada por un vicio renuncia al derecho de pedir la nulidad y acepta mantener la validez del acto.
+
+Puede ser:
+
+Expresa: mediante declaración escrita o verbal.
+
+Tácita: cuando se cumplen voluntariamente las obligaciones derivadas del acto sin reclamar su nulidad.
+
+c) Inoponibilidad
+
+La inoponibilidad significa que el acto, aunque válido entre las partes, no produce efectos frente a ciertos terceros que la ley protege.
+No destruye el acto, solo limita su eficacia.
+
+Ejemplo: un deudor que vende sus bienes para evitar el embargo no puede oponer esa venta a sus acreedores.
+
+Diferencia con la nulidad:
+
+En la nulidad, el acto no tiene validez jurídica.
+
+En la inoponibilidad, sigue siendo válido entre las partes, pero no frente a terceros perjudicados.
+
+Parte 3: Nulidad, Confirmación e Inoponibilidad
+1. Nulidad
+a) Concepto
+
+La nulidad es la sanción legal que priva de validez a un acto jurídico por haber sido realizado sin reunir los requisitos esenciales exigidos por la ley.
+Su fundamento radica en el interés general de asegurar que los actos jurídicos se ajusten al orden público, la moral y la buena fe.
+
+Un acto nulo no produce efectos jurídicos y, en consecuencia, se considera como si nunca hubiera existido.
+Sin embargo, cuando el vicio no afecta la totalidad del acto, la nulidad puede ser parcial, conservándose las partes válidas.
+
+b) Tipos de nulidad
+1. Nulidad absoluta
+
+Protege el interés público.
+El acto es nulo de pleno derecho, sin necesidad de declaración judicial, aunque puede pedirse su constatación judicial para efectos prácticos.
+No puede ser confirmada ni saneada por las partes, ya que el vicio es insubsanable.
+
+Ejemplos:
+
+Actos que violan normas de orden público.
+
+Actos con objeto ilícito (por ejemplo, contratos de tráfico de drogas).
+
+Actos realizados por incapaces absolutos sin representante.
+
+Actos que contrarían la moral o las buenas costumbres.
+
+Cualquier interesado o incluso el Ministerio Público puede invocar esta nulidad.
+
+2. Nulidad relativa
+
+Protege intereses privados y puede ser convalidada por la persona a quien la ley busca proteger.
+Requiere una declaración judicial para producir efectos.
+El acto se presume válido hasta que se declare su nulidad.
+
+Ejemplos:
+
+Actos celebrados por menores emancipados fuera de su capacidad.
+
+Contratos con error, dolo o violencia.
+
+Actos realizados por persona con incapacidad relativa o vicio del consentimiento.
+
+Solo la parte perjudicada o sus herederos pueden invocarla.
+
+3. Nulidad total y parcial
+
+La nulidad total afecta a todo el acto, mientras que la nulidad parcial solo recae sobre una parte o cláusula del mismo.
+
+El artículo 386 del CCyC dispone que, si es posible, debe conservarse la parte válida del acto, siempre que pueda subsistir sin la disposición nula.
+
+Ejemplo:
+Si una cláusula de un contrato establece intereses usurarios, se elimina esa cláusula pero el contrato de préstamo continúa válido con la tasa legal.
+
+c) Efectos de la nulidad
+
+Retroactividad: el acto se considera inexistente desde el origen.
+
+Restitución: las partes deben devolverse las prestaciones recibidas (art. 390 CCyC).
+
+Indemnización: si una parte actuó de mala fe, debe reparar los daños causados.
+
+Conservación de efectos válidos: si hay partes del acto no afectadas por el vicio, se mantienen.
+
+Oponibilidad a terceros: los terceros de buena fe quedan protegidos en algunos casos.
+
+d) Acción de nulidad
+
+La nulidad puede ser declarada:
+
+De oficio por el juez (si es absoluta).
+
+A pedido de parte (si es relativa).
+
+Los plazos para ejercer la acción varían según el caso, pero en general se rigen por la prescripción de dos años (nulidad relativa), contados desde que cesa el vicio o desde que se tiene conocimiento del mismo.
+
+2. Confirmación
+a) Concepto general
+
+La confirmación es el acto mediante el cual la parte que podría impugnar un acto anulable renuncia a hacerlo, manteniendo su validez.
+Solo es posible en los casos de nulidad relativa, porque la nulidad absoluta es insubsanable.
+
+El artículo 381 del CCyC dispone que la confirmación “purifica” el acto, eliminando el vicio y produciendo efectos retroactivos como si nunca hubiera existido el defecto.
+
+b) Requisitos
+
+Para que la confirmación sea válida, deben cumplirse tres condiciones:
+
+Que el acto sea anulable y no nulo absoluto.
+
+Que el vicio haya cesado o desaparecido (por ejemplo, que el menor haya alcanzado la mayoría de edad).
+
+Que quien confirma tenga conocimiento del vicio y la intención de subsanarlo.
+
+c) Formas de confirmación
+
+Expresa: cuando la parte manifiesta por escrito o verbalmente su voluntad de mantener el acto.
+Ejemplo: una persona declara en escritura que ratifica un contrato celebrado durante su minoría de edad.
+
+Tácita: cuando la persona realiza actos que implican aceptación del acto viciado, como ejecutar sus obligaciones sin impugnarlo.
+Ejemplo: continuar pagando las cuotas de un contrato que podía anularse.
+
+d) Efectos
+
+La confirmación convalida retroactivamente el acto.
+
+Extingue el derecho a pedir la nulidad.
+
+No afecta derechos de terceros de buena fe adquiridos antes de la confirmación.
+
+Una vez confirmado, el acto se considera plenamente válido y eficaz.
+
+3. Inoponibilidad
+a) Concepto
+
+La inoponibilidad no destruye el acto jurídico, sino que limita sus efectos frente a ciertos terceros que la ley protege.
+El acto sigue siendo válido entre las partes, pero no puede hacerse valer frente a terceros.
+
+El artículo 392 del CCyC establece que la inoponibilidad procede cuando un acto jurídico lesiona el interés legítimo de un tercero protegido por la ley, como los acreedores.
+
+b) Fundamento
+
+El fundamento de la inoponibilidad radica en evitar el fraude y proteger la seguridad jurídica de los terceros.
+Busca impedir que las partes usen la validez formal del acto para perjudicar derechos ajenos.
+
+c) Ejemplos
+
+Un deudor vende todos sus bienes a un familiar para evitar que sean embargados.
+→ La venta es válida entre las partes, pero inoponible frente a los acreedores.
+
+Una sociedad omite inscribir su contrato social.
+→ El contrato es válido internamente, pero inoponible frente a terceros hasta su inscripción.
+
+d) Diferencias entre nulidad e inoponibilidad
+Aspecto	Nulidad	Inoponibilidad
+Efecto	Destruye el acto	No lo destruye, solo limita efectos
+Ámbito	Entre las partes y frente a todos	Solo frente a ciertos terceros
+Causa	Vicio en el acto (ilegalidad o defecto)	Acto válido usado para perjudicar
+Naturaleza	Sanción	Protección
+Posibilidad de confirmación	Solo la nulidad relativa	No aplica (el acto sigue válido)
+4. Otras formas de invalidez
+
+Además de la nulidad e inoponibilidad, existen otras figuras que afectan la eficacia del acto jurídico sin anularlo directamente.
+
+a) Ineficacia
+
+El acto no produce efectos porque falta un requisito posterior, como la inscripción registral en un contrato de compraventa de inmueble.
+
+b) Resolución
+
+Se extingue el acto por incumplimiento o condición resolutoria, no por vicio inicial.
+
+c) Rescisión
+
+Las partes acuerdan deshacer el acto válido por razones sobrevinientes.
+
+Bibliografía
+
+Código Civil y Comercial de la Nación Argentina, Ley 26.994 (2015).
+
+Alterini, A. A. — Derecho Civil. Parte General, Abeledo Perrot.
+
+Borda, G. — Tratado de Derecho Civil. Parte General.
+
+Rivera, J. — Instituciones de Derecho Civil.
+
+Kemelmajer de Carlucci, A. — Código Civil y Comercial Comentado.
+
+Lorenzetti, R. — Código Civil y Comercial de la Nación Comentado.
+
+Guastavino, E. — Manual de Derecho Civil.

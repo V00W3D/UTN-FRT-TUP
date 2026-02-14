@@ -1,0 +1,6 @@
+export const LOGIN = "/"
+export const REGISTER = "/register"
+export const PERSONAJES = "/personajes"
+export const PERSONAJE = "/personaje/:id"
+export const ERROR = "*"
+export const BASE_URL = "https://dragonball-api.com/api/"

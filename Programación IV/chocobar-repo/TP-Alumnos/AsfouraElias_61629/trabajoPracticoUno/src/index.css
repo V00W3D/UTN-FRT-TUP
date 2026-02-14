@@ -1,0 +1,39 @@
+:root {
+  font-family: "tactic sans";
+  line-height: 1.5;
+  color-scheme: light dark;
+}
+
+@font-face {
+  font-family: 'Tactic Sans';
+  src: url("./assets/fonts/TacticSansExd-Med.otf") format("OpenType");
+  font-weight: 500;
+  font-variant: normal;
+  
+}
+
+@font-face {
+  font-family: 'Tactic Sans';
+  src: url("./assets/fonts/TacticSansExd-Lgt.otf") format("OpenType");
+  font-weight: 300;
+  font-variant: normal;
+}
+
+@font-face {
+  font-family: 'Tactic Sans';
+  src: url("./assets/fonts/TacticSans-Bld.otf") format("OpenType");
+  font-weight: 700;
+  font-variant: normal;
+}
+
+
+a {
+  text-decoration: inherit;
+}
+a:hover {
+  color: #0378e6;
+}
+
+body {
+  margin: 0;
+}

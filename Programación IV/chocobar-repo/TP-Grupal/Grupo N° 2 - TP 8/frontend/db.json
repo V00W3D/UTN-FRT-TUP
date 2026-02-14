@@ -1,0 +1,93 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Administrador",
+      "email": "admin@ong.com",
+      "contraseña": "123456",
+      "telefono": "1123456789",
+      "direccion": "Oficina Central",
+      "rol": "admin"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan Pérez",
+      "email": "juan@ong.com",
+      "contraseña": "juan123",
+      "telefono": "1134567890",
+      "direccion": "Buenos Aires",
+      "rol": "colaborador"
+    },
+    {
+      "id": 3,
+      "nombre": "María López",
+      "email": "maria@example.com",
+      "telefono": "1145678901",
+      "direccion": "Av. Rivadavia 1020, Buenos Aires",
+      "rol": "donante"
+    },
+    {
+      "id": "d495951b-9d4e-49ee-8d81-0995e8c8aeb6",
+      "nombre": "uwu",
+      "email": "awa@uwu.com",
+      "rol": "usuario",
+      "password": "123"
+    }
+  ],
+  "beneficiarios": [
+    {
+      "id": 1,
+      "nombre": "Comedor San José",
+      "direccion": "Av. Belgrano 1550, Buenos Aires",
+      "contacto": "1134567890"
+    },
+    {
+      "id": 2,
+      "nombre": "Merendero Luz de Esperanza",
+      "direccion": "Calle Mitre 880, Córdoba",
+      "contacto": "1145678901"
+    }
+  ],
+  "donaciones": [
+    {
+      "id": "d001",
+      "donanteId": 3,
+      "tipo": "Alimento",
+      "descripcion": "Arroz 1kg",
+      "cantidad": 20,
+      "unidad": "paquetes",
+      "fecha_donacion": "2025-03-01",
+      "estado": "pendiente"
+    },
+    {
+      "id": "d002",
+      "donanteId": 3,
+      "tipo": "Ropa",
+      "descripcion": "Ropa de abrigo",
+      "cantidad": 10,
+      "unidad": "bolsas",
+      "fecha_donacion": "2025-03-05",
+      "estado": "entregado"
+    },
+    {
+      "id": "c6a1",
+      "usuarioId": 2,
+      "campañaId": 1,
+      "producto": "lñkñkl",
+      "cantidad": 1,
+      "tipo": "Alimento",
+      "fecha": "2025-11-01T21:22:35.686Z"
+    }
+  ],
+  "entregas": [
+    {
+      "id": "e001",
+      "donacionId": "d002",
+      "beneficiarioId": 1,
+      "cantidad_entregada": 10,
+      "fecha_entrega": "2025-03-10",
+      "responsableId": 2,
+      "confirmada": true
+    }
+  ]
+}

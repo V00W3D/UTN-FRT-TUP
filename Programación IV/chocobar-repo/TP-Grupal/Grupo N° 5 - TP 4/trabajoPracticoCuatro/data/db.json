@@ -1,0 +1,80 @@
+{
+  "Alumnos": [
+    {
+      "id": "1",
+      "nombre": "Bautista Díaz",
+      "dni": 32424234,
+      "edad": 19,
+      "fecha": "19-05-2025"
+    },
+    {
+      "id": "2",
+      "nombre": "Facundo Salvatierra",
+      "dni": 3235235,
+      "edad": 28,
+      "fecha": "12-01-2025"
+    }
+  ],
+  "Libros": [
+    {
+      "id": "1",
+      "titulo": "prueba1",
+      "autor": "Bautista Díaz",
+      "año": 2010
+    },
+    {
+      "id": "2",
+      "titulo": "prueba2",
+      "autor": "Rubén Cabanellas",
+      "año": 2000
+    },
+    {
+      "id": "3",
+      "titulo": "prueba3",
+      "autor": "Iván Velardez",
+      "año": 2009
+    }
+  ],
+  "Auditoria": [
+    {
+      "id": "1",
+      "usuario": "Bautista Díaz",
+      "accion": "Registró un alumno",
+      "fecha": "02/11/25",
+      "hora": "16:41"
+    },
+    {
+      "id": "2",
+      "usuario": "Ivan Velardez",
+      "accion": "Eliminó un usuario",
+      "fecha": "02/11/25",
+      "hora": "09:22"
+    },
+    {
+      "id": "3",
+      "usuario": "Rubén Cabanellas",
+      "accion": "Modificó un alumno",
+      "fecha": "01/11/25",
+      "hora": "12:02"
+    },
+    {
+      "id": "4",
+      "usuario": "Facundo Salvatierra",
+      "accion": "Modificó el DNI de un alumno",
+      "fecha": "29/10/25",
+      "hora": "15:54"
+    }
+  ],
+  "Admins": [
+    {
+      "nombre": "Pepito Díaz",
+      "contrasena": "pepito123",
+      "id": "ac4d"
+    },
+    {
+      "nombre": "Pepito Dupuy",
+      "contrasena": "pepito",
+      "id": "3862"
+    }
+  ]
+}

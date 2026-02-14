@@ -1,0 +1,153 @@
+/* =======================================================
+   🌸 HOME LAYOUT — Sakura Glass Theme
+   ======================================================= */
+
+:root {
+  --home-bg: #fff8fb;
+  --home-surface: rgba(255, 255, 255, 0.5);
+  --home-border: rgba(255, 182, 193, 0.25);
+  --home-accent: #f4a6b0;
+  --home-accent-light: #ffd1dc;
+  --home-text: #4a3c42;
+  --home-shadow: rgba(255, 182, 193, 0.35);
+  --transition: all 0.35s ease;
+  --font-sans: "Poppins", "Nunito", "Noto Sans JP", sans-serif;
+}
+
+/* 🩰 Layout principal */
+.home-layout {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--home-text);
+  font-family: var(--font-sans);
+}
+
+/* 🎥 Video de fondo */
+.home-bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.85) contrast(1.05) saturate(1.1) blur(0.5px);
+  opacity: 0.92;
+  z-index: 0;
+}
+
+/* 🩵 Contenido */
+.home-layout-content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 💮 Header */
+.home-header-wrapper {
+  border-bottom: 1px solid var(--home-border);
+  padding: 0.8rem 1.5rem;
+  border-radius: 0 0 18px 18px;
+  animation: headerFadeIn 0.8s ease;
+}
+
+/* 🌺 Main */
+.home-main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+  overflow-y: auto;
+  animation: contentFadeIn 0.9s ease;
+}
+
+/* =======================================================
+   💮 HOME HEADER — Sakura Navbar Layout
+   ======================================================= */
+
+.home-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+  background: transparent;
+}
+
+.home-header-left {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.home-header-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 🧭 Ajuste de sombra y efecto */
+.home-header-container {
+  transition: all 0.3s ease;
+}
+
+/* Logo del SmoothNavbar con estilo rosita */
+.smooth-navbar h2 {
+  background: linear-gradient(
+    90deg,
+    var(--home-accent),
+    var(--home-accent-light)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1.5px;
+  text-shadow: 0 0 8px rgba(255, 182, 193, 0.3);
+}
+
+/* Animations */
+@keyframes headerFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes contentFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* 🔧 FIX HEADER POSICIÓN FIJA */
+.home-header-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  border-radius: 0 0 18px 18px;
+  padding: 0.8rem 1.5rem;
+}
+
+/* 💕 Empuja el contenido para que no quede oculto debajo del header */
+.home-main {
+  padding-top: 100px; /* o lo que mida tu header */
+}

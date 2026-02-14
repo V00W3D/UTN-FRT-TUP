@@ -1,0 +1,14 @@
+Programación 4 – Tecnicatura Universitaria en
+
+Programación – UTN FRT
+
+Trabajo Práctico – Enunciados para 10 Grupos
+Profesor: Chocobar Matías
+
+■ TP 1 – Sistema de Gestión de Inscripciones a Cursos Online
+Una academia privada requiere una plataforma que gestione cursos, alumnos e inscripciones. El equipo
+deberá desarrollar un sistema que permita: registrar cursos (nombre, categoría, duración, cupo), registrar
+alumnos (nombre, correo, DNI), inscribir alumnos en cursos controlando cupos, y listar inscripciones,
+cursos y alumnos. Se deberá diseñar la arquitectura desde el inicio para soportar autenticación, rutas
+privadas y roles en futuras iteraciones, manteniendo separación clara de componentes, servicios y
+utilidades.

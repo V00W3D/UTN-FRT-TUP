@@ -1,0 +1,15 @@
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+ 
+
+ 
+  background-image: url('/blue-blur-background-colorful-gradient-abstract-illustration-in-blur-style-vector.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: overlay;
+}

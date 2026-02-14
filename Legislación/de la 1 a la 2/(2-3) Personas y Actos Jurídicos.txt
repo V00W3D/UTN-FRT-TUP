@@ -1,0 +1,825 @@
+2.025 2° Año TUP - UTN
+LEGISLACIÓN
+Profesora:
+Dra. Lonati,
+Marcela Paola
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Definición
+Artículo 141.- “Definición. Son personas jurídicas todos los entes a los cuales el ordenamiento jurídico les confiere
+aptitud para adquirir derechos y contraer obligaciones para el cumplimiento de su objeto y los fines de su
+creación”.
+Es de destacar que a diferencia de la persona humana que “goza” de personalidad por derecho propio (art. 22), en
+el caso de la persona jurídica es la legislación la que “les confiere” personalidad cuando el ente es útil o necesario,
+pero limita esa persona conferida al cumplimiento del objeto y fines de su creación.
+Comienzo de la existencia
+Artículo 142.- “Comienzo de la existencia. La existencia de la persona jurídica privada comienza desde su
+constitución. No necesita autorización legal para funcionar; excepto disposición legal en contrario. En los casos en
+que se requiere autorización estatal, la persona jurídica no puede funcionar antes de obtenerla”.
+La persona jurídica comienza a existir desde su constitución y en principio no necesita autorización del Estado para
+funcionar, excepto en los casos que la ley establezca que necesita autorización estatal. En este caso no puede
+funcionar antes de obtenerla y comienza a existir cuando El Estado le aprueba sus estatutos y las autoriza para
+funcionar.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Acto constitutivo
+Toda persona jurídica requiere, como primera medida, un acto constitutivo creador de la misma, el cual
+recibirá distintas denominaciones (acto conjunto, acto fundacional, contrato social, etc.) según cual sea la
+persona jurídica que se trate.
+Estatuto
+En el acto constitutivo se establecerán los “estatutos” de la persona jurídica. El estatuto son las reglas
+fundamentales que organiza y rigen la vida de la persona jurídica. En el estatuto se establece el nombre, el
+domicilio y el fin u objeto de la persona jurídica; cómo se forma e invierte el patrimonio y cuál será el destino
+de este en caso de disolución. La existencia de estatutos es un requisito indispensable cuando se trata de
+personas jurídicas tales como asociaciones, fundaciones, sociedades anónimas, etc. Los estatutos deben ser
+aprobados por la Inspección General de Personas Jurídicas.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Personalidad diferenciada
+Artículo 143.- “Personalidad diferenciada. La persona jurídica tiene una personalidad distintas de las de sus
+miembros.
+Los miembros no responden por las obligaciones de la persona jurídica, excepto en los supuestos que
+expresamente se prevén en este Título y lo que disponga la ley especial”.
+Clasificación
+Artículo 145.- “Clases. Las persona jurídicas son públicas o privadas”.
+ Persona jurídica pública: Son aquellas en cuya creación, existencia y funcionamiento interviene el Estado.
+Se rigen por el derecho público, aún cuando parte de su actividad esté bajo regulación del derecho privado.
+ Persona jurídica privada: Son aquellas cuya creación, existencia y funcionamiento intervienen los
+particulares. Se rigen por el derecho privado, aún cuando requieran autorización para funcionar.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Personas Jurídicas Públicas
+Son:
+a) El Estado Nacional (es el representante de toda la sociedad y organiza al país jurídica, política y
+económicamente), las provincias, la Ciudad Autónoma de Buenos Aires, los municipios, las entidades
+autárquicas (son organismos que se han desprendido o descentralizado del Estado y tienen un gobierno
+propio. Ej.: El Banco Central, El Banco de la Nación Argentina, etc.).
+b) Los Estados extranjeros (Brasil, Uruguay, etc.), las organizaciones a las que el derecho internacional público
+reconozca personalidad jurídica (OIT, OEA, ONU, Mercosur) y toda otra persona jurídica constituida en el
+extranjero cuyo carácter público resulte de su derecho aplicable (Cruz Roja Internacional, etc.).
+c) La iglesia Católica.- Proviene del hecho de que es el culto sostenido por la Nación (Constitución Nacional,
+art. 2) y profesado por la mayoría de los habitantes.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Personas Jurídicas Privadas
+Son
+a) Las sociedades.
+b) Las asociaciones civiles.
+c) Las simples asociaciones.
+d) Las fundaciones.
+e) Las iglesias, confesiones comunidades o entidades religiosas.
+f) Las mutuales.
+g) Las cooperativas.
+h) El consorcio de propiedad horizontal
+i) Toda otra contemplada en disposiciones de este Código o en otras leyes y cuyo carácter de tal se establece o
+resulta de su finalidad y normas de funcionamiento.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Atributos
+Las personas jurídicas tienen los mismos atributos que las personas físicas (excepto por el estado civil, puesto
+que es privativo de las personas físicas):
+ Nombre (conf. Art. 151): Puede tratarse de un nombre de fantasía o el nombre de algún miembro. Al nombre
+elegido se le debe agregar la forma jurídica adoptada (ej.: Electrón SRL), permite saber la naturaleza y
+sistema de responsabilidad de la persona jurídica.
+ Domicilio y sede social (conf. Art 152)
+ Patrimonio (art. 154): “Patrimonio. La persona jurídica debe tener un patrimonio. La persona jurídica en
+formación puede inscribir previamente a su nombre bienes registrables”.
+ Capacidad: Pueden adquirir derechos y contraer obligaciones, pero actúan por medio de sus representantes.
+Gobierno, administración y fiscalización
+El contenido del estatuto debe incluir normas sobre el gobierno, la administración y la representación y, si la
+ley lo exige, sobre la fiscalización interna de la persona jurídica. (conf. Art. 158).
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Disolución
+La persona jurídica se disuelve por:
+ Decisión de sus miembros.
+ Cumplimiento de la condición resolutoria.
+ Consecución del objeto para el cual la persona jurídica se formó o la imposibilidad de cumplirlo.
+ Vencimiento de plazo.
+ Declaración de quiebra.
+ Fusión (se disuelven las personas jurídicas que se fusionan y el patrimonio es absorbido) y escisión (se
+disuelve la persona jurídica que se divide y se destina todo su patrimonio).
+ Denegatoria o revocación firmes de la autorización estatal para funcionar (la revocación de la autorización
+estatal debe fundarse en la comisión de actos graves que importen la violación de la ley, el estatuto y el
+reglamento).
+ Agotamiento de los bienes.
+ Cualquier otra causa prevista en el estatuto.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Asociaciones Civiles (arts. 168 al 186)
+Simples (arts. 187 al
+192)
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Objeto (art. 168)
+• La Asociación Civil es una persona jurídica privada,
+creada, organizada y administrada por varias
+personas para lograr un objeto o fin que no sea
+contrario al interés general o bien común. Necesita
+autorización estatal para funcionar y no puede tener
+fin de lucro como fin principal.
+• El bien común o el interés general deben
+interpretarse dentro del respeto a las diversas
+identidades, creencias y tradiciones, sean culturales,
+religiosas, artísticas, literarias, sociales, políticas o
+étnicas que no vulneren los valores constitucionales.
+Acto Constitutivo
+• Se crea mediante un acto constitutivo realizado en
+instrumento público. Luego se solicita la autorización
+estatal para funcionar y otorgada la autorización se
+inscribe el acto constitutivo en el registro
+correspondiente (conf. Art. 169).
+Asociaciones Civiles
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Contenido del acto constitutivo
+• La identificación de los constituyentes.
+• El nombre de la asociación con el aditamento “Asociación Civil” antepuesto o pospuesto.
+• El objeto.
+• El domicilio social.
+• El plazo duración o si la asociación es a perpetuidad.
+• Las causales de disolución.
+• Las contribuciones que conforman el patrimonio inicial de la asociación civil. Los aportes
+se consideran transferidos en propiedad si no consta expresamente su aporte de uso y
+goce.
+• El régimen de administración y representación.
+• La fecha del cierre económico anual.
+• Las clases o categorías de asociados, prerrogativas y deberes de cada una (miembros
+activos, miembros vitalicios, etc.).
+• El régimen de ingreso admisión, renuncia, sanciones disciplinarias, exclusión de asociados
+y recursos contra las decisiones.
+• Los órganos sociales de gobierno, administración y representación.
+• El procedimiento de liquidación.
+• El destino de los bienes después de la liquidación.
+Asociaciones Civiles
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Órgano de administración (conf. Art. 171)
+• El órgano de administración es la Comisión directiva,
+cuyos miembros se denominan “directivos”.
+• Debe estar integrada por asociados, a los cuales no se
+les puede restringir el derecho a integrar la comisión.
+• En el acto constitutivo, el estatuto debe contemplar
+los cargos de presidente, secretario y tesorero y
+establecer las funciones de cada uno. Los demás
+miembros de la comisión directiva tienen carácter de
+vocales.
+• Los directivos cesan sus cargo de acuerdo al art. 176.
+Órgano de fiscalización (conf. Art. 172)
+• Puede estar integrado por asociados y no asociados.
+• La fiscalización puede ser unipersonal (el síndico) o
+pluripersonal (comisión revisora de cuentas).
+• La comisión revisora de cuentas es obligatoria en las
+asociaciones con más de 100 asociados.
+Asociaciones Civiles
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Control Estatal
+• Están bajo control interno (órgano de
+fiscalización), pero también bajo control
+externo, ya que para funcionar requieren
+una autorización estatal. Además están
+sujetas a un contralor permanente de la
+autoridad competente, nacional o local,
+según corresponda (conf. Art 174).
+• La autorización para funcionar la otorga la
+Inspección General de Justicia.
+Responsabilidad de los directivos
+• Todos los asociados tienen derecho a
+participar en los actos de gobierno.
+• Los administradores y representantes de la
+persona jurídica deben actuar con lealtad y
+diligencia y no pueden perseguir intereses
+contrarios a los de la misma.
+• Los socios (en la Asamblea) deben analizar la
+actuación ejecutiva y decidir si aprueban o
+remueven su gestión o si ejercen acciones
+de responsabilidad en su contra.
+Asociaciones Civiles
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Participación en las asambleas
+• Todos los asociados tienen derecho a participar en
+los actos de gobierno de la persona jurídica (conf.
+Art. 175), pero el estatuto puede imponer
+condiciones para que los asociados puedan
+participar.
+• Para participar y votar en las asambleas, el
+requisito consiste en estar al día con el pago de
+las cuotas y contribuciones correspondientes al
+mes inmediato anterior.
+Disolución (art. 183)
+• Se disuelven por las mismas causas de disolución
+de las personas jurídicas privadas (establecidas en
+el art. 163)(ej.: decisión de sus miembros
+adoptada conforme al estatuto, etc.).
+• Cuando se reduce la cantidad de asociados a un
+número inferior al total de los miembros (titulares
+y suplentes) de su comisión directiva y órgano de
+fiscalización.
+• La asociación tiene un plazo de 6 meses para
+aumentar la cantidad de asociados y restablecer
+ese mínimo o entrará en disolución.
+Asociaciones Civiles
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Ley Aplicable. Reenvío
+• Se rigen por lo dispuesto para las
+asociaciones civiles y por las
+disposiciones especial del Capítulo
+2 (“Asociaciones Civiles”).
+Acto constitutivo
+• Puede ser constituida por
+instrumento público o privado (con
+firma certificada por escribano
+público).
+• Al nombre se le debe agregar, antes
+o después del mismo, el aditamento
+“asociación simple” o “simple
+asociación” (conf. Art. 187).
+Existencia
+• Comienza su existencia como
+persona jurídica a partir de la fecha
+del acto constitutivo (conf. Art.
+189).
+Simples Asociaciones
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Prescindencia del órgano de fiscalización
+• Si tiene menos de 20 asociados puede prescindir del
+órgano de fiscalización, pero subsiste la obligación de
+certificación de sus estados contables.
+• Si se prescinde del órgano de fiscalización, todo
+miembros, aún excluido de la gestión, tiene derecho
+a informarse sobre el estado de los asuntos y de
+consultar sus libros y registros. La cláusula en
+contrario se tiene por no escrita (conf. Art. 190).
+Art. 191
+•
+“Insolvencia. En caso de insuficiencia de los bienes
+de la asociación simple, el administrador y todo
+miembro que administra de hecho los asuntos de la
+asociación es solidariamente responsable de las
+obligaciones de la simple asociación que resultan de
+decisiones que han suscripto durante su
+administración.
+Los bienes personales de cada una de esas personas
+no pueden ser afectados al pago de las deudas de la
+asociación, sino después de haber satisfecho a sus
+acreedores individuales”.
+Simples Asociaciones
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Fundaciones
+Capítulo 3
+(Libro
+Primero,
+Título II)
+Sección 1:Concepto, objeto, modo de
+constitución y patrimonio
+Sección 2: Constitución y autorización
+Sección 3: Gobierno y administración
+Sección 4: Información y contralor
+Sección 5: Reforma de estatuto y disolución
+Sección 6: Fundaciones creadas por disposición
+testamentaria
+Sección 7: Autoridad de contralor
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Fundación
+Son personas jurídicas que se constituyen
+con una finalidad o bien común, sin fines
+de lucro, mediante el aporte patrimonial de
+una o más personas (fundador/es).
+Características
+Es un persona jurídica privada.
+En las fundaciones no hay ni asociados, ni
+socios, sólo hay beneficiados, que tienen
+por finalidad el bien común, sin propósito
+de lucro.
+Se constituye mediante instrumento
+público y necesita autorización del Estado
+para funcionar.
+Cuando el fundador es una persona
+humana, puede disponer la constitución de
+la fundación como acto de última voluntad
+(testamento).
+Debe tener un patrimonio Inicial
+conformado por el aporte donado por el
+fundador y con aportes futuros del mismo
+o tercero. Es necesario para obtener la
+autorización estatal.
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Constitución y
+autorización
+(arts. 195 a
+200
+)
+Debe ser otorgado por el fundador/es o por la persona autorizada por el
+Juez de sucesión (si lo es por legado de última voluntad)(testamento).
+Debe tener los datos del fundador todos los atributos relacionados a la
+persona humana. En caso de ser persona jurídica, todos los atributos
+relacionados a la persona jurídica.
+El plazo de duración.
+La organización del consejo de administración, duración de los cargos, etc.
+Las cláusulas atinentes al funcionamiento de la entidad.
+El estatuto y sus reforma.
+La fecha de cierre anual.
+Las cláusulas de disolución.
+El plan trienal de acción (Cursos, charlas, becas, etc.).
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Gobierno y
+AdministraciónEl Consejo de
+Administración se
+encarga del gobierno y
+administración de la
+fundación y está
+integrado por un mínimo
+de 3 personas humanas
+capacitadas para el
+cumplimiento del objeto
+de la fundación (conf.
+Art. 201).
+Comité Ejecutivo
+Es un órgano que puede o
+no existir, según lo
+disponga el estatuto.
+Puede estar integrado por
+miembros del Consejo de
+Administración o por
+terceros.
+Reuniones y
+convocatorias, etc.El quorum (cantidad de
+integrantes necesarios
+para celebrar la reunión),
+tanto del Consejo de
+Administración como del
+Comité Ejecutivo.
+Las decisiones se toman
+por mayoría absoluta de
+votos de los miembros
+presente. En caso de
+empate el presidente del
+Consejo o del Comité
+tiene doble voto (conf.
+Art. 207).
+Persona Jurídica
+El nuevo Código Civil y Comercial trata de las personas jurídicas en el Título II del Libro Primero, regulando el tema
+en tres capítulos dedicados a:
+ Parte General (arts. 141 a 167).
+ Asociaciones (arts. 168 a 192).
+ Fundaciones (arts. 193 a 224).
+Reforma
+del Estatuto
+y DisoluciónCualquier reforma que pretende hacerse en el
+estatuto requiere el voto de la mayoría absoluta de
+los integrantes del Consejo de Administración. En
+casos específicos se requiere el voto de 2/3 partes
+de los integrantes del Consejo de Administración.
+En caso de disolución de la fundación, el remanente
+de los bienes debe destinarse a una entidad de
+carácter público o una persona jurídica de carácter
+privado que reúna ciertas características
+Acto Jurídico
+Artículo 259.- “Acto Jurídico. El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la
+adquisición, modificación o extinción de relaciones o situaciones jurídicas”.
+La característica principal del acto jurídico es que tiene como fin inmediato la producción de efectos jurídicos
+(sea la adquisición, la modificación o la extinción de relaciones o situaciones jurídicas)(un contrato, un
+testamento, etc.).
+Cuando el acto voluntario lícito no tenga ese fin inmediato de producir efectos jurídicos, pero los produzca se
+denominará “simple acto lícito” (conf. Art. 258)(sembrar o alambrar un campo, produce efectos jurídicos aunque
+su autor no haya tenido la intención de producirlos).
+Sujetos
+•Son las personas “otorgantes” del acto, o sea, aquella de las
+cuales emana el acto.
+•Debe ser capaz de ejercicio y tener capacidades específicas para
+realizar ese acto (capacidad de derecho).
+Objeto (art. 279)
+•Es el hecho o bien (cosa material o inmaterial) sobre la cual recae
+el acto jurídico.
+•El hecho no debe ser imposible, prohibido por la ley, contrario a la
+moral, lesivo de los derechos ajenos o de la dignidad humana.
+Causa (art. 281)
+•Es el origen del acto y la finalidad perseguida por las partes al
+llevar a cabo el acto.
+Forma
+•Es la manera o medio por el cual el sujeto manifiesta
+exteriormente su voluntad.
+Elementos Esenciales
+Acto Jurídico
+Forma
+Forma impuesta (art.
+285)
+Actos formales
+absolutos
+Actos Formales
+Relativos
+Expresión escrita (art.
+286)
+Instrumentos Públicos
+Instrumentos
+Particulares Firmados
+Instrumentos
+Particulares no
+Firmados
+Firma (art. 288) Firma a ruego Firma digital (Ley
+25.506)
+Acto Jurídico
+Forma impuesta (art. 285)
+Actos formales absolutos
+Donaciones de inmuebles,
+muebles registrables, etc.
+(conf. Art. 1552)
+Deben hacerse en escritura
+pública, bajo pena de
+nulidad.
+Actos Formales Relativos
+La compra de un inmueble
+debe hacerse por escritura
+pública (conf. Art.1017)
+Acto Jurídico
+Expresión Escrita
+Se utiliza en la mayoría de
+los casos, tradicionalmente
+sobre papel
+Comprende
+Instrumentos Públicos
+Se celebra en presencia de
+un oficial público
+Instrumentos Particulares
+Firmados
+No requiere intervención de
+un oficial público. Es
+privado y requiere las firmas
+de las partes
+Instrumentos Particulares no
+Firmados
+Comprende todo escrito no
+firmado (registros visuales,
+auditivos, de hecho, etc.)
+Acto Jurídico
+Firma
+La firma de las partes es una
+condición esencial del
+documento
+Consiste en el nombre del
+firmante de una manera
+particular (iniciales,
+símbolos o garabatos)
+La firma puesta es prueba
+que es de la autoría de esa
+persona y es privado
+Generalmente se coloca al
+final del documento
+Si una persona no sabe
+firmar lo puede hacer con
+impresión dactilar
+Acto Jurídico
+Firma a Ruego
+Cuando una persona “ruega” a
+otra para que firme el documento
+(porque no sabe o porque no está
+físicamente para hacerlo)
+Es válida en un instrumento
+público, pero en uno privado es
+discutible
+Acto Jurídico
+Firma Digital
+Es el resultado de aplicar a un
+documento digital un procedimiento
+matemático que requiere
+información exclusiva del firmante.
+Debe ser susceptible de verificación
+por terceras partes.
+Permite garantizar la identidad del
+autor del documento, la
+inalterabilidad del documento, la
+fecha y hora exacta en que a sido
+firmado.
+¿Cómo funciona?.- Previamente se debe generar dos claves: una privada y otra pública (una que solamente el autor
+deba conocer y otra que sea conocida por todos).
+Sobre el documento y la clave privada se aplica un programa de encriptación que genera una huella o firma digital
+que el firmante enviará junto con el documento al destinatarios. El destinatarios mediante la clave pública del
+firmante, verifica la identidad del autor del documento y que el mismo no tuvo alteraciones.
+¿Firma digital y Firma Electrónica son lo mismo?.- No, la firma digital está prevista en el artículo 2 de la Ley
+25.506, en tanto que la firma electrónica está prevista en el artículo 5 de la misma ley.
+La firma digital (conf. Art. 2) debe cumplir los requisitos legales determinados por la Autoridad de Aplicación. Si
+faltan esos requisitos tendríamos una “firma electrónica”.
+Concepto – Artículo 260
+“Acto Voluntario. El acto voluntario es el ejecutado con discernimiento, intención y libertad, que se manifiesta
+por un hecho exterior”.
+Vicios de la Voluntad.- Un acto jurídico, para ser válido debe ser producto de la libre voluntad de las partes.
+Cuando está afectada la voluntad, el acto pierde eficacia y no produce los efectos que le son propios. El error, el
+dolo y la violencia vician la voluntad, y con más precisión a la intención.
+ El error consiste en que la persona cree que sabe algo, pero en realidad sabe equivocada; o sea que, el error
+consiste en tener falsas nociones sobre un punto determinado.
+ “Dolo”, genéricamente, es toda aserción (afirmación) de lo que es falso o disimulación de lo verdadero,
+cualquier artificio, astucia o maquinación que se emplea con ese fin.
+ La violencia física (fuerza) o la violencia moral (amenazas o intimidación) implican coerción sobre una persona
+para obligarla a ejecutar un acto que no quería realizar.
+ Conceptualmente, el error se puede diferencia de la ignorancia.
+En la ignorancia, la persona no está equivocada ni errada, sino que directamente no sabe, es decir, sufre de una
+ausencia completa del conocimiento.
+Clases de error.-
+Error de Derecho
+Es el que recae sobre la
+legislación aplicable al acto
+que se realiza. El error de
+derecho no sirve como excusa
+y en ningún caso impedirá los
+efectos legales de los actos
+lícitos, ni excusará la
+responsabilidad por los actos
+ilícitos (conf. Art. 8).
+“El error de derecho no
+excusa” se fundamenta en que
+todos conocen las leyes por lo
+que se hacen responsables y
+no pueden excusarse.
+Clases de error.-
+Error de Hecho
+Es el que recae sobre
+circunstancias de hecho del
+acto, como ser: sobre la
+persona de la otra parte del
+acto, sobre la naturaleza
+del acto, sobre un objeto,
+etc.
+Causa nulidad del acto si es
+esencial o si es reconocible
+por el destinatario.
+Puede ser accidental o
+esencial.
+El error de hecho
+accidental recae sobre
+elementos o cualidades
+accidentales que carecen
+de importancia. No causan
+nulidad.
+El error de hecho esencial
+es cuando recae sobre la
+naturaleza del acto, los
+motivos personales
+relevantes que hayan sido
+incorporados expresa o
+tácitamente, etc.
+Clases de error - Ejemplos.-
+Son esenciales los errores:
+ Sobre la naturaleza del acto (un amigo me da plata en préstamo y yo creo que se trata de una donación).
+ Sobre el objeto del acto (sobre un bien o un hecho al que se pretendió designar una calidad, extensión o suma
+diversa a la querida)(Juan me ofrece en locación su casa en Mendoza y yo acepto creyendo que alquilo su casa en
+Buenos Aires).
+ Sobre la cualidad principal o substancial de la cosa (me venden una copia de un cuadro y yo creo que es el cuadro
+original de Picasso).
+ Sobre la causa principal del acto (si alquilo un negocio para poner un bar y el dueño cree que es para poner una
+farmacia).
+ Sobre la persona con la cual se celebra o a la cual se refiere el acto (si contrato con un músico desconocido y
+creo estar contratando con Serrat).
+Para que el error de lugar a la nulidad, debe ser esencial y además debe ser reconocible por el destinatario (art.
+266).
+El dolo.-
+Puede ser
+Acción dolosa
+•Puede consistir en maquinaciones, artificios, astucias, trampas, mentiras, etc.; pero en forma genérica, siempre
+hay engaño.
+Omisión dolosa
+•Causa los mismos efectos que la acción dolosa.
+•Consiste en obrar con reticencia u ocultación del engaño, es decir, callando la verdad, dejando con malicia que la
+otra parte siga engañada.
+El dolo - Especies.-
+Puede ser
+Esencial
+• Es el que induce y determina que la víctima realice el acto.
+• Este tipo de dolo hace inválido el acto; de manera que la víctima podrá demandar la nulidad del acto y la indemnización por daños y
+perjuicios. Los requisitos están enumerados en el art 272.
+Incidental
+• Este no es a causa determinante para la realización del acto.
+• El dolo incidental no permite a la víctima demandar la nulidad del acto, pero le permite reclamar la indemnización por daños y perjuicios
+(conf. Art. 273).
+• El dolo por parte de un tercero no puede demandar la nulidad del acto.
+La violencia.
+-
+La víctima es obligada mediante
+golpes, malos tratos, privación de
+la libertad, etc. (violencia física)
+o mediante amenazas e
+intimidaciones (violencia moral).
+El autor de la
+violencia puede ser
+una de las partes o
+un tercero (conf.
+Art. 277).
+Es uso de la fuerza o
+las amenazas con
+determinadas
+características causa
+nulidad del acto.
+La víctima puede
+reclamar nulidad
+del acto y daño y
+perjuicios al autor
+de la violencia.
+Lesión (art. 332
+)
+Consiste en que una de las partes,
+explotando la necesidad, debilidad o
+inexperiencia de la otra (por la parte
+que sufre el perjuicio), obtuviera una
+ventaja patrimonial desproporcionada
+(en provecho de una de las partes) y
+sin justificación.
+Quien alegue haber sido víctima de
+lesión, deberá probar que obró en tal
+estado y que la otra parte aprovechó
+en favor propio. Sin embargo, dicha
+prueba no se requiere cuando la
+desproporción fuese notable.
+Los efectos que produce la existencia
+del vicio de lesión son la nulidad del
+acto viciado y el reajuste equitativo.
+Simulación (art. 333
+)
+Es un vicio exclusivo de los actos
+jurídicos y su característica es la de
+viciar la buena fe de terceros. En
+términos generales, “simular” es
+ocultar la verdad.
+La simulación puede ser absoluta
+(cuando se celebra un acto que nada
+tiene de real), relativa (cuando se
+emplea para dar a un acto jurídico
+una apariencia que oculta su
+verdadero carácter), lícita (cuando la
+simulación no es reprobada por la
+ley, a nadie perjudica ni tiene un fin
+ilícito) o ilícita (cuando la simulación
+perjudica a tercero o tiene un fin
+ilícito, es decir, cuando se hacer para
+violar la ley).
+Cuando hay un acto jurídico, la ley
+concede la “acción de simulación”
+(se concede a las partes del acto
+simulado e interesados).
+Se puede pedir nulidad e
+indemnización.
+Fraude
+Es compresiva al “fraude de ley”
+(art. 12) y el “fraude de los
+acreedores” (arts. 338 al 342).
+Hay fraude de los acreedores cuando
+un deudor enajena o grava sus
+bienes, con el propósito de
+sustraerlos de su patrimonio,
+provocando o agravando su
+insolvencia, y evitando así el pago a
+sus acreedores, o cuando omite
+ejercer derechos que podrían haber
+mejorado su patrimonio o evitado que
+este empeorara.
+Todo acreedor puede solicitar la
+declaración de inoponibilidad de los
+actos celebrados por su deudor en
+fraude de sus derechos (conf. Art.
+338). Esta declaración sólo beneficia
+a los acreedores que la pidieron.
+De acuerdo al art. 341 la acción de
+los acreedores cesa si el adquiriente
+de los bienes transmitidos por el
+deudor paga el crédito o da garantía
+suficiente al acreedor que promovió
+la acción
+Vicios de los Acto Jurídicos.-
+La nulidad es la sanción legal que priva a un acto jurídico de los efectos que le son propios o normales, a raíz de una
+causa (defecto o vicio) existente al momento de su creación, que tiene efectos retroactivos y erga omnes (frente a
+todos, sean partes o terceros).
+El nuevo Código Civil y Comercial distingue entre:
+o Nulidad absoluta (se impone a un acto para proteger el interés público) y nulidad relativa (protege el interés
+privado, es decir, el interés de una de las partes)(arts. 386 a 388).
+o Nulidad total (se extiende a todo el acto)(todo el acto es inválido) y nulidad parcial (afecta a una o varias
+disposiciones)(sólo algunas partes del acto quedan nulas)(art. 389).
+Los efectos de la nulidad (conf. Arts. 390 a 392) son:
+o Restitución con efecto retroactivo.- La declaración judicial de nulidad del acto (nulidad absoluta o relativa)
+vuelve las cosas hacía atrás, al mismo estado en que se hallaban antes de ejecutarse el acto (si uno dio dinero y
+otro un auto, uno devuelve el dinero y otro el auto)(conf. Art. 390).
+o Si el acto aún no ha sido ejecutado (erga omnes, efecto entre las partes), no se podrá exigir su cumplimiento; y
+si alguien lo hiciese la parte demandada puede negarse a cumplir oponiendo como excepción (como defensa) la
+nulidad del acto. Si el acto ya fue ejecutado, las partes deben restituirse lo que han percibido en razón del acto
+inválido (conf. Art. 390).
+o Todos los derechos reales o personales sobre una cosa registrable (mueble o inmueble) transmitidos a tercero por
+los otorgantes del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente a su
+poseedor actual (al tercero adquirente), salvo que el tercero adquiriente sea de buena fe y a título oneroso (no
+restituye siempre y cuando en el acto de transmisión haya intervenido el verdadero titular del derecho). Los
+terceros subadquirentes no pueden ampararse en su buena fe y título oneroso si el acto se ha realizado sin
+intervención del titular del derecho (debe restituir).
+Confirmación de los Actos Jurídico.-
+Según el artículo 393, hay confirmación cuando la parte puede articular la nulidad relativa (protege el interés
+privado), manifiesta expresa o tácitamente su voluntad de tener al acto por válido, después de haber desaparecido
+la causa de nulidad. El acto de confirmación no requiere la conformidad de la otra parte.
+Desde el punto de vista práctico consiste en sanear el acto jurídico inválido, en hacer desparecer las causas que lo
+invalidaron, dándolo por válido.
+La confirmación puede ser expresa o tácitamente (conf. Art. 394):
+o Expresa.- La confirmación es expresa cuando la voluntad de confirmar el acto se manifiesta por escrito. El
+instrumento debe contener: la mención precisa de la causa de nulidad; la mención de la desaparición de la causa
+de nulidad; y la manifestación de la voluntad de confirmar el acto.
+o Tácita.- La confirmación es tácita cuando resulta del cumplimiento total o parcial del acto nulo realizado con
+conocimiento de la causa de nulidad, o de otro acto del que se deriva la voluntad inequívoca de sanear el vicio
+del acto.
+Inoponibilidad.-
+La inoponibilidad priva a un acto jurídico (válido entre las partes) de producir sus efectos frente a determinados
+terceros protegidos por la ley, los cuales pueden actuar como si ese acto no existiera, y en consecuencia alegar la
+inoponibilidad por vía de acción o de excepción.
+Los casos de inoponibilidad debe estar expresamente establecidos por la ley.
+La inoponibilidad se funda en proteger a los terceros ajenos al acto, pero no a cualquier tercero, sino a los terceros
+indicados por la ley (según el caso, acreedor, tercero interesado, tercero de buena fe y a título oneroso).
+Inoponibilidad.-
+La inoponibilidad puede hacerse valer en cualquier momento, sin perjuicio del derecho de la otra parte a oponer la
+prescripción o la caducidad (conf. Art. 397). Agreguemos que puede alegarla por vía de acción (en caso de fraude de
+los acreedores, 338 a 342) o por vía de excepción (si alguien quiere hacer valer contra el tercero una hipoteca que
+no fue registrada, art 1893).
+Diferencia entre Nulidad e Inoponibilidad.-
+o La nulidad ataca la validez del acto mismo y lo priva de eficacia erga omnes, es decir, tanto respecto de las
+partes como terceros.
+o La inoponibilidad no ataca la validez del acto, sólo lo priva de efectos frente a determinados terceros.
+o Las nulidades absolutas y relativas son una sanción de orden público y no puede renunciarse anticipadamente. La
+inoponibilidad puede renunciar, ya que es una sanción de orden privado establecida a favor de los terceros.
+Bibliografía:
+ Guía de Estudio – Civil – Editorial Estudio – 2021 – Cap. 14 (pág. 177 al 183, 185 al 187, 189 al 202), 17 (pág.
+231, 233 al 239),18 (pág. 243 a 245, 247 a 252), 19, 22 (pág. 313, 316 al 322)

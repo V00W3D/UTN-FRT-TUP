@@ -1,0 +1,490 @@
+﻿________________
+
+Índice
+
+
+
+
+Índice        2
+Resumen - Presentación        3
+Tema del Proyecto        4
+Objetivo y Alcance        6
+Estado del arte        9
+Actividades tarea a realizar tiempo de las tareas        11
+Calendarización diagrama de gantt        14
+Recursos humanos y materiales        15
+Desarrollo del Proyecto        16
+Documentación: Recolección de Datos, Proceso de Implementación e Implementación del Proyecto        22
+Elección de la Estructura de Datos        24
+Proceso de Implementación de Datos        25
+Testing y Validación:        27
+Beneficios de Firebase en el Proyecto:        28
+Requerimientos de Software y Hardware (ERS)        29
+Materiales Complementarios        32
+Conclusión        35
+Apéndice        37
+Bibliografía        41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Resumen - Presentación
+Este documento describe el desarrollo de una aplicación web diseñada específicamente para el área de recursos humanos y otros perfiles administrativos de las empresas que conforman GRUPO PUEBLE. La plataforma tiene como objetivo centralizar y optimizar la gestión de información y procesos administrativos, abarcando todas las empresas del grupo, como Pueble - Case IH, KIA, entre otras..
+El sistema está organizado en tres perfiles principales:
+* Admin, con acceso completo a todas las secciones.
+* RRHH, con funcionalidades específicas para gestionar Asistencia, Desempeño, Beneficios, Formación y Recordatorios.
+* Nóminas, enfocado en la gestión de Empleados, Nóminas y Recordatorios.
+La plataforma utiliza tecnologías modernas como Next.js y Firebase para garantizar un rendimiento óptimo, seguridad en la autenticación y almacenamiento de datos, y una interfaz intuitiva que mejora la experiencia del usuario.
+Esta aplicación no solo facilita el manejo eficiente de los recursos humanos y las nóminas, sino que también centraliza información clave de todas las empresas del grupo, promoviendo una administración más organizada y efectiva dentro del Grupo Pueble.
+
+
+
+
+
+
+Tema del Proyecto
+El desarrollo de este proyecto tiene como objetivo crear una Aplicación Web orientada a las necesidades del área de recursos humanos de GRUPO PUEBLE, abarcando las diversas empresas del grupo. La aplicación se centra en ofrecer herramientas específicas para la gestión de empleados (Contando con funciones como agregar nuevos empleados, un seguimiento de su carrera laboral dentro de la empresa), nóminas (Donde se puede tener un seguimiento y control del sueldo, los aumentos y bonos de los empleados.), asistencia, desempeño, beneficios y formación, adaptadas a diferentes roles administrativos dentro de la organización.
+La solución contempla la implementación de un sistema de roles y accesos diferenciados, permitiendo que perfiles como Admin, RRHH y Nóminas operen dentro de un entorno seguro y personalizado. A través de la plataforma, los usuarios pueden consultar y administrar información clave de manera eficiente, optimizando los procesos internos de las empresas. También cuentan con la posibilidad de personalizar su experiencia dentro de la plataforma, pudiendo elegir el tema (Claro, Oscuro), el idioma (Inglés, Español, Francés) y el tamaño de la fuente.
+El diseño del sistema se basa en tecnologías modernas, como Next.js para permitir la reutilización de componentes y dar una mejor experiencia al usuario enfocándonos en el diseño UX/UI la interfaz de usuario y Firebase para la autenticación y gestión de datos en tiempo real. La arquitectura de la aplicación permite centralizar la información de todas las empresas del grupo, promoviendo una administración unificada y accesible desde cualquier dispositivo con conexión a internet.
+Además, el proyecto incluye la posibilidad de integrar futuras mejoras, como herramientas avanzadas de análisis de datos y módulos adicionales para atender nuevas necesidades del grupo. 
+El sistema no solo está diseñado para afrontar los desafíos actuales, sino también para adaptarse y crecer junto con las necesidades y la evolución de las operaciones de Grupo Pueble.
+________________
+Objetivo y Alcance
+El objetivo principal de este proyecto es desarrollar una Aplicación Web destinada a optimizar los procesos administrativos, especialmente en el área de recursos humanos, y centralizar la gestión de información de todas las empresas pertenecientes al grupo.
+La plataforma está diseñada para:
+* Gestionar empleados: Facilitar el registro, consulta y actualización de datos de los empleados, incluyendo su desempeño, asistencia, y beneficios, además de simplificar la administración de nóminas.
+* Gestionar Nóminas: Permitir el registro, consulta y ajuste de los sueldos de los empleados, sus premios, bonos, incentivos, etc. Posee funciones para ajustar los sueldos porcentualmente. 
+* Gestionar roles y accesos: Implementar un sistema de permisos diferenciados para los roles de Admin, RRHH y Nóminas, asegurando que cada usuario tenga acceso exclusivo a las secciones relevantes para su perfil.
+* Automatizar procesos clave: Reducir la carga administrativa mediante herramientas automatizadas para la gestión de recordatorios, capacitaciones y reportes.
+* Manejo de las postulaciones: Permite registrar y administrar información sobre los puestos disponibles, incluyendo el título, descripción, enlace a la publicación, y motivos de archivo en caso de cerrar o completar la búsqueda.
+* Centralizar la información: Proveer un sistema único donde se pueda consultar información de todas las empresas del grupo, mejorando la accesibilidad y organización de datos.
+* Proveer análisis y reportes: Incorporar herramientas de visualización de datos que permitan generar reportes sobre desempeño, asistencia, beneficios y otros indicadores clave.
+Alcance:
+La aplicación se desarrollará utilizando tecnologías modernas como Next.js y Firebase el cual con sus funciones nos asegura seguridad y hosteo, garantizando escalabilidad,  y accesibilidad desde cualquier dispositivo con conexión a internet. 
+El alcance del proyecto incluye las siguientes funcionalidades clave:
+* Gestión de empleados: Incluye herramientas para registrar, actualizar y consultar datos personales, historial de desempeño, cumpleaños, licencias, vacaciones, y más.
+* Gestión de nóminas: Permite registrar sueldos, aumentos, bonos e incentivos, con opciones para aplicar aumentos tanto masivos como individuales.
+* Gestión de roles y accesos: Sistema de permisos para usuarios Admin, RRHH y Nóminas, asegurando un flujo de trabajo estructurado y seguro.
+* Gestión de asistencia y desempeño: Módulos para el seguimiento de asistencia y evaluación del rendimiento de los empleados, con opciones para visualizar datos históricos.
+* Reportes y dashboards: Ofrece herramientas visuales para generar reportes detallados y gráficos sobre indicadores clave en recursos humanos y nóminas. Incluye métricas como sueldos promedio por departamento con su desviación estándar y gráficos de distribución de género en formato de torta.
+* Notificaciones y recordatorios: Funcionalidad para programar alertas sobre capacitaciones, evaluaciones y eventos relevantes para los empleados como su cumpleaños, buscando una experiencia amena dentro de la empresa.
+* Accesibilidad multiempresa: Capacidad de consultar información de todas las empresas que forman parte de Grupo Pueble, promoviendo una visión global y centralizada de la organización.
+
+
+________________
+
+Estado del arte
+Existen numerosos Softwares de recursos humanos y gestión de personal con un enfoque empresarial así como sistemas web diseñados para la gestión de recursos humanos y nóminas, como Factorial o BambooHR, que ofrecen herramientas avanzadas para el manejo de personal, incluyendo evaluaciones de desempeño, seguimiento de asistencia y administración de beneficios. Sin embargo, estas soluciones suelen ser genéricas y no están personalizadas para los requerimientos específicos de un grupo empresarial como Grupo Pueble, que incluye diversas empresas con necesidades administrativas.
+Por ejemplo, Lenox es un software integral de gestión de recursos humanos que se enfoca principalmente en funciones como la nómina, reclutamiento, gestión de beneficios y seguimiento del desempeño de los empleados. Sin embargo, no ofrece características específicas para administrar múltiples empresas dentro de un mismo sistema, lo cual es una función clave para negocios con operaciones complejas que incluyen diferentes entidades
+  
+
+Asimismo, BambooHR destaca en la gestión de desempeño y reportes, pero no ofrece integración nativa para módulos como nóminas o recordatorios personalizados, como los que incluye nuestra solución.
+  
+
+Nuestro sistema Pueble SA combina lo mejor de estas herramientas, pero con un enfoque único:
+* Gestión multiempresa: Capacidad de administrar información de diferentes empresas de manera centralizada, algo que la mayoría de los sistemas no contempla.
+* Roles específicos: Personalización de accesos y funcionalidades según los perfiles de Admin, RRHH y Nóminas, asegurando una experiencia enfocada en las necesidades de cada usuario y la posibilidad de crear nuevos perfiles con permisos personalizados.
+* Reportes avanzados: Generación de reportes personalizados sobre asistencia, desempeño y nóminas, con una visión global y unificada del grupo empresarial.
+* Facilidad de uso y accesibilidad: Diseño responsivo y soporte para dispositivos móviles, adaptado para su uso en entornos empresariales diversos.
+El proyecto combina lo mejor de la gestión de recursos humanos de Lenox y BambooHR, pero con un enfoque único que integra funciones clave de logística, ventas y administración multiempresa, proporcionando una solución integral que satisface las necesidades de empresas complejas con múltiples entidades.
+
+
+
+
+________________
+Actividades tarea a realizar tiempo de las tareas 
+Fase 1: Análisis y Diseño
+1. Recolección de Requisitos (7 días)
+   * Recopilación de necesidades para los perfiles de Admin, RRHH y Nóminas.
+   * Definir los módulos y características clave: gestión de empleados, nóminas, recordatorios, gestión multiempresa, reportes, etc.
+   * Revisión de normativas y requisitos fiscales locales relacionados con la plataforma.
+2. Diseño de la Arquitectura del Sistema (5 días)
+   * Diseño de la base de datos en Firebase y la estructura de la información.
+   * Definición de la arquitectura de la aplicación utilizando Next.js y Firebase.
+   * Planificación de los accesos y permisos según los roles.
+3. Elaboración de Prototipos de Interfaz (15 días)
+   * Diseño de los prototipos de interfaz para los tres perfiles de usuario (Admin, RRHH, Nóminas).
+   * Revisión de la experiencia de usuario (UX) y diseño visual con herramientas como Figma.
+   * Feedback y ajustes con stakeholders para afinar el diseño.
+
+
+________________
+Fase 2: Desarrollo
+1. Implementación de la Base de Datos en Firebase (10 días)
+   * Creación de colecciones en Firebase para empleados, nóminas, empresas y otras entidades.
+   * Diseño de la estructura de acceso a datos y funciones como validación de entradas y protección de datos sensibles.
+2. Desarrollo del Backend para la Gestión de Empleados, Nóminas y Pedidos (14 días)
+   * Creación de las funciones backend para gestionar los datos de empleados, nóminas y los recordatorios.
+   * Desarrollo de las API para consultas y modificaciones de nóminas, generación de reportes, y administración de roles de usuario.
+3. Desarrollo de la Interfaz de Usuario con Next.js y Tailwind CSS (14 días)
+   * Implementación de las interfaces de usuario según los prototipos diseñados.
+   * Integración de Next.js para el frontend y Tailwind CSS para la creación de componentes visuales responsivos.
+   * Conexión del frontend con el backend para funcionalidad en tiempo real.
+________________
+Fase 3: Integración y Pruebas
+1. Integración con Sistemas de Nóminas (3 días)
+   * Desarrollo e integración con el sistema de facturación electrónica necesario para emitir las nóminas y otros reportes fiscales.
+   * Pruebas de comunicación entre la plataforma y el sistema de facturación para asegurar su correcto funcionamiento.
+2. Pruebas de Funcionalidad y Rendimiento (3 días)
+   * Realización de pruebas de funcionalidad para asegurarse de que todas las funciones del sistema trabajen como se espera (gestión de empleados, generación de reportes, etc.).
+   * Pruebas de rendimiento para garantizar la escalabilidad y respuesta rápida de la plataforma.
+________________
+
+
+Fase 4: Despliegue
+1. Despliegue en Producción (2 días)
+   * Implementación de la aplicación en el entorno de producción.
+   * Asegurarse de que la plataforma esté disponible en todos los dispositivos y entornos donde se utilizará (escritorios y móviles).
+2. Formación a Usuarios y Entrega de Documentación (4 días)
+   * Capacitación a los usuarios sobre cómo utilizar la plataforma y gestionar las diferentes funciones (como la creación de reportes, la gestión de nóminas, etc.).
+   * Entrega de documentación detallada sobre el uso del sistema y la administración de los roles y permisos.
+
+
+________________
+Calendarización diagrama de gantt
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Recursos humanos y materiales
+Recursos Humanos:
+
+
+* Juan Pietro Bonacossa - Desarrollador Full-Stack:
+Encargado del diseño, desarrollo, implementación y mantenimiento de la plataforma web. Realizó tanto el frontend como el backend utilizando tecnologías como Next.js, Firebase y Tailwind CSS. Además, se encargó de la creación de funcionalidades específicas como la gestión de usuarios y roles, la generación de reportes, y la configuración y administración de la base de datos en Firebase.
+
+
+Recursos Materiales:
+
+
+* Computadoras:
+Equipos con al menos 4 GB de RAM, que cumplen con los requerimientos mínimos para el desarrollo web. Estos equipos son utilizados para el desarrollo y prueba de la aplicación tanto en local como en los entornos de pruebas.
+* Conexión a Internet:
+Conexión estable a Internet para el acceso a recursos online, plataformas de trabajo colaborativo, y para realizar pruebas de conectividad con Firebase y otros servicios en la nube.
+* Cuenta de Google y Firebase:
+Cuenta de Google para gestionar la base de datos en Firebase, que incluye servicios de autenticación, almacenamiento, y Firestore, entre otros. Esta plataforma es utilizada tanto para el almacenamiento de datos como para la gestión de usuarios y roles.
+ 
+________________
+Desarrollo del Proyecto
+El desarrollo del sistema de Recursos Humanos para Pueble SA se centró en la creación de una plataforma para gestionar la información de múltiples empresas dentro de un mismo sistema, con funcionalidades personalizadas para diferentes roles de usuario (Admin, RRHH, y Nóminas). El sistema fue diseñado con el objetivo de optimizar la administración de empleados, la asignación de tareas y la creación de reportes, garantizando una experiencia eficiente y accesible para todos los usuarios involucrados.
+Tecnologías Implementadas:
+   * Base de Datos: Firebase
+Se eligió Firebase como base de datos debido a su capacidad de escalabilidad y a la facilidad para integrarse con otras herramientas de desarrollo, especialmente Firebase Authentication para la autenticación de usuarios. Las colecciones clave incluyen:
+      * users: Para almacenar los datos de las cuentas de los usuarios y su rol determinado.
+      * counters: Utilizado para gestionar el autoincremento de los ID de empleados y otros registros mediante un contador basado en la comparación con el número de documento.
+      * Grupo_Pueble: Contiene las empresas que pertenecen a Grupo Pueble, como "Pueble SA - CASE IH" y "KIA", entre otras con subcolecciones como "empleados", "recordatorios" y "notificaciones_archivadas".
+      * empleados: Donde se registran los datos de los empleados, incluyendo nombre, apellido, correo, sueldo, y más.
+________________
+Desarrollo Frontend:
+      * Next.js y Tailwind CSS
+La interfaz de usuario se desarrolló utilizando Next.js, un framework basado en React, para ofrecer una experiencia rápida, optimizada y de fácil mantenimiento. Tailwind CSS se utilizó para diseñar una interfaz responsiva, asegurando la accesibilidad desde dispositivos móviles y escritorios.
+         * Shadcn/ui: Se integró la biblioteca para facilitar la creación de componentes consistentes y funcionales, adaptados a las necesidades de los usuarios.
+Funcionalidades del Sistema:
+La plataforma está diseñada para ofrecer un control integral de las actividades de las empresas bajo Grupo Pueble, asegurando una gestión eficiente en tiempo real:
+         * Gestión de Roles: El sistema permite la creación y asignación de roles personalizados (Admin, RRHH, Nóminas) con accesos diferenciados y restringidos.
+         * Gestión de Empleados: Los administradores y el personal de RRHH pueden agregar, editar o eliminar registros de empleados, controlando la información básica y detallada de cada uno.
+         * Gestión de Recordatorios y Notificaciones: Funcionalidad para gestionar recordatorios y notificaciones a los empleados.
+         * Reportes Avanzados: Generación de reportes detallados sobre asistencia, desempeño, nóminas y otros aspectos críticos para la gestión.
+________________
+Metodología de Trabajo:
+Para el desarrollo del proyecto se utilizó la metodología ágil Scrum, lo que permitió llevar a cabo un seguimiento constante del progreso del proyecto, realizar ajustes cuando fueran necesarios y garantizar la entrega de un producto funcional en cada etapa del proceso.
+Dado que fui el único responsable del desarrollo del proyecto, utilicé herramientas como Notion para organizar las tareas de manera eficiente. Notion sirvió como el espacio para gestionar las tareas de diseño, desarrollo, pruebas y despliegue, lo que facilitó el seguimiento de cada fase del proyecto.
+  
+Imagen N°1 de la organización en Notion
+  
+
+Imagen N°2 de la organización en Notion
+  
+
+Imagen N°3 de la organización en Notion
+Enfoque en Escalabilidad y Accesibilidad:
+El sistema fue diseñado para garantizar un funcionamiento fluido y accesible en diversas plataformas. La infraestructura en la nube de Firebase, junto con el diseño responsivo, asegura que la plataforma sea accesible en cualquier momento y desde cualquier dispositivo con acceso a Internet.
+En conclusión, el Proyecto Pueble SA ha sido diseñado para resolver los desafíos operativos de las empresas dentro de Grupo Pueble, al integrar en un solo sistema herramientas clave para la gestión de empleados, roles, notificaciones, y reportes. La solución no solo satisface las necesidades actuales, sino que también está preparada para adaptarse y escalar conforme crezcan las necesidades del grupo empresarial.
+________________
+
+
+Diagrama de Flujo:
+  
+
+
+
+________________
+Documentación: Recolección de Datos, Proceso de Implementación e Implementación del Proyecto
+Recolección de Datos
+El desarrollo del proyecto comenzó con una fase de recopilación de información mediante entrevistas y reuniones clave:
+            1. Primera Reunión:
+        Durante la primera visita a la empresa, ubicada en Av. Circunvalación km. 1294, dentro del Parque Industrial, me reuní con Javier Bedey, uno de los propietarios de Grupo Pueble, y Christian de la Vega, Gerente General de Pueble S.A. La reunión se llevó a cabo en las instalaciones de la concesionaria Case IH. En ese encuentro, se presentó una lista de propuestas de proyectos, incluyendo:
+               * Desarrollo de una Nueva Página Web/Landing informativa/Ecommerce
+               * Sistema de Gestión de Mantenimiento y Servicios
+               * Sistema de Carga y Gestión de Inventario
+               * Sistema de Gestión de Recursos Humanos
+En un primer momento, el interés se centró en el rediseño de la página web informativa, con el objetivo de optimizar la actual. Sin embargo, después de un análisis más profundo, el equipo decidió priorizar el Sistema de Gestión de Recursos Humanos. Tras la reunión, comencé a trabajar en la implementación del proyecto y mantuve una comunicación constante con los involucrados a través de mensajes y correos electrónicos.
+
+
+
+
+               2. Segunda Reunión:
+        En la segunda reunión, nuevamente estuvieron presentes Javier Bedey y Christian de la Vega. En esta ocasión, se presentó un prototipo inicial, el cual aún carecía de funcionalidades avanzadas, como la configuración de perfiles de usuario, opciones multilingües y la selección de temas visuales. Christian asumió el liderazgo de la reunión y solicitó las siguientes mejoras y nuevas funcionalidades:
+                  * Dashboard: Incluir un gráfico de torta representando la distribución de género dentro de las empresas, así como un análisis del sueldo promedio por departamento junto con su desviación estándar.
+                  * Sección de Empleados: Añadir el campo de "fecha de nacimiento" y habilitar un sistema de notificaciones/alertas para recordar los cumpleaños. También se solicitó incorporar un calendario de vacaciones con notificaciones y alertas que indiquen quién se encuentra de vacaciones al inicio de cada mes.
+                  * Sección de Nómina: Incluir columnas adicionales para:
+                  * Sueldo básico.
+                  * Incentivo promedio y mensual.
+                  * Total combinado de sueldo básico e incentivo.
+                  * Bono.
+                  * Total con bono incluido.
+Entre otros cambios en la mayoría de secciones. Por mi cuenta decidí agregar funciones como el lenguaje, los temas, el tamaño de la letra, etc.
+Una vez que se implementen estos cambios y se formalice el contrato de convenio, se agendará una nueva reunión para presentar la versión final del proyecto.
+
+
+
+
+Elección de la Estructura de Datos
+Con el objetivo de crear una solución eficiente, escalable y fácil de mantener, se optó por utilizar Firebase como plataforma principal para el desarrollo del sistema de gestión de recursos humanos. Firebase ofrece un entorno unificado que combina diversas funcionalidades clave que son esenciales para este tipo de proyectos. Las ventajas más destacadas de Firebase para Pueble S.A. son:
+                  * Firestore Database: Base de datos en tiempo real, ideal para gestionar grandes volúmenes de datos no relacionales, lo que facilita la administración dinámica de la información de los empleados, nóminas, y demás datos relevantes.
+                  * Firebase Hosting: Permite un despliegue rápido, seguro y escalable del proyecto, asegurando tiempos de carga rápidos y un acceso continuo desde diferentes dispositivos.
+                  * Firebase Authentication: Gestiona la autenticación de usuarios y roles de manera eficiente, con altos estándares de seguridad para garantizar que cada perfil acceda únicamente a las funcionalidades correspondientes.
+                  * Firebase Storage: Gestiona el almacenamiento de archivos como el PDP (plan de desarrollo profesional) y PDC (plan de carrera).
+________________
+Estructura de las Colecciones:
+Para garantizar una gestión adecuada y escalable de la información, se definieron colecciones específicas dentro de Firestore, organizadas de manera que faciliten su consulta y modificación. Las colecciones incluyen:
+                  * Usuarios: Almacena información de las cuentas de los empleados, con campos como uid, nombre, correo electrónico y rol.
+                  * Grupo_Pueble: Contiene subcolecciones para cada empresa dentro del grupo, como Pueble SA - CASE IH y KIA, donde se gestionan los registros específicos de cada entidad.
+                  * Empleados: Información detallada de los empleados de cada empresa, como número de empleado, nombre, apellido, correo, sueldo, entre otros.
+                  * Recordatorios: Para gestionar las alertas relacionadas con fechas importantes (vacaciones, cumpleaños, entre otros).
+                  * Notificaciones_archivadas: Historial de notificaciones enviadas a los usuarios del sistema.
+                  * Counters: Utilizada para implementar un sistema de autoincremento, permitiendo que el número de empleados y otros identificadores se generen automáticamente basados en la información almacenada.
+Proceso de Implementación de Datos
+El proceso de implementación de datos se desarrolló en varias fases, siguiendo una estrategia iterativa para garantizar una alta calidad y eficiencia en el sistema.
+________________
+Diseño Inicial de la Base de Datos:
+El proceso comenzó con la creación de colecciones básicas como la de empleados, ajustándose según las necesidades emergentes. A medida que se identificaron nuevos requerimientos, se implementaron colecciones adicionales (como recordatorios y notificaciones_archivadas) para proporcionar un manejo completo de la información. La estructura de las colecciones fue optimizada continuamente para asegurar consultas rápidas y eficientes, aprovechando las características de las bases de datos no relacionales de Firebase.
+Desarrollo de Funcionalidades Específicas:
+                  * Gestión de Empleados y Roles: Se implementó un sistema de gestión de usuarios basado en roles (Admin, RRHH, Nóminas), permitiendo a cada usuario acceder únicamente a las funciones que les correspondan, con base en su perfil.
+                  * Notificaciones y Alertas: Para mejorar la interacción y la eficiencia de los usuarios, se crearon alertas personalizadas para cumpleaños, vacaciones y otros eventos importantes.
+Integración del Frontend y Backend:
+El desarrollo frontend se realizó utilizando Next.js junto con Shadcn/ui, lo que permitió crear una interfaz de usuario optimizada, fácil de usar y accesible desde dispositivos móviles. La integración con el backend de Firebase fue fluida, aprovechando la base de datos en tiempo real y los servicios de autenticación para gestionar la seguridad y la eficiencia del sistema.
+________________
+Testing y Validación:
+Se realizaron pruebas exhaustivas para garantizar la fiabilidad y funcionalidad del sistema en diversos escenarios de uso. Se validaron las principales funcionalidades, como la gestión de usuarios, la generación de reportes y la ejecución correcta de notificaciones y alertas. Además, se comprobó la accesibilidad del sistema en diferentes dispositivos y tamaños de pantalla, asegurando una experiencia amigable para el usuario. También se verificó la traducción de la interfaz para mantener la consistencia y facilidad de uso en distintos idiomas, y se evaluó la paleta de colores para cumplir con estándares de accesibilidad visual.
+________________
+Beneficios de Firebase en el Proyecto:
+La elección de Firebase ha sido clave para el éxito del sistema, gracias a las siguientes ventajas:
+                  * Velocidad: La naturaleza no relacional de Firestore permite consultas rápidas y eficientes, crucial para manejar datos de empleados y nóminas en tiempo real.
+                  * Escalabilidad: Firebase puede manejar un volumen creciente de datos a medida que el negocio crece, lo que garantiza que el sistema siga siendo eficiente incluso con un aumento en el número de empleados o empresas.
+                  * Flexibilidad: La estructura basada en colecciones y documentos permite adaptarse rápidamente a nuevos requerimientos sin necesidad de reestructurar todo el sistema.
+                  * Sincronización en Tiempo Real: Las actualizaciones en tiempo real son fundamentales para mantener todos los datos sincronizados entre los usuarios y el sistema, lo que mejora la experiencia de uso.
+________________
+Requerimientos de Software y Hardware (ERS)
+Requerimientos de Software
+                  * Sistema Operativo: El sistema es compatible con cualquier sistema operativo moderno, como Windows, macOS y Linux, lo que permite su implementación en una variedad de dispositivos y plataformas.
+
+
+                  * Backend:
+                  * Firestore: Base de datos en tiempo real para gestionar colecciones y documentos de empleados, nóminas, recordatorios, etc.
+                  * Firebase Auth: Sistema de autenticación para gestionar usuarios y roles de acceso en la plataforma, con altos estándares de seguridad.
+                  * Firebase Storage: Sistema que almacena los PDP y PDC.
+                  * Firebase Functions: Funciones serverless que permiten agregar lógica personalizada en el backend sin necesidad de gestionar servidores.
+
+
+                  * Frontend:
+                  * Next.js: Framework de React para el desarrollo de interfaces web escalables, con enfoque en rendimiento y optimización del SEO.
+                  * Shadcn/ui: Biblioteca de componentes UI que facilita la creación de interfaces modernas y accesibles.
+                  * Tailwind CSS: Framework CSS para crear diseños responsivos y modernos, optimizando la personalización de la interfaz sin escribir CSS desde cero.
+________________
+                     * Editor de Código:
+                     * Visual Studio Code: Recomendado para el desarrollo del proyecto debido a su integración con herramientas de JavaScript y TypeScript, así como su soporte para Firebase y otras tecnologías web.
+                     * Cualquier editor compatible con JavaScript y TypeScript también puede ser utilizado.
+
+
+                     * Sistema de Control de Versiones:
+                     * Git: Control de versiones para gestionar de manera eficiente el código fuente del proyecto.
+                     * GitHub: Plataforma para colaboración, almacenamiento y gestión del código, permitiendo el trabajo en equipo de manera ágil y segura.
+
+
+                     * Cuenta de Google: Es necesaria una cuenta de Google para poder configurar y administrar la base de datos en Firebase, así como para usar los servicios relacionados con Google Cloud.
+
+
+Requerimientos de Hardware
+                     * Conectividad: 
+                     * Se requiere acceso constante a internet de alta velocidad para asegurar que la comunicación con los servicios en la nube de Firebase y el acceso a la plataforma web se realicen de manera óptima.
+
+
+                     * Equipos:
+                     * Los dispositivos deben tener navegadores web modernos para acceder a la plataforma sin problemas. Esto incluye computadoras de escritorio, laptops, tablets o smartphones con soporte para aplicaciones web.
+
+                        * Periféricos:
+                        * Impresoras: En caso de ser necesarias, se deberán tener impresoras disponibles para la generación de documentos físicos, como reportes o nóminas, aunque la mayoría de las funciones del sistema son digitales.
+Este conjunto de requerimientos asegura que el sistema desarrollado  funcione de manera eficiente, escalable y accesible para todos los usuarios, sin importar el dispositivo o plataforma desde la que se acceda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Materiales Complementarios
+Los materiales complementarios para el proyecto de Pueble S.A. Son recursos clave para asegurar una implementación eficiente, comprensión adecuada y uso correcto del sistema. Estos materiales están diseñados tanto para desarrolladores como para usuarios finales, y se dividen en los siguientes elementos:
+Manual de Usuario
+Este documento proporciona una guía detallada sobre cómo interactuar con las principales funcionalidades del sistema. El manual incluye:
+                        * Descripción de las principales secciones de la plataforma: empleados, nóminas, recordatorios, y gestión de recursos humanos.
+                        * Instrucciones para realizar tareas clave, como la creación de nuevos empleados, generación de reportes de nómina y la gestión de alertas.
+                        * Soluciones a problemas comunes que pueden surgir durante el uso diario de la plataforma.
+Guía de Instalación
+Contiene instrucciones detalladas para la configuración del sistema en distintos entornos:
+                        * Entorno Local: Instrucciones paso a paso para la instalación y configuración del sistema en el entorno de desarrollo local, con la configuración de Firebase, autenticación y base de datos.
+                        * Entorno de Producción: Guía para desplegar el sistema en producción a través de Firebase Hosting, asegurando que todo esté correctamente configurado para el uso en tiempo real.
+________________
+Diagrama de Arquitectura
+Representación visual de la arquitectura técnica del sistema, que incluye:
+                        * Estructura de la base de datos en Firebase, mostrando las colecciones clave como users, empleados, nominas, y recordatorios.
+                        * Interacciones entre el frontend, que está basado en Next.js, y el backend con Firebase Functions.
+                        * Flujos de datos entre el frontend, el backend y la base de datos, detallando cómo los datos se gestionan y actualizan en tiempo real.
+Ejemplos de Uso
+Casos prácticos que ilustran cómo realizar tareas específicas dentro del sistema:
+                        * Gestión de Empleados: Ejemplo de cómo agregar nuevos empleados, registrar su información y asignarles roles y permisos.
+                        * Generación de Nóminas: Cómo calcular y generar nóminas de los empleados, incluyendo detalles de su salario base, bonos e incentivos.
+                        * Recordatorios y Notificaciones: Guía sobre cómo configurar alertas de cumpleaños, fechas de vacaciones y otros recordatorios importantes para los empleados.
+________________
+Capacitaciones de Uso
+Materiales y sesiones formativas diseñados para entrenar al personal en el uso adecuado del sistema:
+                        * Capacitación para el Administrador: Enfoque en la gestión de usuarios y roles, y cómo configurar y personalizar el sistema según las necesidades de la empresa.
+                        * Capacitación para el Departamento de Recursos Humanos: Entrenamiento en la gestión de empleados, generación de reportes de desempeño y configuración de alertas.
+                        * Capacitación para el Departamento de Nóminas: Instrucciones sobre cómo administrar la nómina de los empleados, realizar cálculos de sueldos e incentivos, y generar reportes de pagos.
+
+
+________________
+Conclusión
+El desarrollo del sistema integral para Pueble S.A. Marca un avance significativo hacia la modernización y optimización de los procesos administrativos y operativos dentro de la empresa. Con la implementación de tecnologías avanzadas como Firebase, Next.js, y componentes de Shadcn/ui, se ha logrado crear una plataforma robusta y flexible que no solo mejora la gestión de empleados, nóminas y recursos humanos, sino que también optimiza la interacción de los usuarios a través de un diseño altamente personalizable.
+La posibilidad de ajustar el perfil de usuario, elegir entre diferentes combinaciones de colores de tema y alternar entre idiomas (español, inglés y francés) ha sido clave para ofrecer una experiencia inclusiva y accesible a todos los involucrados, sin importar su ubicación o preferencia lingüística. Esta flexibilidad garantiza que los usuarios puedan adaptarse fácilmente a la interfaz y acceder a las funcionalidades que mejor se ajusten a sus necesidades.
+Gracias a la implementación de roles administrativos claros y diferenciados (como Admin, RRHH, y Nóminas), el sistema proporciona un ambiente de trabajo organizado, donde las responsabilidades están bien definidas y las tareas se ejecutan con transparencia. Además, su diseño responsive permite que la plataforma sea utilizada en cualquier dispositivo, facilitando el acceso y la adopción por parte de los usuarios.
+Este proyecto ha sido desarrollado bajo un enfoque ágil, permitiendo una adaptación constante a las necesidades específicas de Pueble S.A., lo que asegura que el sistema no solo cubra los problemas operativos actuales, sino que también esté preparado para escalar y adaptarse a los desafíos futuros.
+El sistema para Pueble S.A. no solo optimiza los procesos internos de la empresa, sino que también posiciona a la organización en un camino hacia la eficiencia operativa, el crecimiento sostenido y una mejor experiencia tanto para empleados como para usuarios finales. Con esta solución, Pueble S.A. está mejor equipada para afrontar nuevas oportunidades y seguir avanzando en su misión de excelencia.
+
+
+
+
+________________
+Apéndice
+Apéndice A: Marcas y Empresas que Pertenecen a Grupo Pueble
+Grupo Pueble es un conglomerado empresarial que incluye varias marcas de renombre en el ámbito de maquinaria pesada, automóviles y motocicletas. A continuación se presentan las marcas que forman parte de su portafolio:
+                        * Case IH: Reconocida marca global especializada en la fabricación de maquinaria agrícola.
+                        * KIA: Fabricante líder de automóviles con una amplia gama de vehículos.
+                        * Ducati: Marca italiana de motocicletas de alta gama, conocida por su diseño y rendimiento.
+                        * Audi: Renombrada marca de automóviles de lujo, conocida por su innovación tecnológica.
+                        * JCB: Empresa británica especializada en la fabricación de maquinaria de construcción y equipos industriales.
+Apéndice B: Imágenes de la primera versión del Sistema.
+El sistema tuvo su primera versión presentada en la segunda reunión que posteriormente fue superada por la segunda versión. Dicha versión incorporó avances significativos tanto en el diseño visual como en las funcionalidades, respondiendo a las necesidades presentadas durante esa reunión.
+  
+
+Login V-1.
+  
+
+Sidebar V-1.
+  
+
+Inicio V-1.
+  
+
+Dashboard V-1.
+  
+
+Gestión de Empleados V-1.
+  
+
+Desempeño V-1.
+  
+
+Formación V-1.
+
+
+La comparación entre la versión Nº1 y la Nº2 demuestra un avance significativo tanto en el diseño visual como en las funcionalidades. Me siento orgulloso de este proyecto y muy satisfecho con los resultados alcanzados.
+________________
+Bibliografía
+
+
+Next.js Documentation (https://nextjs.org/docs)
+Firebase Documentation (https://firebase.google.com/docs)
+Tailwind (https://tailwindui.com/documentation)

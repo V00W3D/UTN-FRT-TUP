@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: orange;
+}
+
+.main {
+    background-color: lightblue;
+}
+.footer {
+    background-color: orange;
+}
+.table {
+    width: 70%;
+    margin: auto;
+   
+}
+.aside {
+    background-color: tomato;
+}

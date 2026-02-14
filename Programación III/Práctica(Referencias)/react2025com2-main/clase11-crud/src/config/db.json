@@ -1,0 +1,42 @@
+{
+  "articulos": [
+    {
+      "id": "3",
+      "nombre": "hielo",
+      "descripcion": "fresco 10kg",
+      "precio": 2000,
+      "stock": "20"
+    },
+    {
+      "id": "4",
+      "nombre": "coca cola",
+      "descripcion": "muy adictiva",
+      "precio": 2300,
+      "stock": 100
+    },
+    {
+      "id": "9702",
+      "nombre": "cigarrillos",
+      "descripcion": "tabaco a full",
+      "stock": "30",
+      "precio": "1000"
+    },
+    {
+      "id": "187b",
+      "nombre": "papas",
+      "descripcion": "saborizada",
+      "stock": "100",
+      "precio": "4500"
+    },
+    {
+      "id": "476a",
+      "nombre": "coca cola",
+      "descripcion": "mmmm rica",
+      "stock": "50",
+      "precio": "2300"
+    }
+  ],
+  "artEliminados": [
+    {}
+  ]
+}

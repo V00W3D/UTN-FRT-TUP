@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer></script>
+  <link rel="stylesheet" href="../css/global.css">
+  <link rel="stylesheet" href="../css/style.css" />
+  <script type="module" src="../src/app.js"></script>
+  <title>TucuFerr</title>
+</head>
+<body>
+  <header class="header">
+    <img src="../css/2594b6ae-0ec6-4f42-abd2-e9947fcaeeca.png" alt="" width="400px" height="200px">
+    <nav class="nav" id="nav">
+      <div id="usuarioactual">
+      </div>
+
+      <form id="formSearch" class="searchsection">
+        <input type="text" id="searchproductos" placeholder="Busca tu producto" />
+        <button type="submit">🔎</button>
+      </form>
+      <ul class="nav-links">
+        <li><a href="../Inicio/index.html" id="btnTienda">Inicio</a></li>
+        <li><a href="#footer">Contacto</a></li>
+        <li><button id="btnSesion">Iniciar sesión</button></li>
+      </ul>
+      
+      <button type="button" id="btnIrAlCarrito"><p>Carrito🧰</p></button>
+    </nav>
+  </header>
+
+  <main class="main">
+    <section class="carousel">...</section>
+    <div id="cardsSection">
+      <div class="cards-container" id="cardsContainer"></div>
+    </div>
+  </main>
+
+  <footer class="footer" id="footer">
+    <section>
+      <p>&copy; 2025 TucuFerr S.A. Todos los derechos reservados.</p>
+      <br>
+      <p>Contacto: contacto@tucuferr.com.ar</p>
+      <br>    
+      <p>Tel: +54 381 555 9420</p>
+      <br>
+      <p>Dirección: Av. Bernardino Rivadavia 1050, San Miguel de Tucumán, Tucumán</p>
+    </section>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d629.4508097262144!2d-65.1989470790048!3d-26.817313734808657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c23b7b6e863%3A0x976c9adc5013942c!2sUniversidad%20Tecnol%C3%B3gica%20Nacional%20-%20Facultad%20Regional%20Tucum%C3%A1n!5e0!3m2!1ses!2sar!4v1750732036858!5m2!1ses!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </footer>
+</body>
+</html>

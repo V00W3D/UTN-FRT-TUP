@@ -1,0 +1,16 @@
+#header {
+  background-color: orange;
+  text-align: center;
+  color: blue;
+}
+
+.boton {
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  
+}
+.boton:hover {
+  background-color: lightblue;
+  color: black;
+}

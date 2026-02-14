@@ -1,0 +1,220 @@
+body {
+  margin: 0%;
+  align-items: center;
+  background-color: darkblue;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #00a8ff;
+  background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23000000' fill-opacity='0.27'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+
+}
+
+.header {
+  background-image: url("./Imagenes/header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: blue;
+  text-shadow: 2px 2px 4px #ffffff;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  text-align: center;
+}
+
+.header h2 {
+  margin: 60px 0 0 0;
+  padding: 0;
+  font-size: 30px;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}
+
+.nav ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+        list-style: none; 
+        padding: 0;
+        margin: 0;
+        color:black;
+
+}
+
+.nav li {
+        text-decoration: none;
+        color: black;
+        margin: 0 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: left; 
+}
+
+.nav {
+    background-color: lightcyan;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.container {
+  display: flex;
+}
+
+.aside {
+  width: 25%;
+  margin: 20px;
+  padding: 20px;
+  border-top: 3px dashed red;
+  border-right: 3px dotted red;
+  border-bottom: 3px solid red;
+  border-left: 3px solid red;
+  color:#ffffff;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.aside h2 {
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 6px 6px 8px #000000;
+}
+
+#parrafo1 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(255, 115, 0);
+  text-shadow: 4px 4px 6px #000000;
+}
+
+.aside li{
+  font-size: 18px;
+  color: #ffffff;
+  text-decoration: underline solid;
+  text-decoration-thickness: 2px;
+  
+}
+
+.article {
+  width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: auto;
+  padding: 0;
+}
+
+.card {
+  background-color: chocolate;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: #ffffff 0.1px solid;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.452);
+  width: 400px; 
+  transition: transform 0.2s ease;
+  gap: 10px;
+  margin: 10px;
+}
+
+.card:hover {
+  transform: scale(1.1) translateX(15px);
+
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit:cover;
+  border-radius: 20px;;
+  display: block;
+}
+
+.card h2 {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.table{
+  width: 80%;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 200px;
+  border-collapse: collapse;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid grey
+
+}
+
+.table th{
+    background-color: #e0e0e0;
+    color: black;
+    padding: 10px;
+    text-align: left;
+    border: 2px solid grey
+}
+
+.table td {
+  background-color: peru;
+  color: white;
+  padding: 10px;
+  text-align: left;
+  border: 2px solid grey
+}
+
+#TablaLenguajesHead th:hover{
+  
+  background-color: goldenrod;
+  color: blue;
+}
+
+#TablaLenguajes td:hover{
+  background-color: lightseagreen;
+  color: midnightblue;
+}
+
+.footer {
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: blue;
+  text-shadow: 1px 1px 1px #ffffff;
+  padding: 20px;
+  background-image: url("./Imagenes/footer.jpg");
+}
+
+.footer h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  color: chocolate;
+  font-weight: bolder;}
+
+

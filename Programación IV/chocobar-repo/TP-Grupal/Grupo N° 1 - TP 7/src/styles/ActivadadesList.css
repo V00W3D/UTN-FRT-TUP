@@ -1,0 +1,19 @@
+.actividades-list-container {
+  margin-top: 8px;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.actividades-list-container h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.actividades-list {
+  list-style: none;
+  padding: 0;
+}
+
+.actividades-list li {
+  margin-bottom: 8px;
+}

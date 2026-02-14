@@ -1,0 +1,184 @@
+/* =======================================================
+   🍯 SMOOTH NAVBAR — Peru Glass Edition (Generic)
+   ======================================================= */
+
+.smooth-navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+  z-index: 1000;
+  animation: smoothFadeIn 0.7s ease;
+}
+
+/* Contenedor principal */
+.smooth-navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: min(100%, 1100px);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* 🧡 LOGO */
+.smooth-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: peru;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: var(--transition);
+  text-shadow: 0 0 10px rgba(205, 133, 63, 0.35);
+}
+
+.smooth-logo-img {
+  height: 38px;
+  width: auto;
+  filter: drop-shadow(0 0 6px rgba(205, 133, 63, 0.25));
+  transition: var(--transition);
+}
+
+.smooth-logo:hover {
+  color: var(--color-accent-light);
+  text-shadow: 0 0 12px rgba(205, 133, 63, 0.45);
+  transform: translateY(-1px);
+}
+
+.smooth-logo:hover .smooth-logo-img {
+  transform: scale(1.05);
+}
+
+/* 🍮 NAV MENU — Glass Bar */
+.smooth-nav {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid rgba(205, 133, 63, 0.25);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 0 25px rgba(205, 133, 63, 0.15);
+  border-radius: 60px;
+  padding: 0.7rem 1.6rem;
+  transition: var(--transition);
+  position: relative;
+}
+
+.smooth-nav-item {
+  position: relative;
+}
+
+/* Botones */
+.smooth-nav-btn {
+  position: relative;
+  min-width: 110px;
+  height: 42px;
+  padding: 0 18px;
+  border-radius: 25px;
+  border: none;
+  background: transparent;
+  color: #3a2c1b;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+}
+
+/* Fondo miel animado */
+.smooth-nav-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #e7b37a, peru, #f8cfa4);
+  transform: translateY(110%);
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+  border-radius: inherit;
+  z-index: 0;
+  box-shadow: 0 0 15px rgba(205, 133, 63, 0.25);
+}
+
+/* Estado activo */
+.smooth-nav-btn.active::before {
+  transform: translateY(0);
+}
+
+.smooth-nav-btn span,
+.smooth-nav-btn {
+  position: relative;
+  z-index: 1;
+}
+
+/* Hover */
+.smooth-nav-btn:hover::before {
+  transform: translateY(0);
+}
+
+.smooth-nav-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 14px rgba(205, 133, 63, 0.35);
+}
+
+.smooth-nav-btn:hover span {
+  color: #fffefb !important;
+  text-shadow: 0 0 8px rgba(205, 133, 63, 0.35);
+}
+
+.smooth-nav-btn.active span {
+  color: #fffaf2 !important;
+  text-shadow: 0 0 10px rgba(205, 133, 63, 0.45);
+}
+
+.smooth-nav-btn:active {
+  transform: scale(0.96);
+}
+
+/* Dropdown */
+.smooth-dropdown {
+  position: absolute;
+  top: 110%;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(16px);
+  border-radius: 12px;
+  padding: 0.5rem 0;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  animation: smoothFadeIn 0.25s ease;
+}
+
+.smooth-dropdown-item {
+  padding: 0.5rem 1.2rem;
+  cursor: pointer;
+  color: #3a2c1b;
+  font-weight: 500;
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+.smooth-dropdown-item:hover {
+  background: peru;
+  color: white;
+}
+
+/* ✨ ANIMATIONS */
+@keyframes smoothFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

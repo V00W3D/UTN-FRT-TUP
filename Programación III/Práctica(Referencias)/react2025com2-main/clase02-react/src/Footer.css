@@ -1,0 +1,10 @@
+.footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: orange;
+    color:aquamarine;
+}
+.h4 {
+    text-shadow: 2px 4px 4px black;
+}

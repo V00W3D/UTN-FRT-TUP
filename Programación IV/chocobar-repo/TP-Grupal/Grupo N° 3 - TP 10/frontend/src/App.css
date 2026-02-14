@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+:root {
+  --bg: #fff;
+  --fg: #000;
+  --muted: #444;
+  --border: #000;
+  --btn-bg: #000;
+  --btn-fg: #fff;
+  --btn-hover: #222;
+  --shadow: 4px 4px 0 #000;
+  --radius: 12px;
+  --gap: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Inter, system-ui, Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0 0 10px;
+  text-align: center;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 20px auto;
+  padding: 0 16px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--gap);
+}
+
+@media (max-width: 900px) {
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+form {
+  display: grid;
+  gap: 10px;
+}
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr auto;
+  gap: 10px;
+}
+@media (max-width: 900px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+input,
+select,
+button {
+  font-size: 14px;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  outline: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+input:focus,
+select:focus {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.15);
+}
+
+button {
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  cursor: pointer;
+  border: 1px solid var(--border);
+  transition: background 0.2s ease;
+}
+button:hover {
+  background: var(--btn-hover);
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eaeaea;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.muted {
+  color: var(--muted);
+  font-size: 13px;
+}
+.pill {
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+.badge-ok {
+  color: #0a0;
+}
+.badge-bad {
+  color: #a00;
+}

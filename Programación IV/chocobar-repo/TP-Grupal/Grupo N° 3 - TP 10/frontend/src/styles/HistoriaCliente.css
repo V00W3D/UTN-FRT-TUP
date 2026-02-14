@@ -1,0 +1,45 @@
+.historial-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.historial-container h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #2f3640;
+}
+
+.clientes-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px 0;
+}
+
+.clientes-list li {
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #f1f2f6;
+  transition: background-color 0.2s;
+}
+
+.clientes-list li:hover {
+  background-color: #dcdde1;
+}
+
+.clientes-list li.selected {
+  background-color: #4cd137;
+  color: white;
+}
+
+.historial-turnos ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.historial-turnos li {
+  margin-bottom: 6px;
+}

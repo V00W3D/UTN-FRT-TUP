@@ -1,0 +1,33 @@
+.actividad-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  background-color: #fff;
+}
+
+.actividad-item span {
+  font-weight: 500;
+  color: #000;
+}
+
+.actividad-item button {
+  margin-left: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.actividad-item .btn-secondary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.actividad-item .btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}

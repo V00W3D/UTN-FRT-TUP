@@ -1,0 +1,64 @@
+/* =======================================================
+   ✨ MODAL BUILDER BASE STYLES — Reusable
+   ======================================================= */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 10, 0.75);
+  backdrop-filter: blur(12px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+}
+
+.modal-container {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(205, 133, 63, 0.3);
+  border-radius: 20px;
+  padding: 1.8rem;
+  box-shadow: 0 0 25px rgba(205, 133, 63, 0.2);
+  backdrop-filter: blur(18px);
+  color: #3a2c1b;
+}
+
+.modal-title {
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: peru;
+  text-align: center;
+  text-shadow: 0 0 6px rgba(205, 133, 63, 0.25);
+}
+
+.modal-body {
+  font-size: 0.95rem;
+  color: #3a2c1b;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+/* 🧈 Botones consistentes */
+.modal-actions .btn-primary {
+  background: peru;
+  border: none;
+  font-weight: 600;
+}
+
+.modal-actions .btn-primary:hover {
+  background: #a0522d;
+}
+
+.modal-actions .btn-secondary {
+  background: #ddd;
+  border: none;
+  color: #3a2c1b;
+}
+
+.modal-actions .btn-secondary:hover {
+  background: #ccc;
+}

@@ -1,0 +1,67 @@
+/* src/styles/Servicios.css */
+.card {
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  max-width: 400px;
+  margin: 0 auto 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+.card h2 {
+  color: #333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.form-servicio {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.form-servicio input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+  transition: 0.2s;
+}
+
+.form-servicio input:focus {
+  border-color: #6c63ff;
+  box-shadow: 0 0 4px rgba(108, 99, 255, 0.3);
+}
+
+.form-servicio button {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  background-color: #6c63ff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-servicio button:hover {
+  background-color: #5751d6;
+}
+
+.card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card li {
+  background-color: #f4f4ff;
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 14px;
+}
+

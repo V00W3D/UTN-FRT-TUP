@@ -1,0 +1,74 @@
+/* Contenedor principal */
+.turnos-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+/* Formulario de nuevo turno */
+.turnos-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+.turnos-form input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.turnos-form button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #721f4d;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.turnos-form button:hover {
+  background-color: #a43766;
+}
+
+/* Lista de turnos */
+.turnos-list {
+  list-style: none;
+  padding: 0;
+}
+
+.turnos-list li {
+  background-color: white;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+/* Tarjeta estadística */
+.tarjeta-estadistica {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 1rem;
+  min-width: 150px;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+.tarjeta-estadistica h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #721f4d;
+}
+
+.tarjeta-estadistica p {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

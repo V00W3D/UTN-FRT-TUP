@@ -1,0 +1,36 @@
+.SoftSkillsBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
+
+.SoftSkillsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.SoftSkillCard {
+  width: 280px;
+  border: 1px solid #f7f7f7;
+  padding: 15px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.SoftSkillCard:hover {
+    box-shadow: 0 4px 15px rgb(150, 150, 150);
+    transform: scale(1.03);
+}
+
+.SoftSkillCard h3 {
+  color: #0166ff;
+}
+
+.SoftSkillCard p{
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+}

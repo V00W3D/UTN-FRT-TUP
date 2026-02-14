@@ -1,0 +1,38 @@
+/* src/styles/TurnosHoy.css */
+.card {
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  max-width: 400px;
+  margin: 0 auto 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+.card h2 {
+  color: #333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.card p {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+.card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card li {
+  background-color: #f4f4ff;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+}

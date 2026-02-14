@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: lightblue;
+}
+.main {
+    background-color: orange;
+}
+.footer {
+    background-color: lightblue;
+}
+#bloque {
+    border: 2px solid black;
+    width: 50%;
+    
+}

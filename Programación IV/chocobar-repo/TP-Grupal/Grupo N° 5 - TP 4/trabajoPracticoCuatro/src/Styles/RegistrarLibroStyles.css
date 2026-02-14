@@ -1,0 +1,57 @@
+.registroContainer {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fafafa;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.registroContainer h2 {
+    font-weight: bold;
+}
+
+.registroForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.registroInput {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.registroInput:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 4px rgba(0, 123, 255, 0.3);
+}
+
+.registroButton {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+  transition: background-color 0.2s ease;
+}
+
+.registroButton:hover {
+  background-color: #0056b3;
+}
+
+.registroMensaje {
+  margin-top: 10px;
+  font-weight: 500;
+}

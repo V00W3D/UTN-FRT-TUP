@@ -1,0 +1,242 @@
+/* =======================================================
+   🧭 ADMIN LAYOUT — BlueGlass Corporate Theme
+   ======================================================= */
+
+:root {
+  --admin-bg: #f6f9fc;
+  --admin-surface: rgba(255, 255, 255, 0.65);
+  --admin-border: rgba(0, 58, 97, 0.15);
+  --admin-text: #1f2937;
+  --admin-muted: rgba(31, 41, 55, 0.6);
+  --admin-accent: #3b82f6; /* 🎯 Azul principal */
+  --admin-accent-light: #93c5fd;
+  --admin-accent-glow: rgba(59, 130, 246, 0.3);
+  --admin-highlight: #f0f8ff;
+  --transition: all 0.35s ease;
+  --font-sans: "Poppins", "Inter", "Nunito", sans-serif;
+}
+
+/* =======================================================
+   CONTAINER
+   ======================================================= */
+
+.admin-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: linear-gradient(160deg, #f4f8fc 0%, #e9eef6 60%, #f7faff 100%);
+  font-family: var(--font-sans);
+  color: var(--admin-text);
+  overflow: hidden;
+  position: relative;
+}
+
+/* =======================================================
+   BACKGROUND VIDEO + OVERLAY
+   ======================================================= */
+
+.admin-bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  opacity: 0.85;
+  filter: brightness(0.9) contrast(1.05) saturate(1.15);
+}
+
+.admin-bg-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+/* =======================================================
+   LAYOUT STRUCTURE
+   ======================================================= */
+
+.admin-layout-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.admin-header {
+  width: 100%;
+  padding: 0.8rem 2rem;
+  position: sticky;
+  z-index: 5;
+}
+
+.admin-main {
+  flex: 1;
+  padding: 1.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  animation: fadeInUp 0.7s ease;
+}
+
+/* =======================================================
+   HEADER CONTENT
+   ======================================================= */
+
+.admin-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.admin-header-left,
+.admin-header-center,
+.admin-header-right {
+  display: flex;
+  align-items: center;
+}
+
+.admin-header-center {
+  justify-content: center;
+  flex: 1;
+}
+
+/* =======================================================
+   NAVBAR BUTTONS (SmoothNavbarBuilder)
+   ======================================================= */
+
+.smooth-navbar {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.smooth-navbar button {
+  background: transparent;
+  border: none;
+  padding: 10px 18px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--admin-muted);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.smooth-navbar button:hover {
+  background: var(--admin-accent-light);
+  color: #fff;
+}
+
+.smooth-navbar .active {
+  background: var(--admin-accent);
+  color: #fff;
+  box-shadow: 0 4px 14px var(--admin-accent-glow);
+}
+
+/* =======================================================
+   ANIMATIONS
+   ======================================================= */
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* =======================================================
+   FIX: Header alineado y card visible arriba
+   ======================================================= */
+
+/* El header SIEMPRE arriba del overlay/video */
+.admin-header {
+  position: fixed;
+  z-index: 10; /* subilo por encima del overlay */
+}
+
+/* Contenedor principal */
+.admin-layout-content {
+  position: relative;
+  z-index: 5; /* encima del overlay/video */
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Main ajustado */
+.admin-main {
+  flex: 1;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 1rem; /* leve espacio opcional */
+}
+
+/* Si tu profile card se fue muy abajo, asegurate de esto */
+.profile-card {
+  align-self: flex-start; /* fuerza a que arranque arriba */
+  margin-top: -7rem !important;
+}
+
+/* Aseguramos que overlay quede atrás */
+.admin-bg-overlay {
+  z-index: 1; /* debajo del header y contenido */
+}
+
+/* Video bien al fondo */
+.admin-bg-video {
+  z-index: 0;
+}
+/* 🌸 Botón Sakura */
+.sakura-btn {
+  background: linear-gradient(135deg, #fcb7b2 0%, #fcd1cf 100%);
+  color: #4b1f1f;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  padding: 8px 16px;
+  box-shadow: 0 3px 6px rgba(255, 182, 193, 0.4);
+  transition: all 0.25s ease;
+  margin-right: auto;
+}
+
+.sakura-btn:hover {
+  background: linear-gradient(135deg, #ff9e9e 0%, #ffc7c7 100%);
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(255, 153, 153, 0.5);
+  transform: translateY(-1px);
+}
+
+.sakura-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(255, 153, 153, 0.4);
+}
+
+.sakura-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 182, 193, 0.5);
+}

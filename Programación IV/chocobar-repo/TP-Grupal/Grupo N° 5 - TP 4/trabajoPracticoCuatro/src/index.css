@@ -1,0 +1,14 @@
+:root {
+  font-family:'Courier New', Courier, monospace ;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: inherit;
+}
+
+
+body {
+  margin: 0;
+}

@@ -1,0 +1,4 @@
+-El componente experiencia lo saqué ya que no tengo experiencia laboral, aunque no sabia si dejarlo o no
+-Utilicé CSS puro
+-Instalé la biblioteca react-icons para poder utilizar los iconos de LinkedIn y GitHub
+-No implementé un diseño responsivo

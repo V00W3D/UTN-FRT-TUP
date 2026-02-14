@@ -1,0 +1,499 @@
+﻿Reforma Constitucional Argentina de 1994 — Versión ampliada con contexto, artículos y leyes
+Documento de estudio con foco histórico-institucional, referencias a normas (leyes y artículos) y efectos prácticos.
+________________
+
+
+1) Introducción y contexto histórico (1983–1994)
+Tras la recuperación democrática en 1983, Argentina atravesó una década de consolidación institucional y fuertes tensiones socioeconómicas: los juicios a las Juntas, la hiperinflación de 1989, la estabilización con la convertibilidad de 1991, y un sistema político que, ya sin proscripciones, empezaba a dialogar en clave de “acuerdos de Estado”. En ese marco, los líderes de los dos partidos mayoritarios —Raúl Alfonsín (UCR) y Carlos Menem (PJ)— sellaron en 1993 un entendimiento político para habilitar una reforma de la Constitución que actualizara el diseño institucional y ampliara derechos.
+Ese entendimiento se conoció como Pacto de Olivos (noviembre de 1993). Fue un acuerdo pragmático: la UCR buscaba atenuar el hiperpresidencialismo y asegurar controles; el PJ pretendía, entre otras cosas, habilitar la reelección presidencial. El resultado político fue la Ley 24.309 (29/12/1993), que declaró la necesidad de la reforma y fijó los límites del proceso.
+________________
+
+
+2) La Ley 24.309: Núcleo de Coincidencias Básicas y Temas habilitados
+La Ley 24.309 estructuró la reforma en dos listas: un Núcleo de Coincidencias Básicas (NCB) que la Convención debía aprobar en bloque (el llamado voto conjunto o cláusula cerrojo), y un conjunto de temas habilitados para libre deliberación. El procedimiento y los plazos también quedaron fijados por ley.
+2.1 Núcleo de Coincidencias Básicas (síntesis explicativa)
+* Presidencia – Mandato y reelección: reducción del mandato a 4 años y reelección inmediata por un solo período.
+
+* Elección presidencial – Balotaje: adopción de segunda vuelta para Presidente y Vice.
+
+* Jefatura de Gabinete de Ministros: creación de una figura de coordinación política-administrativa con responsabilidades ante el Congreso.
+
+* Decretos de Necesidad y Urgencia (DNU) y legislación delegada: incorporación con límites y control parlamentario.
+
+* Órganos de control: fortalecimiento del control externo del sector público (Auditoría General de la Nación) y creación de nuevas instituciones.
+
+* Consejo de la Magistratura y juicio por jurados (este último, con implementación diferida): profesionalizar selección y disciplina judicial.
+
+* Ministerio Público: reconocimiento como órgano independiente con autonomía funcional y financiera.
+
+* Sistema bicameral y Senado: tercer senador por distrito para la primera minoría y elección directa (con transición).
+
+* Ciudad de Buenos Aires: reconocimiento de autonomía y elección directa de su Jefe de Gobierno.
+
+* Democracia semidirecta: iniciativa popular y consulta popular.
+
+* Tratados internacionales: jerarquización de tratados de derechos humanos.
+
+* Nuevos derechos: ambiente, usuarios y consumidores, amparo y hábeas data.
+
+* Federalismo contemporáneo: autonomía municipal, recursos naturales provinciales, cooperación interjurisdiccional y reglas de coparticipación.
+
+Nota de método: los ítems anteriores condensan el NCB y sus desarrollos en el texto final; algunos se implementan en artículos específicos y otros se completan con leyes reglamentarias o cláusulas transitorias.
+2.2 Temas habilitados (principales)
+   * Defensor del Pueblo y Auditoría General de la Nación (diseño constitucional de control).
+
+   * Ministerio Público (persecución penal y defensa pública con autonomía).
+
+   * Acción de amparo, hábeas corpus y hábeas data (tutelas rápidas).
+
+   * Derechos de consumidores/usuarios y protección ambiental.
+
+   * Participación ciudadana: iniciativa y consulta popular.
+
+   * Actualización de atribuciones del Congreso y del Ejecutivo (incluye DNU y delegación con límites).
+
+   * Consejo de la Magistratura y régimen de remoción de magistrados inferiores.
+
+   * Autonomía municipal y recursos naturales.
+
+   * Integración regional y jerarquía de tratados (Mercosur/ALADI/UNASUR, DD. HH.).
+
+________________
+
+
+3) La Convención Nacional Constituyente (1994)
+      * Composición y pluralidad: 305 convencionales de 19 bloques partidarios.
+
+      * Sedes: Santa Fe y Paraná (gesto federal y tradición histórica).
+
+      * Calendario clave: apertura en mayo de 1994; sanción del nuevo texto el 22 de agosto de 1994; jura el 24 de agosto de 1994 (Palacio San José).
+
+      * Campaña y pedagogía cívica: por primera vez en democracia se discutieron públicamente figuras técnico-jurídicas (balotaje, hábeas data, Consejo de la Magistratura), elevando el nivel del debate ciudadano.
+
+________________
+
+
+4) Cambios institucionales por poder (con artículos)
+4.1 Poder Ejecutivo
+         * Mandato y reelección: el art. 90 fija 4 años y habilita una sola reelección inmediata. Una cláusula transitoria computó el mandato en curso como "primer período".
+
+         * Elección presidencial y balotaje: los arts. 94–98 instauran la elección directa con balotaje atenuado (regla de 45% o 40% + 10 puntos de diferencia) y regulan la doble vuelta.
+
+         * Jefe de Gabinete de Ministros: el art. 100 define atribuciones (administración, ejecución del presupuesto, reglamentación de la organización de la administración, nombramientos y relaciones con el Congreso), y el art. 101 exige informes periódicos ante ambas Cámaras. Una transitoria dispuso su entrada en vigor el 8/7/1995.
+
+         * Decretos de Necesidad y Urgencia (DNU) y legislación delegada: el art. 99 inc. 3 admite DNU en situaciones excepcionales (imposibilidad de dictar leyes, no regulan penal, tributario, electoral ni de partidos) y somete su vigencia al control de una comisión bicameral y del Congreso; el art. 76 limita la delegación legislativa a materias determinadas, con plazo y bases.
+
+4.2 Poder Legislativo
+            * Senado – Representación y minoría: el art. 54 rediseña la Cámara con tres senadores por distrito (dos para la primera fuerza y uno para la primera minoría) y elección directa; cláusulas transitorias ordenaron la transición hasta 2001.
+
+            * Órganos de control del Congreso: el art. 85 constitucionaliza la Auditoría General de la Nación como órgano de asistencia técnica del Parlamento para el control externo; el art. 86 crea el Defensor del Pueblo como institución independiente con legitimación procesal.
+
+            * Democracia semidirecta: el art. 39 incorpora la iniciativa popular y el art. 40 la consulta popular (vinculante si es convocada por el Congreso).
+
+4.3 Poder Judicial y Ministerio Público
+               * Consejo de la Magistratura: el art. 114 crea un órgano plural (jueces, abogados, académicos y representantes políticos) para seleccionar ternas y disciplinar magistrados.
+
+               * Designación de jueces: se mantiene la competencia presidencial con acuerdo del Senado (mayoría especial para la Corte) y se precisan reglas de duración y remoción; se impulsa el juicio por jurados (pendiente de implementación plena en el fuero federal ordinario).
+
+               * Ministerio Público: el art. 120 lo reconoce como órgano independiente, con Procurador General (acusación) y Defensor General (defensa pública), autonomía funcional y autarquía financiera.
+
+4.4 Derechos y garantías de nueva generación
+                  * Ambiente: el art. 41 consagra el derecho a un ambiente sano, deberes de recomposición del daño y presupuestos mínimos de protección.
+
+                  * Consumidores y usuarios: el art. 42 establece la protección al consumidor (seguridad, información, trato equitativo, asociaciones de consumidores y marco regulatorio de servicios públicos).
+
+                  * Amparo, hábeas corpus y hábeas data: el art. 43 constitucionaliza la acción de amparo, el hábeas corpus y el hábeas data (acceso, rectificación y confidencialidad de datos personales).
+
+                  * Defensa del orden democrático y sistema de partidos: los arts. 36–38 refuerzan la legitimidad democrática, la estabilidad del sufragio y el rol de los partidos políticos; se introduce la igualdad real de oportunidades entre varones y mujeres en el acceso a cargos (art. 37, con acciones positivas).
+
+4.5 Federalismo y relaciones internacionales
+                     * Autonomía municipal: el art. 123 obliga a las provincias a asegurar la autonomía municipal (institucional, política, administrativa, económica y financiera).
+
+                     * Ciudad Autónoma de Buenos Aires (CABA): el art. 129 reconoce autonomía y elección directa del Jefe de Gobierno, con un Estatuto Organizativo propio.
+
+                     * Recursos naturales y regiones: el art. 124 reconoce el dominio originario de los recursos naturales a las provincias y faculta la creación de regiones.
+
+                     * Tratados internacionales de derechos humanos: el art. 75 inc. 22 otorga jerarquía constitucional a un conjunto de tratados de DD. HH. y establece el mecanismo para elevar otros por ley agravada; el inc. 24 fomenta la integración latinoamericana y supranacional con control parlamentario.
+
+________________
+
+
+5) Cronología mínima del proceso (hitos útiles)
+                        * 14/11/1993: Pacto de Olivos (Menem–Alfonsín).
+
+                        * 29/12/1993: Ley 24.309 declara la necesidad de reformar la Constitución, define el NCB, los temas habilitados, el voto conjunto, sedes y plazos.
+
+                        * Mayo/1994: se instala la Convención en Santa Fe y Paraná.
+
+                        * 01/08/1994: aprobación de la exigencia de mayoría absoluta para reformas de régimen electoral y partidos (incorporada como segunda parte del art. 77).
+
+                        * 22/08/1994: sanción del nuevo texto constitucional.
+
+                        * 24/08/1994: jura de autoridades nacionales y constituyentes (Palacio San José).
+
+                        * 1995: entra en vigor la Jefatura de Gabinete (8 de julio) y comienza la transición del Senado (tercer senador y pasos hacia elección directa).
+
+                        * 2001: primera elección directa simultánea de todos los senadores bajo el nuevo régimen.
+
+________________
+
+
+6) Controversias y debates doctrinarios
+                           * “Voto conjunto” / “cláusula cerrojo”: al exigir votar el NCB en bloque, la ley acotó el margen deliberativo de la Convención. Críticos señalaron un exceso del Congreso sobre un poder constituyente derivado. Defensores respondieron que el Congreso puede delimitar el alcance de la convocatoria y que los convencionales aceptaron esas reglas al jurar.
+
+                           * Presidencialismo atenuado: la creación del Jefe de Gabinete y el control parlamentario de DNU fueron vistos como avances hacia un equilibrio de poderes; otros remarcan que la práctica política no siempre consolidó esa atenuación.
+
+                           * Judicialización y Consejo de la Magistratura: la composición del Consejo fue objeto de reformas legales posteriores y de controversias sobre su equilibrio corporativo-político.
+
+                           * Derechos de incidencia colectiva: el desarrollo de acciones colectivas, tutela del ambiente y de consumidores tuvo avances dispares según legislación y jurisprudencia, pero instaló una cultura de derechos más intensa.
+
+________________
+
+
+7) Impactos prácticos que hoy damos por “naturales”
+                              * Elegimos directamente a senadoras y senadores, con representación garantizada a la primera minoría.
+
+                              * CABA tiene Jefe de Gobierno elegido por voto popular y un estatuto propio.
+
+                              * Existen el Jefe de Gabinete, el Defensor del Pueblo, la Auditoría General y el Ministerio Público con autonomía constitucional.
+
+                              * Podemos accionar amparo y hábeas data, y asociaciones de consumidores litigan por derechos colectivos.
+
+                              * Tratados de DD. HH. tienen rango constitucional, lo que cambió el estándar de control de constitucionalidad y convencionalidad.
+
+________________
+
+
+8) Mapa rápido “¿Qué cambió y dónde está?”
+Tema
+	¿Qué cambió?
+	Artículo/s
+	Mandato presidencial
+	4 años + 1 reelección inmediata
+	art. 90 (y transitoria 9ª)
+	Elección presidencial
+	Balotaje (45% o 40% + 10)
+	arts. 94–98
+	Jefe de Gabinete
+	Atribuciones y control parlamentario
+	arts. 100–101 (transitoria 12ª)
+	DNU / Delegación
+	Límites y control parlamentario
+	art. 99 inc. 3 / art. 76
+	Senado
+	3 por distrito; 2 mayoría, 1 minoría; elección directa
+	art. 54 (transitorias 4ª–5ª)
+	Control externo
+	Auditoría General de la Nación
+	art. 85
+	Defensor del Pueblo
+	Defensoría con legitimación
+	art. 86
+	Consejo de la Magistratura
+	Selección y disciplina judicial
+	art. 114 (transitoria 13ª–14ª)
+	Ministerio Público
+	Órgano independiente
+	art. 120
+	Democracia semidirecta
+	Iniciativa y consulta popular
+	arts. 39–40
+	Derechos “nuevos”
+	Ambiente, consumidores, amparo y hábeas data
+	arts. 41–43
+	Autonomías
+	Municipal y CABA
+	arts. 123 y 129
+	Tratados DD. HH.
+	Jerarquía constitucional
+	art. 75 inc. 22
+	Integración regional
+	Aprobación y control de tratados de integración
+	art. 75 inc. 24
+	________________
+
+
+9) Cierre: el legado de 1994
+La reforma de 1994 consolidó la democracia constitucional argentina con un paquete de innovaciones que combinó actualización institucional, control del poder y expansión de derechos. Su mayor enseñanza práctica: una Constitución vive en el uso que la ciudadanía y las instituciones hacen de sus herramientas —amparos, controles, audiencias públicas, deliberación legislativa— para encauzar conflictos y ampliar libertades.
+Como todo texto constitucional, su eficacia depende de la cultura política que la implemente: la reforma dio las llaves; nuestra tarea cívica es usarlas bien.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hola,aqui esta pulpo incógnito, pagale a víctor lo que le debes

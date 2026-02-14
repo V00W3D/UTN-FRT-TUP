@@ -1,0 +1,206 @@
+/* ==========================================================
+   🧭 ADMIN HOME — Panel de Administración (Neo Slime Dark)
+   ========================================================== */
+
+.admin-container {
+  min-height: 100vh;
+  background: radial-gradient(circle at 20% 10%, rgba(36, 224, 138, 0.06), transparent 35%),
+    radial-gradient(circle at 80% 90%, rgba(122, 247, 182, 0.03), transparent 40%),
+    linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(6, 8, 6, 0.9));
+  color: var(--color-text);
+  font-family: var(--font-main, "Poppins", sans-serif);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 4rem;
+  animation: fadeIn 0.6s ease-out both;
+}
+
+/* ==========================================================
+   🔹 NAVBAR PRINCIPAL
+   ========================================================== */
+
+.admin-navbar ul {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  list-style: none;
+  background: rgba(20, 20, 20, 0.7);
+  border: 1px solid var(--color-border);
+  border-radius: 48px;
+  padding: 0.75rem 1.6rem;
+  margin: 2.2rem 0;
+  box-shadow: 0 6px 30px rgba(36, 224, 138, 0.08);
+  backdrop-filter: blur(18px);
+}
+
+.admin-navbar li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  padding: 0.48rem 0.95rem;
+  border-radius: 28px;
+  cursor: pointer;
+  transition: var(--transition, all 0.3s ease);
+}
+
+.admin-navbar li:hover,
+.admin-navbar li.active {
+  background: linear-gradient(135deg, var(--color-accent-light), var(--color-accent));
+  color: #04120a;
+  box-shadow: 0 8px 22px rgba(36, 224, 138, 0.14);
+  transform: translateY(-2px);
+}
+
+.admin-navbar img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 6px rgba(36, 224, 138, 0.18));
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.admin-navbar li:hover img {
+  transform: scale(1.12);
+}
+
+/* ==========================================================
+   🔸 BOTONES DE MODO CRUD
+   ========================================================== */
+
+.crud-modes {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.8rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.crud-btn {
+  padding: 0.65rem 1.6rem;
+  border: none;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #f5f5f5;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 0 0 rgba(0, 255, 127, 0);
+}
+
+.crud-btn:hover,
+.crud-btn.active {
+  background: linear-gradient(135deg, #00ffaa, #00ff7f);
+  color: #000;
+  box-shadow: 0 0 18px rgba(0, 255, 127, 0.4);
+  transform: translateY(-1px);
+}
+
+/* ==========================================================
+   📊 TABLAS Y DATOS
+   ========================================================== */
+
+.data-table {
+  width: 100%;
+  max-width: 950px;
+  border-collapse: collapse;
+  background: rgba(15, 15, 15, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 20px;
+  overflow: hidden;
+  backdrop-filter: blur(18px);
+  margin-top: 1rem;
+  box-shadow: 0 0 25px rgba(0, 255, 127, 0.08);
+}
+
+.data-table th,
+.data-table td {
+  padding: 1rem 1.3rem;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.data-table th {
+  background: rgba(0, 255, 127, 0.12);
+  color: var(--color-accent-light, #00ffaa);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.data-table td {
+  color: #eaeaea;
+}
+
+.clickable-row {
+  transition: all 0.25s ease;
+  cursor: pointer;
+}
+
+.clickable-row:hover {
+  background: rgba(0, 255, 127, 0.1);
+  transform: scale(1.01);
+}
+
+/* ==========================================================
+   📦 SECCIONES DEL PANEL
+   ========================================================== */
+
+.admin-section {
+  width: clamp(320px, 82%, 980px);
+  background: rgba(12, 12, 12, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 20px;
+  padding: 2.2rem;
+  margin-bottom: 3.2rem;
+  box-shadow: 0 0 30px rgba(0, 255, 127, 0.12);
+  animation: fadeSlide 0.6s ease-out both;
+}
+
+.admin-section h2 {
+  text-align: center;
+  font-size: 1.9rem;
+  color: var(--color-accent-light, #00ffaa);
+  text-shadow: 0 0 10px rgba(0, 255, 127, 0.45);
+  margin-bottom: 1.8rem;
+  letter-spacing: 1.2px;
+}
+
+/* ==========================================================
+   🧠 INFO DE MODO / MENSAJES
+   ========================================================== */
+
+.mode-indicator {
+  margin-top: 1.4rem;
+  text-align: center;
+  font-weight: 500;
+  opacity: 0.8;
+  font-size: 0.95rem;
+}
+
+/* ==========================================================
+   ✨ ANIMACIONES
+   ========================================================== */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(25px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

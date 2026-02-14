@@ -1,0 +1,207 @@
+/* ==========================================================
+   🌸 SAKURA NAVBAR — Pink Pastel Theme
+   ========================================================== */
+
+/* Contenedor principal */
+.smooth-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+  padding: 1rem 0;
+  transition: background 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+  backdrop-filter: blur(25px);
+}
+
+/* Espacio para el contenido */
+body {
+  scroll-behavior: smooth;
+  padding-top: 80px;
+}
+
+/* 🌸 Fondo translúcido al scrollear */
+.smooth-navbar.scrolled {
+  background: rgba(255, 230, 238, 0.85);
+  box-shadow: 0 0 20px rgba(255, 182, 193, 0.25);
+  backdrop-filter: blur(25px);
+}
+
+/* Contenedor interno */
+.smooth-navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: min(90%, 1200px);
+  overflow: visible;
+}
+
+/* 🩷 Logo */
+.smooth-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.smooth-logo-img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.smooth-logo h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #6b4f4f;
+  letter-spacing: 1px;
+}
+
+/* 🍡 NAV BUTTONS */
+.smooth-nav {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0.6rem 2rem;
+  border-radius: 50px;
+  background: rgba(255, 240, 245, 0.7);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 192, 203, 0.5);
+  box-shadow: 0 0 25px rgba(255, 182, 193, 0.25);
+  position: relative;
+}
+
+/* Ítems */
+.smooth-nav-item {
+  position: relative;
+}
+
+/* Botones */
+.smooth-nav-btn {
+  position: relative;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6b4f4f;
+  cursor: pointer;
+  padding: 0.6rem 1rem;
+  border-radius: 25px;
+  background: transparent;
+  border: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* Fondo deslizante rosado (::before) */
+.smooth-nav-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #ffd6e0, #ffb6c1);
+  transform: translateY(100%);
+  border-radius: inherit;
+  z-index: 0;
+}
+
+/* Texto encima */
+.smooth-nav-btn span,
+.smooth-nav-btn {
+  position: relative;
+  z-index: 1;
+}
+
+/* Indicador rosado */
+.smooth-nav::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  height: 3px;
+  width: 0;
+  background: #ffb6c1;
+  border-radius: 50px;
+}
+
+/* Estado activo */
+.smooth-nav-btn.active::before {
+  transform: translateY(0);
+}
+
+.smooth-nav-btn.active {
+  color: #fff;
+  text-shadow: 0 0 5px rgba(255, 105, 180, 0.5);
+  box-shadow: 0 0 10px rgba(255, 182, 193, 0.4);
+}
+
+/* ==========================================================
+   💖 Animations & Interactive States
+   ========================================================== */
+
+.smooth-nav-btn:hover::before {
+  transform: translateY(0);
+}
+
+.smooth-nav-btn:hover {
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.smooth-nav-btn:active {
+  transform: scale(0.95);
+}
+
+.smooth-nav {
+  transition: all 0.3s ease;
+}
+
+.smooth-nav-btn {
+  transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease;
+}
+
+.smooth-nav-btn::before {
+  transition: transform 0.35s ease;
+}
+
+.smooth-nav::after {
+  transition: left 0.3s ease, width 0.3s ease;
+}
+
+/* ==========================================================
+   🌷 DROPDOWN — Sakura Style
+   ========================================================== */
+.smooth-dropdown {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 240, 245, 0.95);
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(255, 182, 193, 0.25);
+  border: 1px solid rgba(255, 192, 203, 0.5);
+  padding: 0.5rem 0;
+  backdrop-filter: blur(15px);
+  overflow: hidden;
+  min-width: 180px;
+  z-index: 10;
+}
+
+.smooth-dropdown-item {
+  padding: 0.6rem 1rem;
+  color: #6b4f4f;
+  cursor: pointer;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.smooth-dropdown-item:hover {
+  background: linear-gradient(135deg, #ffd6e0, #ffb6c1);
+  color: #fff;
+}

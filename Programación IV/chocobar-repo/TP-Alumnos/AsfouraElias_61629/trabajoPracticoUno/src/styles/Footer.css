@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    height: 300px;
+    border-top: 1px solid white;
+}
+
+.footer:hover {
+    box-shadow: 0 4px 15px rgb(150, 150, 150);
+}
+
+.footerItems{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    gap: 50px;
+}
+

@@ -1,0 +1,57 @@
+/* src/styles/Clientes.css */
+.card {
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  max-width: 400px;
+  margin: 0 auto 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+.card h2 {
+  color: #333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.form-cliente {
+  display: grid;
+  gap: 12px;
+}
+
+.form-cliente input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  width: 100%;
+}
+
+.form-cliente button {
+  background-color: #ff6584;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.form-cliente button:hover {
+  background-color: #e04870;
+}
+
+.card ul {
+  margin-top: 12px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.card ul li {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+  color: #555;
+}

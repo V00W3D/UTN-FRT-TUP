@@ -1,0 +1,21 @@
+[
+    {
+        "id_venta": "V0001",
+        "cliente": {
+            "id": "C0001",
+            "nombre": "pepito",
+            "DNI": "12345"
+        },
+        "productos": [
+            {
+                "id": "5",
+                "nombre": "Cocina Eléctrica 4 hornallas",
+                "cantidad": 5,
+                "P_Unitario": 110000
+            }
+        ],
+        "total": 0,
+        "tipo_pago": "Cheque",
+        "fecha": "2025-05-29 15:52:02"
+    }
+]

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./index.css">
+    <title>Clase 02 - CSS</title>
+</head>
+
+<body>
+   
+    <header>
+        <br>
+        <h1>Clase 02 CSS</h1>
+        <br>
+        
+        <h3 id="receta">Recetas de Cocina</h3>
+        <br>
+        <nav>
+            <a href="./Locro.html">Locro</a>
+            <a href="">Pollo</a>
+            <a href="">Empanadas</a>
+            <a href="#h3footer">h3footer</a>
+        </nav>
+        <hr>
+    </header>
+    <main id="main">
+        <br>
+        <img src="./asado.jpg" alt="no disponible">
+
+        <!-- existen 3 formas pde poner codigo css -->
+        <!-- estilo dentro del documento -->
+        <style>
+            img {
+                width: 400px;
+                height: 200px;
+            }
+        </style>
+        <br>
+        <p>El asado es una <strong>cultura</strong> gastronomica <span class="arg">argentina</span> </p>
+    
+        <h4 class="preparacion" id="prepa">Preparacion p/4 personas</h4>
+        <div class="lista">
+            <ol>
+                <li>carne premium wagyu 2kg 
+                </li>
+                <li>1/2 kg chorizos</li>
+                <li>sal</li>
+                <li>ensaladas</li>
+                <li>papas fritas </li>
+                <li>chimichanga</li>
+            </ol>
+        </div>
+        <br>
+        <button class="boton">soy un boton</button>
+        <br>
+        <!-- estilo en linea -->
+        <h4 style="font-family: monospace;color:fuchsia">hola</h4>
+        <h5>hola</h5>
+    </main>
+    <footer class="footer">
+        <hr>
+        <br>
+        <h3 id="h3footer">FRT UTN 2025</h3>
+        <br>
+        <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-square-facebook" id="facebook"></i></a>
+        
+        <br>
+        <br>
+    </footer>
+</body>
+
+</html>

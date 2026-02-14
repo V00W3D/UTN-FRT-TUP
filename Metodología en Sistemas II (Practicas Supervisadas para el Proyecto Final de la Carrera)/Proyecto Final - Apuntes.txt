@@ -1,0 +1,93 @@
+﻿Proyecto Final – Tecnicatura Universitaria en Programación (TUP) – UTN FRT (2025)
+Integrantes
+* Gallo Genaro
+* Navarro Víctor Leandro
+Introducción
+El Proyecto Final de la carrera Tecnicatura Universitaria en Programación (TUP) de la Universidad Tecnológica Nacional – Facultad Regional Tucumán (UTN-FRT) constituye la instancia integradora de la formación académica.
+Los estudiantes aplican en este trabajo los conocimientos adquiridos a lo largo de la carrera para el diseño, desarrollo, documentación y presentación de un sistema informático real, orientado a resolver una problemática concreta de un cliente.
+El cliente debe estar inscripto en ARCA (ex AFIP) bajo la condición de monotributista. Aún se encuentra en análisis la participación de personas jurídicas (empresas, cooperativas o sociedades).
+________________
+
+
+Autoridades y Supervisión
+* Profesora Ing. Nadia Petrelli: Responsable de las Prácticas Supervisadas del Proyecto Final, acompañando a los grupos en la elaboración de la documentación, la organización del trabajo y el visado de los entregables.
+* Ing. Videla: Responsable de la evaluación final del Proyecto, instancia donde los estudiantes presentan el sistema desarrollado.
+Dado el gran número de postulantes (aprox. 400), se decidió que la Profesora Petrelli actuará como intermediaria, validando previamente los proyectos antes de su presentación final ante la Ing. Videla.
+________________
+
+
+Estructura del Proyecto Final
+El Proyecto Final requiere la entrega de una Carpeta de Proyecto, que debe contener al menos los siguientes apartados:
+1. Historia y contexto del proyecto
+* Relato desde el primer contacto con el cliente.
+* Procesos de recolección de información.
+* Decisiones tomadas y justificación de las mismas.
+* Etapas de prueba e integración del sistema.
+2. Documentación del sistema
+* Explicación del contenido del software.
+* Código fuente documentado e indexado.
+* Flujo de datos representado gráficamente.
+* Diagrama de Gantt (calendario de actividades).
+3. Requisitos del sistema
+* Requerimientos de hardware.
+* Requerimientos de software.
+* Requisitos externos (ejemplo: conexión a internet).
+4. Manual de Usuario
+* Instrucciones claras para la correcta utilización del software.
+* Guía de capacitación para usuarios y personal administrativo.
+Rol de la Profesora Supervisora
+La Profesora Ing. Nadia Petrelli tiene a su cargo:
+* Dictar y supervisar las prácticas del Proyecto Final.
+* Asistir en la preparación de la documentación formal.
+* Revisar y visar los proyectos, habilitando a los estudiantes a la instancia final.
+* Asegurar que el mes previo al examen pueda destinarse solo a ajustes y correcciones menores.
+
+En síntesis, cumple la función de facilitadora, garantizando que los estudiantes lleguen al examen final con la documentación completa, lista para la defensa ante la Ing. Videla.
+________________
+
+
+Condiciones Académicas
+Para presentarse al Proyecto Final, los estudiantes deben cumplir con los siguientes requisitos:
+   * No poseer materias adeudadas ni pendientes.
+   * Tener aprobadas todas las asignaturas de la carrera.
+   * Estar formalmente inscriptos por las autoridades de la Facultad.
+________________
+
+
+Relación con la Ingeniería de Requisitos
+El Proyecto Final también debe apoyarse en la Ingeniería de Requisitos (IR), siguiendo modelos de estandarización como el IEEE 830.
+Este enfoque permite:
+   * Definir claramente el propósito y alcance del sistema.
+   * Especificar los requisitos funcionales (acciones que debe realizar el software).
+   * Establecer requisitos no funcionales (rendimiento, seguridad, disponibilidad, mantenibilidad, portabilidad).
+   * Documentar las interfaces de usuario, hardware, software y comunicación.
+
+👉 IR (Ingeniería de Requisitos): [Plantilla "Formato IEEE830"]
+________________
+
+
+Modelo de Carpeta del Proyecto Final
+Como referencia práctica, se recomienda guiarse por modelos ya desarrollados como la Carpeta Proyecto Pueble SA, que incluye:
+      * Resumen y presentación del proyecto.
+      * Objetivos y alcance.
+      * Estado del arte (comparación con otras soluciones similares).
+      * Planificación (actividades, tareas, tiempos, diagrama de Gantt).
+      * Recursos humanos y materiales.
+      * Desarrollo del proyecto (tecnologías, metodologías, flujo de trabajo).
+      * Testing y validación.
+      * Requerimientos de software y hardware (ERS).
+      * Manual de usuario y materiales complementarios.
+      * Apéndices y bibliografía.
+
+👉 Modelo de Carpeta del Proyecto Final: [Carpeta proyecto Pueble SA]
+
+
+
+
+Conclusión
+El Proyecto Final es la etapa culminante de la TUP, en la que se integran conocimientos técnicos, metodológicos y prácticos.
+El rol de la Profesora Ing. Nadia Petrelli es fundamental, ya que acompaña a los estudiantes en la construcción de la carpeta, la documentación técnica y la preparación para la defensa final ante la Ing. Videla.
+Con este marco, los estudiantes disponen de una base sólida para:
+         * Desarrollar el sistema solicitado.
+         * Documentarlo correctamente bajo normas y modelos reconocidos.
+         * Presentar un proyecto profesional, claro y completo.

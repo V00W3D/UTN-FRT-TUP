@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Editar perfil</title>
+  <link rel="stylesheet" href="./css/chat.css">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer></script>
+  <script type="module" src="./src/editar_user.js"></script> 
+</head>
+<body>
+  <main style="max-width: 600px; margin: 2rem auto; background: #1a1a1d; padding: 2rem; border-radius: 12px;">
+    <h2 style="color: #ff4d4d;">Editar Perfil</h2>
+
+    <p><strong>Nombre actual:</strong> <span id="nombre-actual">...</span></p>
+    <p><strong>Imagen actual:</strong></p>
+    <img id="imagen-actual" src="./img/default.png" alt="Actual" style="width: 80px; border-radius: 8px;" />
+
+    <form id="editar-form" style="margin-top: 2rem;">
+      <label for="nombre">Nuevo nombre:</label><br>
+      <input type="text" id="nombre" required style="width: 100%; padding: 0.5rem; margin-bottom: 1rem;"><br>
+
+      <label for="imagen">URL de nueva imagen:</label><br>
+      <input type="text" id="imagen" placeholder="https://..." style="width: 100%; padding: 0.5rem;"><br><br>
+
+      <button type="submit" style="padding: 0.6rem 1.2rem; background-color: #ff4d4d; border: none; color: white; border-radius: 8px; font-weight: bold; cursor: pointer;">
+        Guardar cambios
+      </button>
+    </form>
+
+    <hr style="margin: 2rem 0; border-color: #333;">
+
+    <h3 style="color: #ccc;">Vista previa:</h3>
+    <p><strong>Nombre (chat):</strong> <span id="nombre-chat"></span></p>
+    <img id="imagen-chat" src="./img/default.png" alt="Previa" style="width: 60px; border-radius: 8px;" />
+
+    <p><strong>Nombre (otra vista):</strong> <span id="nombre-previa"></span></p>
+    <img id="imagen-previa" src="./img/default.png" alt="Previa" style="width: 60px; border-radius: 8px;" />
+  </main>
+</body>
+</html>

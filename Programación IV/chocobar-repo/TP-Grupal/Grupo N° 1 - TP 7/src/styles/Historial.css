@@ -1,0 +1,74 @@
+/* Contenedor principal */
+.historial-container {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+/* Título */
+.historial-container h2 {
+  color: #007bff;
+  margin-bottom: 1.5rem;
+}
+
+/* Lista de historial */
+.historial-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Item de historial */
+.historial-item {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 12px 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+  transition: background-color 0.2s;
+}
+
+.historial-item:hover {
+  background-color: #f1f1f1;
+}
+
+/* Texto dentro de cada item */
+.historial-item span {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+/* Botones dentro del historial */
+.historial-item button {
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-left: 5px;
+}
+
+.historial-item .btn-secondary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.historial-item .btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+/* Mensajes vacíos */
+.empty-message {
+  text-align: center;
+  padding: 20px;
+  color: #555;
+  font-style: italic;
+}

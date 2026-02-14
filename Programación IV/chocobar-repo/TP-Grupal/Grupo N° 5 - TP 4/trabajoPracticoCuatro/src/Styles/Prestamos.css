@@ -1,0 +1,114 @@
+/* Contenedor principal */
+.card {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+/* Barra superior */
+.toolbar {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 8px;
+}
+.toolbar .left { justify-self: start; }
+.toolbar .center { justify-self: center; display: flex; gap: 8px; }
+.toolbar .right { justify-self: end; }
+.toolbar input { padding: 6px 8px; border: 1px solid #ddd; border-radius: 8px; }
+.toolbar select { padding: 4px 6px; border-radius: 6px; }
+
+.icon-btn {
+  border: none;
+  border-radius: 10px;
+  padding: 8px 10px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 600;
+  min-width: 38px;
+}
+.icon-btn.success { background: #2e7d32; }
+.icon-btn.danger { background: #e53935; }
+.icon-btn.info   { background: #1976d2; }
+
+/* Tabla */
+.table-wrap { overflow: auto; }
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.table th, .table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+}
+.table thead th {
+  position: sticky;
+  top: 0;
+  background: #f7f7f9;
+  z-index: 1;
+  text-align: left;
+  font-weight: 700;
+}
+.text-uc { text-transform: uppercase; }
+
+.empty { text-align: center; color: #888; }
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 12px;
+  border-radius: 999px;
+  font-weight: 700;
+}
+.badge.ok { background: #e0f2f1; color: #00695c; }
+.badge.warn { background: #fff3e0; color: #e65100; }
+
+/* Acciones por fila */
+.row-actions { display: flex; gap: 8px; }
+.mini-btn {
+  border: none;
+  border-radius: 10px;
+  padding: 6px 8px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+}
+.mini-btn.warn { background: #ffe0b2; }
+.mini-btn.danger { background: #ffcdd2; }
+
+/* Pie y paginación */
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #444;
+  font-size: 14px;
+}
+.pager { display: flex; align-items: center; gap: 8px; }
+.pg-btn {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.pg-btn:disabled { opacity: .5; cursor: default; }
+.pg-page {
+  min-width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #f0f0f2;
+<<<<<<< HEAD:TP-Grupal/Grupo N° 9/trabajoPracticoCuatro/src/Styles/Prestamos.css
+  font-weight: 700;
+}
+=======
+  font-weight: 700;}
+>>>>>>> 028ba0bbcd27d1058ed2a66ae5948b7d1d9158f5:TP-Grupal/Grupo N° 5 - TP 4/trabajoPracticoCuatro/src/Styles/Prestamos.css

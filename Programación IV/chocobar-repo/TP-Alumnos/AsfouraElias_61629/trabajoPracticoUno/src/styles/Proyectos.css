@@ -1,0 +1,53 @@
+.ProyectosBox {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    margin: 30px;
+    gap: 30px;
+}
+
+.CardProyectos {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+}
+
+.CardProyectos h3 {
+    width: 300px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.imgProyecto {
+    width: 400px;
+    filter: blur(0.5px);
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.imgProyecto:hover {
+    box-shadow: 0 4px 15px rgb(150, 150, 150);
+    transform: scale(1.05);
+}
+
+.links {
+    color: aliceblue;
+    font-weight:700; 
+    border: 1px solid white; 
+    background-color: black;
+    border-radius:10px; 
+    display: flex; 
+    justify-content: center;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.links:hover {
+    box-shadow: 0 4px 15px rgb(150, 150, 150);
+    transform: scale(1.02);
+}
